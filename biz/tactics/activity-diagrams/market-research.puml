@@ -1,0 +1,23 @@
+@startuml
+
+title Market Research Tactics
+
+start
+:Determine target demographics;
+
+partition CustomerModels {
+  :Prepare engagement material;
+  repeat
+    fork
+      :Engage;
+    fork again
+      :Mine social data;
+    end fork
+    backward :Refine models/engagement material;
+  repeat while (Needs refinement?)
+  ->No;
+  :Produce ordered list of problems,
+  biggest problems first;
+}
+end
+@enduml
