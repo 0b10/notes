@@ -635,11 +635,6 @@ ISBN-10: 1491950358
 
 * central aggregation from multiple services 
 
-### 12: Bringing It All Together
-
-* Each of the following subheadings are important principles for building microservice architectures
-  * you are encourages to define your own principles too
-
 #### p272: Logs, Logs, and Yet More Logs...
 
 * logstash is a specialised system for centralise log system
@@ -808,6 +803,12 @@ ISBN-10: 1491950358
   * there are small windows where more than one worker may pick up the same message - but idempotence ensures this isn't a big issue 
 * http verbs (GET,PUT etc.) are considered idempotent, which means you should use/design them in an idempotent manner 
   * user expect that multiple calls do not result in multiple results
+
+### 12: Bringing It All Together
+
+* Each of the following subheadings are important principles for building microservice architectures
+  * you are encourages to define your own principles too
+
 
 #### p413: Model Around Business Concepts
 
