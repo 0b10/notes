@@ -1,0 +1,95 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid
+endlegend
+
+title Core Concepts
+
+*[#lightgreen] Core Concepts
+
+' === FAILURE === '
+** Failure
+*** Doesn't meet customer needs
+*** No product-market fit (PMF)
+
+' === VALUE === '
+** Value
+*** Creating value
+**** Product
+*** Capturing value
+****:Business model, marketing
+customer acquisition; pricing etc..;
+
+** Be lean
+
+' === MARKET === '
+** Market
+***:A set of customers
+with the same needs;
+*** Market share
+**** Competitors
+***** Forms segments
+***** Market share
+******_ % customers
+**** Number of customers
+**** Total market revenue
+*** Needs
+**** Avoid happy markets
+**** Solve problems / innovate
+*****[#FAF] Feature set
+***** New market
+**** Does the competition have PMF?
+
+left side
+
+' === PRODUCT === '
+** Product / Solution
+***[#FAF] Value proposition
+****:How well your product
+fits the market needs;
+****:Formed by the set of needs
+your product aspires to meet;
+*** Identify market needs
+*** Rework
+**** Revisions / fixing
+**** Minimise
+***** Reach PMF quick
+****** Rigor
+****** Quick thinking
+*****_ unavoidable with iterations
+*** Judged harshly against competition
+' strategy '
+*** Product strategy
+****:How your product will be
+better than the competition;
+**** How each market need is met
+' users '
+*** Users
+****[#FAF] UX
+*****_ the only thing they see/feel
+' mvp '
+*** MVP
+****_ can apply to v1,v2 etc..
+
+
+
+
+
+
+' === FRAMEWORK === '
+** Framework
+***[#yellow] PMF Pyramid
+**** Layers
+***** Are testable hypotheses
+***** Depend on lower layers
+******_ UX > Feature Set;
+***[#lightblue] Lean Product Process
+
+
+
+@endmindmap
