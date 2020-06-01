@@ -12,21 +12,6 @@ title Core Concepts
 
 *[#lightgreen] Core Concepts
 
-' === FAILURE === '
-** Failure
-*** Doesn't meet customer needs
-*** No product-market fit (PMF)
-
-' === VALUE === '
-** Value
-*** Creating value
-**** Product
-*** Capturing value
-****:Business model, marketing
-customer acquisition; pricing etc..;
-
-** Be lean
-
 ' === MARKET === '
 ** Market
 ***:A set of customers
@@ -45,7 +30,61 @@ with the same needs;
 ***** New market
 **** Does the competition have PMF?
 
+** Spaces
+*** Solution space
+**** Feedback is easier in this space
+**** Tangible
+**** Don't be too eager
+***** Pencil > Space Pen
+***** Problem space first
+****[#FAF] UX
+****[#FAF] Feature set
+**** MVPs, prototypes, design, products..
+' problem space '
+*** Problem space
+**** Defines markets
+**** You can use feedback from solution space
+**** Needs, desires, wants..
+***** Requirements
+****:Fully understand before formulating
+any "solution space" ideas;
+***** Simple, common, existing solutions?
+******_ e.g. pen and paper
+**** Be abstract
+*****_ a <s>pen</s> note recording method
+**** Methods
+***** Contextual inquiry
+****** Interviews
+****** Observation
+******* Existing solutions
+****** Questionnaire
+****[#FAF] Value proposition
+****[#FAF] Underserved needs
+****[#FAF] Target customer
+
 left side
+
+' === FAILURE === '
+** Failure
+*** Doesn't meet customer needs
+*** No product-market fit (PMF)
+
+' === VALUE === '
+** Value
+*** Creating value
+**** Product
+*** Capturing value
+****:Business model, marketing
+customer acquisition; pricing etc..;
+
+** Be lean
+
+' === APPROACH === '
+** Approach
+*** Inside out
+**** Product first
+*** Outside in
+**** Customer first
 
 ' === PRODUCT === '
 ** Product / Solution
@@ -75,11 +114,6 @@ better than the competition;
 ' mvp '
 *** MVP
 ****_ can apply to v1,v2 etc..
-
-
-
-
-
 
 ' === FRAMEWORK === '
 ** Framework
