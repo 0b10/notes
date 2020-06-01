@@ -1,2 +1,3 @@
 
-[Core concepts](dev/interactive-design/the-lean-product-playbook/mindmaps/core-concepts.mm.png?raw=true)
+# Mindmap Images
+* [Core concepts](core-concepts.mm.png?raw=true)
