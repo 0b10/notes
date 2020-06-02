@@ -1,0 +1,177 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid
+endlegend
+
+title Lean Product Process: Identifying Underserved Customer Needs
+
+*[#lightgreen] Underserved Needs
+** Problem space
+*** Understand
+**** Essential
+**** Deeply
+*** Validate
+*** Sample size
+****:Small is good enough,
+but be careful;
+***** This is where you will start
+**** Large reduces errors
+
+** Customer
+*** Needs
+**** Hypothesis
+***** Start here
+**** Presentation
+***** Written in the first person
+****** Aka Benefits
+***** Starts with a verb -- help, reduce etc.
+***** Conveys value for the customer
+**** Are multi-layered opinions
+***** Use a framework
+****** Data driven
+****** Relying on opinions directly can be dangerous
+***** Dig deeper
+**** Dependencies
+***** Hierarchical
+****** Pyramid diagram
+******_ UI > features
+******_ availability/uptime > features
+****** Address lower levels first
+***** Some needs depend on others
+**** Goals / Pain points
+**** User stories
+*****:I am a _,
+I want to _,
+so that _;
+**** Sometimes not explicitly stated
+****:Sometimes they don't know
+until it's presented;
+*** Good at
+**** Likes / dislikes of solutions
+*** Bad at
+**** Articulating needs
+
+' === CONCLUSIONS === '
+** Conclusions
+*** Framework
+****[#lightblue] Importance vs Satisfaction
+***** Value delivered = importance * satisfaction
+******_ area of the scatter plot
+***** Opportunity = importance * (1 - satisfaction)
+****** Opportunity = importance - Current Value Delivered
+*******_ alternative
+****** Calculates the area to the right
+******* Negation indicates the location
+******* Larger area means point is further left
+******_ focus on higher importance features instead
+***** Value delivered = importance * (satisfaction before - satisfaction after)
+****** the satisfaction gain
+***** Scatter plot with quadrants
+****** Customer data
+****** Disruptive technology
+******* Upper left
+******* Increasing X scale
+********:Delivers more value to
+an already satisfied customer;
+***** Uses
+****** Product features
+****** Competition features
+****** Determines opportunity
+***** Getting started
+****** Sample size zero
+******* Plot hypotheses
+******** Needs
+******** Refine after testing
+****[#lightblue] Gap analysis
+***** Strength
+****** Produces a single number
+***** Weakness
+****** Treats all identical gaps as the same 
+***** Gap = importance - satisfaction
+****** Can be negative
+****** Larger gaps mean more underserved needs
+****[#lightblue] Jobs to be Done
+***** Opportunity score = importance + Max(importance - satisfaction, 0)
+***** Is never negative
+***** Importance place a key factor
+****** When two needs have the same gap, importance separates them
+***** Scores
+****** > 15
+******* Attractive
+****** < 10
+******* Unattractive
+****[#lightblue] Kano model
+***** Needs
+****** Are dependent hierarchically
+****** 1. Must-have needs
+******* Seatbelts / safety features
+******* Won't buy if it doesn't have
+****** 2. Performance needs
+******* Fuel efficiency / speed etc.
+****** 3. Delighters
+******* Unexpected benefits
+******* Features that exceeds customer's expectations
+
+left side
+
+** Solution space
+*** Iterate
+**** Peel the layers of the onion off
+**** Final solution is often elegant
+**** Don't stop
+
+** Customer discovery interview
+*** Mirror / repeat answers back
+*** Aka Context Inquiry
+*** Conditional branching
+*** Language
+****[#lightblue] Laddering
+***** Discovers related, high-level benefits/needs
+***** Psychology / marketing tool
+***** Can converge
+****** Root, common benefit/need
+*******_ between customers
+***** Similar to "The Five Whys"
+******_ iterative "why?"
+**** Semantics is what matters
+*****:"It's much less hassle" and
+"I like how it checks for errors"
+could mean the same thing;
+*** Questions
+**** Satisfaction
+***** Can compare to competitors
+***** Use a scale
+******:You can remap numerical values
+to make statistical calculations easier;
+****** Unipolar
+******* 0-100
+****** Bipolar
+******* -/+ e.g. -100 to 100
+******* Good for satisfaction questions
+******* -ve is unsatisfied
+****** Can be textual: "very/not very" etc..
+******* Bipolar
+******** Optimally 7 choices
+******* Unipolar
+******** Optimally 5 choices
+*** Hypothesis
+**** "I think that.."
+**** Test by asking
+**** Needs
+***** Ask a set of questions for each
+****** Create a table of answers
+**** Share with customer
+*** Aims
+**** Test hypothesis (needs/benefits)
+***** Are they defined clear?
+***** How valuable are they?
+***** Why they are valuable
+****** Very significant
+***** Why they aren't valuable
+
+@endmindmap

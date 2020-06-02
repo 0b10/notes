@@ -1,5 +1,4 @@
-
-# Mindmaps
+# Mindmaps 
 
 ## Part I: Core Concepts
 
