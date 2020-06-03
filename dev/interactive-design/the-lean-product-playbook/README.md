@@ -2,9 +2,9 @@
 
 ## Chapter 4: Identifying Underserved Customer Needs
 
-* [Frameworks](notes/customer-discovery-frameworks.notes.md)
-* [Mindmap](mindmaps/lean-product-process/4-identifying-underserved-needs.mm.png?raw=true)
-* [Activity Diagram](mindmaps/lean-product-process/4-identifying-underserved-customer-needs/activity-diagram.png?raw=true)
+* [Frameworks](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md)
+* [Mindmap](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/mindmap.png?raw=true)
+* [Activity Diagram](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/activity-diagram.png?raw=true)
 
 **Summary**
 
