@@ -5,6 +5,7 @@
 * [Frameworks](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md)
 * [Mindmap](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/mindmap.png?raw=true)
 * [Activity Diagram](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/activity-diagram.png?raw=true)
+* [Laddering Notes](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/laddering.notes.md)
 
 **Summary**
 

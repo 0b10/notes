@@ -27,7 +27,7 @@ Example
 </summary>
 Top-left is high opportunity -- high importance and low satisfaction
 
-![Opportunity](../images/importance-vs-satisfaction-example.png?raw=true)
+![Opportunity](importance-vs-satisfaction-example.png?raw=true)
 
 </details>
 
@@ -54,6 +54,6 @@ Uses a hierarchy of needs:
 Example
 </summary>
 
-![Kano Model](../images/kano-model-framework.png?raw=true)
+![Kano Model](kano-model-framework.png?raw=true)
 
 </details>
