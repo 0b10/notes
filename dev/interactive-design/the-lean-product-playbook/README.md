@@ -1,3 +1,8 @@
+# Key Takeaways
+
+* Start with meeting market needs, not an idea/solution
+* Use a data driven approach to measure customer satisfaction
+
 # Part II: The Lean Product Process
 
 ## Chapter 4: Identifying Underserved Customer Needs
