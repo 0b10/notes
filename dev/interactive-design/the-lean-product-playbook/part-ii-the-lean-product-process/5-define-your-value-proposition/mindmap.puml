@@ -1,0 +1,67 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid
+endlegend
+
+title Lean Product Process: Define Your Value Proposition
+
+*[#lightgreen] Value proposition
+** Needs
+
+***[#yellow] Kano model
+**** Competition
+***** Must match (be even) on..
+****** Must-haves
+****** Most important performance benefits
+**** Categories
+***** Must-haves
+****** Non-negotiable
+***** Performance benefits
+****** Most important
+****** Win with the need that matters most
+***** Delighters
+****** Important
+****** Not most important
+****** Unique
+******_ A benefit, not a feature
+
+*** Classify in the context of competitors
+*** How to determine
+**** Say "no" a lot
+**** Likely to later discover new needs
+**** Focus is critical
+***** Smaller scope
+***** MVP
+***** Reduces risk
+****** Resource wastage
+****** Hypotheses could be wrong
+***** High importance and low satisfaction needs
+
+left side
+
+** Is the addressed needs
+
+**:Few companies clarify the
+value proposition;
+***_ Advantage
+
+** Be strategic
+*** Project where the market is going
+****_ mobile phones > portable video cameras
+
+** Customer
+*** Behaviour
+**** Changing it is always very difficult
+
+**[#lightblue] Value Proposition Template
+*** Value proposition
+**** The column that contains your product
+*** Product strategy
+**** Make future projections for each product owner
+
+@endmindmap
