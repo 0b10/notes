@@ -5,6 +5,41 @@
 
 # Part II: The Lean Product Process
 
+## Chapter 3: Determine Your Target Customer
+
+* [Mindmap](part-ii-the-lean-product-process/3-determine-your-target-customer/mindmap.png?raw=true)
+* [Adoption Life-cycle Notes](part-ii-the-lean-product-process/3-determine-your-target-customer/adoption-lifecycle.notes.md)
+* [Persona Template](part-ii-the-lean-product-process/3-determine-your-target-customer/persona-template.notes.md)
+
+## Summary
+
+You must target a specific market - a group of potential customers with specific attributes -- called a market segment. Understand your customer's profile (needs, wants, attributes) and model them early.
+
+To model them you would use personas. Personas allow you to capture your hypotheses in a more tangible form. Personas are not real people, but are based on individual real customers, and are never an average or generalised profile.
+
+Personas can be derived from data captured through interviews or surveys. Another source for personas can be the "technology adoption lifecycle framework". You should understand the development stage your product is in, and the kind of customer it's likely to attract -- via the aforementioned framework.
+
+* The target customer
+  * Product development should be driven by the customer's needs
+* Market
+  * Markets are groups of people bound by some common attributes - demographics, psychographics, behavioural characteristics, and needs.
+    * The business equivalent of demographics is firmographics
+  * Market segmentation occurs around common attributes of customers
+  * Determine a market segment to target -- this may require higher level reasoning outside the scope of this book
+  * The economic buyer may not be the person using the product, and the user may influence the economic buyer
+* Technology adoption lifecycle
+  * A simple framework for understanding customer personalities, relative to new technology adoption
+  * Understand what stage your product is in, and determine who will typically be adopting it
+* The technology adoption lifecycle is a simple framework 
+* Personas
+  * Used early to capture hypotheses about the target customer
+  * Represents real people, not averages -- hypothetical archetypes of actual users
+  * Iterate until they are accurate -- pragmatic
+  * Use a template and fit it on a single page
+  * Capture attributes like demographics, psychographics, behavioural, and needs
+  * You can source information from interviews or surveys
+
+
 ## Chapter 4: Identifying Underserved Customer Needs
 
 * [Frameworks](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md)
@@ -12,7 +47,7 @@
 * [Activity Diagram](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/activity-diagram.png?raw=true)
 * [Laddering Notes](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/laddering.notes.md)
 
-**Summary**
+## Summary
 
 Initially, you will make a guess at a set of hypotheses. You will then derive a set of customer benefits, prepare questions, and conduct an interview.
 
