@@ -7,6 +7,8 @@
 * Use iterative interviews/surveys to dig deeper
 * Define the product value proposition as a list of needs to be addressed
 * Focus on a small set of the most important needs, reducing risk -- say "no" lots.
+* The goal of an MVP is quick development, and fast feedback. You can test if an idea will take off, and minimise cost and risk if it does not
+* Selecting features for an MVP is a balance between high opportunity (demand) features, and cost of implementation -- it's a measured and purposeful process
 
 # Part II: The Lean Product Process
 
@@ -126,3 +128,75 @@ Use the [value proposition template][value-proposition-template] to clarify your
 
 [kano-model]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/kano-model-framework.png
 [value-proposition-template]: part-ii-the-lean-product-process/5-define-your-value-proposition/value-proposition.template.md
+
+## Chapter 6: Specify Your MVP Feature Set
+
+* [Mindmap](part-ii-the-lean-product-process/6-specify-mvp-feature-set/mindmap.png?raw=true)
+* [Activity Diagram][mvp-features-activity-diagram]
+* [Prioritised Feature Chunk Table][prioritised-feature-chunk-table]
+
+
+### Summary
+
+You first want to focus on a subset of features from the value proposition. You will use the chosen features in a brainstorming session, and formalise them in user stories -- this makes them testable with user acceptance testing, and keeps them clear.
+
+Next you will "chunk" the user stories into smaller scope, which decreases the risk due to a smaller scope and faster feedback time. It's also easier to understand and estimate smaller stories. A priority should be assigned to each chunk, either a customer derived importance statistic, or a developer projected user importance rating. Chunking only stops when all chunks are atomic.
+
+You will then process them by categorising them by their associated benefit, accept or reject them based on their feasibility, and prioritise them via an ROI. Once you have processed them you are to select the top 3-5 priority stories per benefit -- considering any dependencies.
+
+Finally you will organise all of the features in terms of their priority, and category in a ["prioritised feature chunk table"][prioritised-feature-chunk-table]. All of the must-haves, the top performance benefit, and the top delighter will form the features for the MVP.
+
+* User stories
+  * Used the capture features in brainstorming sessions
+  * Keeps customer benefits clear, and discrete
+  * Testable via user acceptance testing
+  * INVEST: independent, negotiable, valuable, estimable, small, testable
+* Priorities
+  * User define importance assigned to each benefit -- through data collection
+  * Projected user defined value, assigned by the developer
+  * ROI - derived from value/cost, where the value is projected customer value, or actual customer importance, and cost is any relevant metric -- like story points, time, revenue etc.
+* Brain storming
+  * Use divergent thinking - get ideas down, don't worry about viability (within reason) or cost etc.
+  * Produce a number of ideas per benefit
+  * Address each benefit
+  * Capture ideas in the form of user stories
+* Story points
+  * A value that estimates the cost of implementing a certain story
+  * Assigned story points over a certain threshold means the story is chunked
+* Chunking
+  * Subdivide large stories into smaller stories
+  * Reduces the scope
+  * Makes them easier to reason about and estimate
+  * Faster feedback, reduces the risk
+  * Assign priorities and scope to each new chunk
+* Capture/Process
+  * Review: are they viable?
+  * Score: user story points - which convey the difficulty of implementing the feature
+  * Organise: arrange ideas with their associated benefit
+  * Prioritise: this is ROI = value/cost, which is ratio between the customer value and the cost of implementation -- time or development cost, like story points. Any metric can be used for the cost.
+* [Prioritised feature chunk table][prioritised-feature-chunk-table]
+  * Based on the [Kano model][kano-model], and used must-haves, performance, benefits, and delighters
+  * Each benefit has a number of features/user stories associated with it
+  * Features/user stories are assigned a priority, and features/stories of high priority align to the left
+  * It's important to use an adequate metric for priority -- ROI is a good candidate
+
+### Notes
+
+What I don't like about this process: brainstorming, chunking, and processing features that are of lower customer importance.
+
+Since you will have the data, a more efficient approach would be to select only the necessary features of the highest customer importance, before processing.
+
+Using the [Kano model][kano-model], choose:
+* Must-haves
+* Most important performance benefit
+* Most important delighter
+
+However, this has some drawbacks:
+
+1. You won't get a high level overview of all the features, their scope, and priority
+1. The prioritised feature chunk table will organise features based on their customer value, and cost of implementation -- which means lower priority features will naturally not be implemented first.
+
+This idea means less up-front planning, so less risk when needs inevitably change, but it also means a smaller overall picture.
+
+[mvp-features-activity-diagram]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/activity-diagram.png?raw=true
+[prioritised-feature-chunk-table]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/prioritised-feature-chunk-table.notes.md

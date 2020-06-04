@@ -1,0 +1,79 @@
+@startuml
+
+title Lean Product Process: Specify Your MVP Feature Set
+
+start
+
+partition Brainstorming {
+  while (All benefits covered?) is (No) 
+    :Generate ideas as user stories;
+    note right
+      * use divergent thinking
+      * multiple ideas per benefit
+    end note
+  end while
+}
+
+->User stories;
+
+partition Chunking {
+  while (All stories atomically chunked?) is (No)
+    :Select story to be chunked;
+    repeat: Chunk
+      :Scope chunks;
+      note right: assign story points
+      :Assign priorities to each chunk;
+      note right
+        * projected customer value
+        * actual customer importance value
+      end note
+    repeat while(All chunks are atomic?) is (No)
+    ->Yes;
+  end while
+}
+
+->Chunked user stories;
+
+partition Process {
+  :Categorise user stories by benefit;
+  while (All benefits processed?) is (No)
+    :Select benefit;
+    :Accept/reject related stories;
+    note right: feasibility
+    :Assign ROI to related stories;
+    note right
+      * value / time
+      * value / story points
+      * value / any relevant metric
+    end note
+  end while
+  :Select top 3-5 features/stories per benefit;
+  :Select any dependencies;
+}
+
+->Chosen user stories;
+floating note right
+  Lots of different ideas for each benefit
+  will exist, that's okay. A prioritised
+  feature chunk table will determine which
+  ideas will be chosen.
+end note
+
+partition MVPCandidate {
+  :Create prioritised feature chunk table;
+  note right
+    * base on Kano model
+    * feature chunk -- aka user story
+  end note
+  :Choose all must-haves;
+  :Choose top performance benefit;
+  note right: highest customer importance
+  :Choose top delighter;
+  note right: highest customer importance
+}
+
+->MVP candidate feature set;
+
+stop
+
+@enduml

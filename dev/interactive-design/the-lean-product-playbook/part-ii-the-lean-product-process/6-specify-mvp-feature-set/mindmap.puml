@@ -1,0 +1,115 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid
+endlegend
+
+title Lean Product Process: Specify Your MVP Feature Set
+
+*[#lightgreen] MVP Feature Set
+
+** Solution space
+*** Iteration
+**** Prototype feedback
+**** Changes a lot
+*** Brain storming
+**** Capture
+***** Organise ideas related to benefits addressed
+***** Review
+****** Applicable? Possible?
+****** Score
+******* Customer perspective of value
+******* Acts as a priority
+******* Identify top 3-5 ideas
+******** Prototype will iterate quickly
+**** Divergent thinking
+***** No judgements
+***** Free flow of ideas
+***** Lots of ideas, short space of time
+***** Abundance of ideas
+**** Each benefit
+
+** ROI
+*** ROI = value / time
+**** ROI
+***** Any relevant metric
+***** Customer value delivered
+***** Revenue
+**** Value
+***** Any relative value
+***** Perceived customer value
+***** Business value
+*** Calculated after chunking
+*** Is a second round of prioritisation
+*** Inputs are a guess
+*** Lower ROI features might be crucial components
+
+** Candidate
+*** Feedback
+**** Iteration likely to happen
+**** Don't plan too far ahead
+***** 2-3 minor versions
+*** After
+**** Chunking
+**** Scoping
+**** Prioritisation
+***** ROI
+***[#lightblue] Prioritised feature chunk table
+**** Leftmost column is highest priority
+*** Should include
+**** Must-haves
+**** Most important performance benefit
+**** Top delighter
+
+left side
+
+** User stories
+*** Helps keep customer benefits clear
+*** For chosen top features
+*** INVEST
+**** Independent
+***** Stories don't overlap
+**** Negotiable
+***** Open to discussion
+**** Valuable
+***** To the customer
+******_ addresses a need
+**** Estimable
+***** Scope
+***** Time
+**** Small
+***** More reasonable
+***** Easier to understand
+**** Testable
+***** Acceptance testing
+*** Chunking
+**** Best practice
+**** Smaller scoped stories
+**** Each feature
+***** Break it up
+****** Story points
+******* Assign points based on size/difficulty
+******* Stories > Threshold are broken up
+****** Feature chunks
+******* Faster feedback
+******* Can change / be rejected etc.
+******* Reduces risk
+****** Reduce scope
+****** Essential sub-features
+****** Atomic
+******_ photo sharing feat => 1.twitter / 2.facebook 3...
+
+
+** Value proposition
+*** Pick a subset of features
+**** Absolute minimum required
+**** less risk
+**** MVP candidate
+***** Validates that he products work
+***** Not a full MVP until validated
+
+@endmindmap
