@@ -1,7 +1,8 @@
 # Key Takeaways
 
 * Start with meeting a target market needs, not an idea/solution
-* Use a data driven approach to measure customer satisfaction
+* Make/refine hypotheses based on data, then test is
+  * Use a data driven approach to measure customer satisfaction
 * Iteratively model your customer with personas, express your hypotheses
 * Deeply understand the customer needs, and be very pragmatic.
 * Use iterative interviews/surveys to dig deeper
@@ -200,3 +201,65 @@ This idea means less up-front planning, so less risk when needs inevitably chang
 
 [mvp-features-activity-diagram]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/activity-diagram.png?raw=true
 [prioritised-feature-chunk-table]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/prioritised-feature-chunk-table.notes.md
+
+## Chapter 7: Create Your MVP Prototype
+
+* [Mindmap](part-ii-the-lean-product-process/7-create-your-mvp-prototype/mindmap.png?raw=true)
+* [Activity Diagram](part-ii-the-lean-product-process/7-create-your-mvp-prototype/activity-diagram.png?raw=true)
+* [MVP Pyramid][mvp-pyramid]
+* [Test Categorisation](./part-ii-the-lean-product-process/7-create-your-mvp-prototype/test-categorisation.md)
+
+### Summary
+
+The goal is to initially test market interest in your specific product, its value proposition, and to improve engagement/conversions. Then to iteratively test UX design, until you reach an MVP that suitably attracts interest, and satisfies customer UX needs. To get there, you will need to employ a data-driven approach, with a good balance between qualitative and quantitative sources.
+
+#### Start with Marketing Validation
+
+To start, quantitative data can be collected from marketing materials like landing pages (aka smoke test), crowdfunding engagement, ad campaigns, explainer/product videos. The value proposition should be clear in all cases. To get useful data you should track engagement, from which you will iteratively test new designs/approaches. This whole process should give you insights into interest for the product.
+
+Qualitative data can also be collected from marketing material like landing pages, with methods like the "5 second test". Qualitative data gives you valuable opinions, and direction for new ideas to increasing engagement and interest.
+
+#### Then Move Onto Product Validation
+
+Once you have validated market interest, and your marketing approach, you can move onto product (UX) validation which is all about ensuring the customer sees value.
+
+To validate the UX you should start with a low fidelity prototype, and rapidly iterate on designs moving up in fidelity towards an eventual live product -- the MVP. For each phase you should collect qualitative and quantitative data.
+
+Qualitative data consists of things like customer opinions, and are collected via methods like -- sketches, wireframes, mockups, interactive prototypes, and the Wizard of Oz technique.
+
+Quantitative data can be collected through A/B testing, product analytics, and the fake door technique. Each of which allow you to test engagement in designs, and the effects of changes on key performance metrics -- such as conversion rate.
+
+Eventually you will reach the live product phase, which tests real issues such as latency, load performance, response times etc. The end goal for the live product is to have developed a suitable and complete UX for a **minimum feature set** -- see the [MVP pyramid][mvp-pyramid].
+
+* Deliverable
+  * The revised prototype/product, delivered to the customer
+* Goals
+  * Test/improve market interest
+  * Test/improve UX
+  * Attain feedback
+  * Product-market fit
+* Methods
+  * Low fidelity
+    * Low risk
+    * Quick iterations and thus quick feedback
+    * Hand sketch, wireframes, mockups, interactive prototype, Wizard of Oz etc.
+  * High fidelity
+    * Live product
+    * Test issues unreachable by low fidelity tests -- performance etc.
+  * Other approaches
+    * Marketing products
+      * Product videos, ad campaigns, emails, landing pages, 5 second test, fake door etc.
+      * Track and test engagement with A/B testing, analytics, metrics etc.
+    * Crowdfunding
+      * Test engagement
+      * Reach early adopters
+* Data collection
+  * Qualitative
+    * Small sample size
+    * Start here
+    * Opinions
+  * Quantitative
+    * Large sample size
+    * Analytics, A/B testing -- behaviour
+
+[mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true

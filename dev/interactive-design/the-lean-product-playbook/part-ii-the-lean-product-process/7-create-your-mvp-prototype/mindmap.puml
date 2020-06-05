@@ -1,0 +1,174 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Create Your MVP Prototype
+
+*[#lightgreen] Test
+** Goal
+*** Feature set
+*** Hypotheses
+** Design deliverable
+***_ anything delivered for feedback
+
+** Qualitative
+
+*** Product tests
+**** Ensures customers see value
+***** Product Market Fit
+******[#yellow] PMF Pyramid
+**** Methods
+***** Before product is built
+******[#F88] Hand sketch
+******* Whiteboard
+****** Static/interactive
+*******[#F88] Wireframes
+******** Clickable is good
+********* Happy path only
+**********_ the things that matter
+******** Not pixel perfect
+******** Use real copy, not lorem ipsum
+******** Tools
+********* Adopting new tools can help a lot
+********* Mobile
+********** Flinto
+********** Marvel
+********** POP
+********** Dapp
+*******[#F88] Mockups
+******** Tools
+********* Illustrator
+********* Sketch
+********* Photoshop
+********* Clickable
+********** Happy path only
+********** inVision
+********** Balsamiq
+******[#F88] Interactive prototype
+******* Rapid iterations
+******** Tools
+********* Axure
+********** Export to HTML/CSS/JS
+******** Bootstrap
+******** jQuery
+******* Usually has a number of interactive elements
+*****[#F88] Wizard of Oz and Concierge
+****** The man behind the curtain
+******* Manual responses / processing
+****** Works well with services
+***** After product is built
+******[#F88] Live product
+******* Real stuff - load time etc..
+******* The eventual goal, after increasing fidelity
+
+
+*** Marketing
+****[#F88] Marketing materials
+***** 5 second test
+****** Show 5 seconds
+****** What they remember
+****** Customers make snap judgements
+***** Landing page, videos, emails etc
+****** Show competitors too
+******* Learn
+****** Get feedback
+
+*** Start here
+**** Because reasoning, and justification
+
+left side
+
+** Quantitative
+
+*** Product
+****[#F88] Fake door/404
+***** Track clicks on an element
+***** Redirect
+***** Thank them
+***** You can ask for feedback
+***** Don't run for too long - unhappy customers
+****[#F88] Product analytics & A/B tests
+***** You may need server-side tests too
+***** Look for changes in key product metrics
+***** Makes products great
+***** Constantly test
+****** Lots of variations / small subset of users
+***** Tools
+****** Google analytics
+****** KISSmetrics
+******* Supports server-side
+****** Mixpanel
+****** Flurry
+
+*** Marketing
+**** Sample size
+***** Large is significantly better
+**** Quantify engagement
+***** Conversions
+******_ as simple as engaging with content
+
+**** Methods
+
+*****[#F88] Smoke test
+****** Landing page + Conversion
+****** Clicks on price tiers
+******* Tools
+******** Optimizely
+******** Unbounce
+******** Analytics
+******* Important
+******** Visual design
+******** Copywriting
+******* Direct traffic
+******** Ad campaign
+******* Describe product
+******* Track
+******** Sign up / pricing
+******** Conversion rate
+
+*****[#F88] Explainer video
+****** Explain complex ideas too
+
+*****[#F88] Ad campaign
+****** Track
+******* Click-through rate
+******* What keywords work
+****** Drive traffic
+****** Facebook
+******* Target demographics
+******* Visual / image, not much text
+******** Not great for product market fit
+
+*****[#F88] Marketing A/B Tests
+****** Multivariant testing
+******* Track multiple page elements instead
+****** Tools
+******* Optimizely
+******* Unbounce
+******* KISS-metrics
+******* Visual Website Optimizer
+******* Google Content Experiments
+****** The champion
+******* Statistically significant
+****** Run in parallel
+*******_ avoid extraneous factors like season
+****** Covers
+******* Messaging
+******* Pricing
+******* Designs
+******* Colours
+
+******_ try different solutions
+*****[#F88] Crowdfunding
+****** Test initial engagement
+****** Reduces risk
+****** Connect with early adopters
+
+@endmindmap

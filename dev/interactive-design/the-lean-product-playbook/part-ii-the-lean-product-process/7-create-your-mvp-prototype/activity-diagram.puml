@@ -1,0 +1,74 @@
+@startuml
+
+title Lean Product Process: Specify Your MVP Feature Set
+
+start
+
+partition marketing-validation {
+  while (Marketing validated?) is (No)
+    if (Scrap idea?) then (Yes)
+      stop
+    endif
+    ->No;
+    fork
+      :Smoke test;
+      :Collect quantitative data;
+      :5 second test;
+    fork again
+      :Marketing tests;
+      :Collect data;
+    fork again
+      :Marketing A/B tests;
+      :Collect qualitative data;
+    endfork
+    :Evaluate data;
+    :Iterate designs;
+  end while
+}
+
+partition product-validation {
+  partition sketch {
+    while (Customer satisfied?) is (No)
+      :Create/refine sketch;
+      :Test;
+      :Collect data;
+      :Evaluate data;
+    end while
+  }
+  partition wireframe {
+    while (Customer satisfied?) is (No)
+      :Create/refine wireframe;
+      :Test;
+      :Collect data;
+      :Evaluate data;
+    end while
+  }
+  partition mockups {
+    while (Customer satisfied?) is (No)
+      :Create/refine mockups;
+      :Test;
+      :Collect data;
+      :Evaluate data;
+    end while
+  }
+  partition interactive-prototype {
+    while (Customer satisfied?) is (No)
+      :Create/refine interactive prototype;
+      :Test;
+      :Collect data;
+      :Evaluate data;
+    end while
+  }
+  partition live-product {
+    while (Customer satisfied?) is (No)
+      :Create/refine live-product;
+      :Test;
+      :Collect data;
+      :Evaluate data;
+    end while
+  }
+}
+
+stop
+
+@enduml
