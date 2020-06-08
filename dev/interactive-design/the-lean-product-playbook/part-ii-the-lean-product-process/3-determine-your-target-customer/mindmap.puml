@@ -1,0 +1,113 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid
+endlegend
+
+title Lean Product Process: Determine Target Customer
+
+*[#lightgreen] Determine Target Customer
+** Customer first
+** Market
+*** Expansion
+**** Adjacent markets
+*** Market segmentation
+**** Customer
+***** Business
+****** Firmographics
+*******_ demographics for firms
+******* Company size
+******* Industry
+******** Standard Industry Classification (SIC) Codes
+******** North American Industry Classification System (NAICS)
+***** People
+****** Demographics
+******* Quantifiable
+******** Age
+******** Gender
+******** Marital status
+******** Income
+******** Education level
+****** Psychographics
+******* Very useful
+******* Attributes
+******* Opinions
+******* Values
+******* Interests
+****** Behavioural
+******* Frequency of actions
+********_ number of uploads
+******* Decisions made
+********_ responds to X
+****** Needs
+******* Powerful
+******* Can span demographics/psychographics etc.
+******* High level needs can cover low level needs
+********_ security cams - many uses cases
+***** Specific
+*****[#lightblue] Adoption Lifecycle
+******:Understand the development
+stage of your product;
+******* Segment types
+******* Each stage has different requirements
+********_ ease of use, reliability, price etc,,
+
+left side
+
+** Personas
+*** Pragmatic
+*** Not speculative
+*** Underserved needs
+*** Speak to passionate customers
+*** Revise / iterate
+**** Keep in sync with customers
+**** Accuracy
+**** High quality
+*** Goal directed design
+*** Use early
+***:Captures hypotheses about
+target customer;
+***:Provides alignment
+between designers;
+*** Single page
+*** Attributes
+**** Demographics
+**** Psychographics
+**** Behavioural
+**** Needs
+***[#lightblue] Persona Template
+*** Put effort into presentation
+*** Sources
+**** Interviews
+***** Good place to start
+******:Make initial assumptions about
+your target to get started;
+******:Aka. Customer Discovery Interviews /
+Contextual Inquiry;
+***** Collect initial data
+****** Needs
+****** Current solutions
+****** Pain points
+**** Surveys
+*****:Don't average data for personas,
+it should represent real people;
+****** Read individual surveys
+
+
+** Users vs. buyers
+*** The user might not be the buyer
+**** Companies
+*** Stakeholders
+**** Address all for PMF
+**** Economic buyer
+***** Distinct needs
+*****_ decision maker
+**** Blocker
+*****_ can veto
+
+
+@endmindmap

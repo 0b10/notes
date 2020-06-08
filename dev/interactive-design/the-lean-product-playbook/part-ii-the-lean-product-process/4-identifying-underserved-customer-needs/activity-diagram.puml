@@ -1,0 +1,69 @@
+@startuml
+
+title Identifying Underserved Customer Needs
+
+start
+
+:Create a set of hypotheses;
+note left
+  * Initial, best guess
+  * Focus on the problem space
+  * "I think think that.."
+end note
+
+:Derive a set of benefits;
+note left
+  * Aka "needs"
+  * From customer perspective
+  * Start with "aim", "help", "reduce" etc..
+end note
+
+repeat
+:Create questions for each benefit;
+note left
+  * Importance of needs
+  * Satisfaction of needs
+  * Compare to competitors
+  * Aim to fully understand needs
+end note
+
+:Conduct interview;
+
+:Test all hypotheses and gather data;
+note left
+  * Use laddering to discover related/common needs
+  * Repeat answers back
+  * Are needs defined clearly?
+  * How valuable is each need? (importance)
+  * Why are/aren't they valuable?
+  * Determine satisfaction with needs
+  * Determine customer goals 
+  * Determine pain points
+end note
+
+:Plot data for each benefit;
+note left
+  * Use a framework
+  * Each need is a data point
+end note
+
+:Reason about data;
+note left: The satisfaction for benefits should go up
+if (Opportunity?) then (Yes)
+  :Refine hypotheses set;
+  note left
+    * Focus on needs with high importance
+    * Consider the "needs dependency hierarchy"
+    * Source a table of answers
+  end note
+  :Refine benefits set;
+  note left: Possibly use the "value delivered" metric
+else (No)
+endif
+backward :Iterate;
+repeat while (Hypothesis refined?)
+->no;
+
+stop
+
+@enduml
