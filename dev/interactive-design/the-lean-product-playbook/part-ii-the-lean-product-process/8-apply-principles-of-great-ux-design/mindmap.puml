@@ -73,217 +73,67 @@ the end of a scrolling screen;
 
 left side
 
-' === UX DESIGN ICEBERG === '
 **[#yellow] UX Design Iceberg
-*** Conceptual design
-****[#yellow] PMF Pyramid
-***** Sits just above feature set layer
-******_ the whole iceberg is the UX layer
-**** Core concept
-***** Forms the essence of the experience
-***** Resonates with target audience
-***** Intuitive to use
-***** Possible design metaphor
-****** Can be multi-centric
-**** Often contributes to innovation
-**** User research
-***** Other observers
-****** Team debriefs
-****** Product team members
-******* First hand
-****** Key takeaways
-***** Discovery
-****** Interviews
-****** Usability tests
-****** Surveys
-***** Specialised field in UX
-***** Deeply understand
-******_ for core concept
-***** Personas
-****** Additions for UX
-******* Technical abilities
-******** Low: means simple UI
-******** High: means more powerful tools
-******* Context
-******** Rushed for time
-******** Laid back
-
-*** Information architecture
-**** Focus
-***** Feature set
-**** Techniques
-***** Card sorting
-****** Defines logical groups for UI elements
-****** Ask user to do the sorting
-****** Observe
-****** User verbalises
-**** Test
-***** Findability
-****** Measure
-******* Time taken
-******* Success / failures
-****** Analytics
-******* Paths taken
-**** Defines how to organise site information
-**** Sitemap
-***** Test
-****** Labels
-*******_ their intended meaning
-***** Deliverable
-****** Navigation
-******_ for any software product
-
-' === INTERACTION DESIGN === '
-*** Interaction design
-**** Conceptual design
-***** Important to interaction design
-**** Concerned with
-***** State
-****** Product availability
-*******_ allows a particular flow through your app
-****** Modes
-*******_ like edit mode
-******* Tutorials
-******** Tutorial mode
-******** Normal mode
-******* Help
-******** Easy mode
-********* Guided by questions
-******** Hard mode
-********* Hands off
-***** Input
-***** Feedback
-****** Error messages
-****** Response time
-******* Confirmation
-******** Animated spinners
-******** Loading bar for long tasks
-***** Navigation
-****** Flow
-******* Complicated?
-******** Wizard
-***** Any form of interactivity
-**** How the user and the product interact
-***** Clicks
-***** Typing
-***** Navigation
-****** Governed by information architecture
-**** Flowcharts
-***** Express complex flows
-**** Wireframes
-***** Often preferred to flowcharts
-***** You can annotate error states
-***** Not pixel perfect
-***** Focus questions on
-****** Layout
-****** UX
-****** Interaction
-***** Apply divergent thinking
-******_ like brainstorming
-****** Even the bad ideas
-******* Narrowing too early is bad
-***** Solution space artifact
-****** Testable
-
-' === VISUAL DESIGN === '
-*** Visual design
-****[#yellow] UX Design Iceberg
-***** Tip / top
-****** Immediately obvious to customers
-**** Aka Graphic design / look and feel / chrome
-
-**** Effects
-***** Reinforced visual hierarchy
-***** Brand personality
-***** Delight
-***** Differentiation from competitors
-
-**** Colour
-***** Palette
-****** Use different saturations
-****** Use an accent colour
-***** Make some elements stand out
-***** Emotion
-****** Interpretation can vary around the world
-******* Consider the audience
-****** Warm
-*******[#red] Red
-******** Aggression / passion / power / danger
-*******[#orange] Orange
-******** Energetic / vibrant
-*******[#yellow] Yellow
-******** Happiness / sunshine
-******** Energising / passionate
-****** Subdued
-*******[#green] Green
-******** Nature / growth / money
-*******[#blue] Blue
-******** Trustworthiness / calm
-*******[#purple] Purple
-******** Luxury / creativity
-******* Calming / reserved
-******[#black] Black
-******* Sophistication / elegance / mystery
-******[#brown] Brown
-******* Warmth / earth
-******[#white] White
-******* Purity / cleanliness / simplicity
-
-**** Typography
-***** Used to convey visual hierarchy
-***** Limit the number of fonts you use
-***** Approach
-****** Pick one font for large text
-****** Pick one font for body text
-****** Pick only a few text sizes
-******* Be consistent throughout the app
-***** Conveyed attributes
-****** Formal / Informal
-****** Classic / modern
-****** Light / dramatic
-***** Sans serif
-****** Lower resolution
-****** Better for web
-***** Serif
-****** Higher resolution
-****** Harder to read when smaller
-****** Better for print
-
-**** Graphics
-***** Types
-****** Images
-****** Illustrations
-****** Lines
-****** Textures
-****** Gradients
-****** Shadows
-****** Icons
-******* Iconography
-******** Used in marketing
-******** Good for small screen size
-******** Meaning
-********* Standard symbols
-***** Critical for ecommerce
-****** Hugely increase conversion rate
-***** Hero images
-****** Common
-****** Convey product / message
-**** Style guide
-**** Layout grid
-**** Mockups
 
 ' === DESIGN PRINCIPLES === '
 ** Design Principles
 *** Gestalt principles
+**** Related objects should be close together
+***** Content
+***** Interface elements
+**** Avoid
+***** Unrelated objects close together
+***** Unrelated objects looking similar
 *** Visual hierarchy
+**** Determines which elements are most important
+**** Importance drives attention
+**** High importance
+***** Larger elements
+***** Higher contrast
+***** Images that stand out
+****** People, especially faces
+***** Placement
+****** Top-left
+******* Latin derived languages start from top left
+**** Tools
+***** Blur images
+****** Most important will still be apparent
+**** Approach
+***** Organise elements by importance
+***** Using principles, place, colour, and size elements
+***** Lead the user from one important area, to the next
 *** Principles of composition
+**** Unity
+***** Unifies whole, or disparate elements?
+**** Contrast
+***** Enough variation in size, colour, arrangement?
+******_ for visual interest
+**** Balance
+***** Visual weight, size, colour evenly distributed?
+**** Use of space
+***** Cluttered, sparse?
+***** Enough whitespace?
+***** Avoid crowded designs 
 *** Responsive design
+**** Mobile first
+***** Forces designers to think about what's most important
 *** Designing for multiple screen sizes
 
 ' === MISC === '
 ** Misc
 *** Copy
+**** Button/label text must be clear
+***** Do usability tests
+***** User driven
 **** Part of UX design
 *** User opinions matter
+*** Impossible for a designer to be great at all aspects
+**** Interaction design
+**** Visual design
+*** Team
+**** Interaction designer
+**** Visual designer
+**** Frontend developer
+**** Product manager
 
 @endmindmap

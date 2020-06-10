@@ -10,6 +10,8 @@
 * Focus on a small set of the most important needs, reducing risk -- say "no" lots.
 * The goal of an MVP is quick development, and fast feedback. You can test if an idea will take off, and minimise cost and risk if it does not
 * Selecting features for an MVP is a balance between high opportunity (demand) features, and cost of implementation -- it's a measured and purposeful process
+* Test and iterate on the product layout, user interaction, general experience and visuals -- gauging on usability and delight
+* Bridge the feature set with design metaphors (aka conceptual model), you must deeply understand the target users
 
 # Part II: The Lean Product Process
 
@@ -263,3 +265,42 @@ Eventually you will reach the live product phase, which tests real issues such a
     * Analytics, A/B testing -- behaviour
 
 [mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true
+
+## Chapter 8: Apply the Principles of Great UX design
+
+* [Mindmap](part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/mindmap.png?raw=true)
+* [UX Iceberg Mindmap](part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.mm.png?raw=true)
+* [UX Iceberg][3]
+* [Layout Grid][4]
+* [Site map][1]
+
+
+### The UX Team
+
+UX Teams consist of interaction a designer, visual designer, frontend developer, and a product manager. An interaction designer is responsible for the measuring and developing the interaction between the product and the user. A visual designer is responsible for the look and feel -- which colour, visual hierarchies, placement etc.
+
+### Design Principles
+
+Design principles are used to ensure a proven UX:
+
+* **visual hierarchy** (colour/size/placement/contrast): elements are first ordered by importance, then placed according to guiding principles
+* **Gestalt principle**: related elements are placed close to each other, unrelated elements are not, and are also always visually differentiated
+* **principles of composition**: unity, contrast, balance, and use of space -- do elements sit well together; do high important elements contrast; is there a visual weight/colour balance; and is there adequate use of spacing?
+
+### Primary Concerns
+
+Two important aspects of UX are usability, and delight. Usability is concerned with efficiency (effort/flow/learnability/cognitive load), ease of use, and the tasks users perform. Usability is achieved through developed personas, and user tested -- through various metrics of interaction, while the user performs user centric tasks and goals.  Delight is concerned with user emotions, aesthetics, simplicity, pre-emptive actions or state -- like smart defaults, personality, and even surprise -- e.g. funny 404 pages.
+
+### The UX Iceberg
+
+The entire UX layer in the [PMF pyramid][2] can be expressed as the [UX iceberg][3]. The [UX iceberg][3] consists of, in order:
+
+1. **Visual design**: the part that the user sees and is responsible for reinforcing the visual hierarchy, brand personality, user delight and differentiating your product from competitors. The way these responsibilities are achieved is through conveying emotion and contrast with **colour**, style and visual hierarchy with **typography**, **graphics** (which are critical for conversion rates), consistency with **style guides** and [**layout grids**][4]. Visual design UX is attained through gradually increasing the fidelity of prototypes, eventually reaching mockups -- which provide a rich interactive user experience. Each phase in fidelity is carefully tested, and feeds back into prototype iteration.
+1. **Interaction design**: deals with how the user interacts with the product -- input, feedback, navigation (flow) etc. A flowchart can be used to model the interaction and navigation. Wireframes should be used to gather user feedback on the layout, UX, and general interaction. Divergent thinking should be applied to brainstorm *all* ideas (even bad ones) derived from feedback, making sure not to narrow the choice of solutions too early -- test and see. How the user interacts with the product is often tied quite closely to the conceptual design -- e.g. a shopping cart.
+1. **Information architecture**: is concerned with the arrangements of feature set elements, optimised for findability -- which is the focus for user tests. A technique to optimise organisation is card sorting, where each element is a card and the user arranges them. Card sorting, and producing the resulting prototype, is an iterative process, and feedback from tests is measured for optimisation. Another technique for optimising findability is through analytics of the prototype, measuring the number of steps/time taken to achieve a goal. A model that can be used to express the architecture called a [site map][1], which expresses the interaction with elements in a hierarchical way.
+1. **Conceptual design**: is essentially a design metaphor, and is supposed to resonate with the intended audience in a stylistic or intuitive way -- aiding learnability. A product can implement many conceptual designs -- such as a shopping cart, being only a small part of the product. The conceptual design layers sits just above the feature set layer of the [PMF pyramid][2], and forms the bridge between the feature set and the itself. Often, this bridge is what drives product innovation. To bridge this gap you have to engage in *deep* user research, building personas -- while modelling the **context** and **technical abilities** in addition to the attributes that personas typically model. User research is conducted through interviews, usability tests, and surveys -- documenting the summary of results and key takeaways, which facilitates and simplifies learning capture. Other team members should be directly involved in the research, like product team members, so that they can observe the results first-hand -- which is a far more effective means to communicate lessons learned when compared to a second-hand report.
+
+[1]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/site-map.gif?raw=true
+[2]: part-i-core-concepts/pmf-pyramid.png?raw=true
+[3]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.jpg?raw=true
+[4]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/layout-grid.jpg?raw=true
