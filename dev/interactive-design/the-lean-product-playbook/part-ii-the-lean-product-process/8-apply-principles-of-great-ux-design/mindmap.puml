@@ -1,0 +1,139 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Apply the Principles of Great UX Design
+
+*[#lightgreen] UX Design
+** Great UX
+*** Usability
+**** User profile
+***** Physical ability
+***** Domain knowledge
+***** Personas
+**** Efficiency
+***** Number of steps taken to figure out a task
+****** Clicks, taps, keystrokes, actions..
+***** Learnability
+****** Onboarding
+******* Tutorials
+****** Important
+******* Quickly affects decisions
+****** Measure zero to hero
+***** Time taken
+***** Cognitive load
+***** Avoid taxing effort
+****** High effort less users
+****** Mental
+****** Physical
+****** Memory
+**** Testing
+***** Collect data
+***** % users able to complete task
+****** % users that had problems
+**** Focus
+***** User goals
+***** User tasks
+**** Easy
+**** Effortless
+**** A state of "Flow"
+***** Immersion
+
+*** Delight
+**** Emotions
+***** Enjoyable to use?
+**** Aesthetics
+***** Enjoyability
+***** High quality
+***** Great first impression
+**** Simplicity
+***** Minimal
+***** Enjoyment
+**** Pre-emptive
+***** Smart defaults
+***** Answering top-of-mind questions
+***** Makes it relatable
+**** Personality
+***** Tone
+***** Humour
+**** Dynamic responses
+*****:Rubber band scrolling at
+the end of a scrolling screen;
+***** Satisfying feedback
+******_ e.g. cash register
+**** Surprise
+***** Funny 404 pages
+
+left side
+
+**[#yellow] UX Design Iceberg
+
+' === DESIGN PRINCIPLES === '
+** Design Principles
+*** Gestalt principles
+**** Related objects should be close together
+***** Content
+***** Interface elements
+**** Avoid
+***** Unrelated objects close together
+***** Unrelated objects looking similar
+*** Visual hierarchy
+**** Determines which elements are most important
+**** Importance drives attention
+**** High importance
+***** Larger elements
+***** Higher contrast
+***** Images that stand out
+****** People, especially faces
+***** Placement
+****** Top-left
+******* Latin derived languages start from top left
+**** Tools
+***** Blur images
+****** Most important will still be apparent
+**** Approach
+***** Organise elements by importance
+***** Using principles, place, colour, and size elements
+***** Lead the user from one important area, to the next
+*** Principles of composition
+**** Unity
+***** Unifies whole, or disparate elements?
+**** Contrast
+***** Enough variation in size, colour, arrangement?
+******_ for visual interest
+**** Balance
+***** Visual weight, size, colour evenly distributed?
+**** Use of space
+***** Cluttered, sparse?
+***** Enough whitespace?
+***** Avoid crowded designs 
+*** Responsive design
+**** Mobile first
+***** Forces designers to think about what's most important
+*** Designing for multiple screen sizes
+
+' === MISC === '
+** Misc
+*** Copy
+**** Button/label text must be clear
+***** Do usability tests
+***** User driven
+**** Part of UX design
+*** User opinions matter
+*** Impossible for a designer to be great at all aspects
+**** Interaction design
+**** Visual design
+*** Team
+**** Interaction designer
+**** Visual designer
+**** Frontend developer
+**** Product manager
+
+@endmindmap

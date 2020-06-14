@@ -1,0 +1,238 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Apply the Principles of Great UX Design
+
+*[#yellow] UX Iceberg
+
+** Conceptual design
+***[#yellow] PMF Pyramid
+**** Sits just above feature set layer
+*****_ the whole iceberg is the UX layer
+*** Core concept
+**** Forms the essence of the experience
+**** Resonates with target audience
+**** Intuitive to use
+**** Possible design metaphor
+***** Can be multi-centric
+*** Often contributes to innovation
+*** User research
+**** Other observers
+***** Team debriefs
+***** Product team members
+****** First hand
+***** Key takeaways
+**** Discovery
+***** Interviews
+***** Usability tests
+***** Surveys
+**** Specialised field in UX
+**** Deeply understand
+*****_ for core concept
+**** Personas
+***** Additions for UX
+****** Technical abilities
+******* Low: means simple UI
+******* High: means more powerful tools
+****** Context
+******* Rushed for time
+******* Laid back
+
+** Information architecture
+*** Focus
+**** Feature set
+*** Techniques
+**** Card sorting
+***** Defines logical groups for UI elements
+***** Ask user to do the sorting
+***** Observe
+***** User verbalises
+*** Test
+**** Findability
+***** Measure
+****** Time taken
+****** Success / failures
+***** Analytics
+****** Paths taken
+*** Defines how to organise site information
+*** Sitemap
+**** Test
+***** Labels
+******_ their intended meaning
+**** Deliverable
+***** Navigation
+*****_ for any software product
+
+' === INTERACTION DESIGN === '
+** Interaction design
+*** Conceptual design
+**** Important to interaction design
+*** Concerned with
+**** State
+***** Product availability
+******_ allows a particular flow through your app
+***** Modes
+******_ like edit mode
+****** Tutorials
+******* Tutorial mode
+******* Normal mode
+****** Help
+******* Easy mode
+******** Guided by questions
+******* Hard mode
+******** Hands off
+**** Input
+**** Feedback
+***** Error messages
+***** Response time
+****** Confirmation
+******* Animated spinners
+******* Loading bar for long tasks
+**** Navigation
+***** Flow
+****** Complicated?
+******* Wizard
+**** Any form of interactivity
+*** How the user and the product interact
+**** Clicks
+**** Typing
+**** Navigation
+***** Governed by information architecture
+*** Flowcharts
+**** Express complex flows
+*** Wireframes
+**** Often preferred to flowcharts
+**** You can annotate error states
+**** Not pixel perfect
+**** Focus questions on
+***** Layout
+***** UX
+***** Interaction
+**** Apply divergent thinking
+*****_ like brainstorming
+***** Even the bad ideas
+****** Narrowing too early is bad
+**** Solution space artifact
+***** Testable
+
+left side
+
+' === VISUAL DESIGN === '
+** Visual design
+***[#yellow] UX Iceberg
+**** Tip / top
+***** Immediately obvious to customers
+*** Aka Graphic design / look and feel / chrome
+
+*** Effects
+**** Reinforced visual hierarchy
+**** Brand personality
+**** Delight
+**** Differentiation from competitors
+
+*** Colour
+**** Palette
+***** Use different saturations
+***** Use an accent colour
+**** Make some elements stand out
+**** Emotion
+***** Interpretation can vary around the world
+****** Consider the audience
+***** Warm
+******[#red] Red
+******* Aggression / passion / power / danger
+******[#orange] Orange
+******* Energetic / vibrant
+******[#yellow] Yellow
+******* Happiness / sunshine
+******* Energising / passionate
+***** Subdued
+******[#green] Green
+******* Nature / growth / money
+******[#blue] Blue
+******* Trustworthiness / calm
+******[#purple] Purple
+******* Luxury / creativity
+****** Calming / reserved
+*****[#black] Black
+****** Sophistication / elegance / mystery
+*****[#brown] Brown
+****** Warmth / earth
+*****[#white] White
+****** Purity / cleanliness / simplicity
+
+*** Typography
+**** Used to convey visual hierarchy
+**** Limit the number of fonts you use
+**** Approach
+***** Pick one font for large text
+***** Pick one font for body text
+***** Pick only a few text sizes
+****** Be consistent throughout the app
+**** Conveyed attributes
+***** Formal / Informal
+***** Classic / modern
+***** Light / dramatic
+**** Sans serif
+***** Lower resolution
+***** Better for web
+**** Serif
+***** Higher resolution
+***** Harder to read when smaller
+***** Better for print
+
+*** Graphics
+**** Types
+***** Images
+***** Illustrations
+***** Lines
+***** Textures
+***** Gradients
+***** Shadows
+***** Icons
+****** Iconography
+******* Used in marketing
+******* Good for small screen size
+******* Meaning
+******** Standard symbols
+**** Critical for ecommerce
+***** Hugely increase conversion rate
+**** Hero images
+***** Common
+***** Convey product / message
+
+*** Style guide
+**** Visual design deliverable
+**** Consistent look and feel
+***** Colour
+***** Size
+***** Fonts
+***** Measurements
+***** Graphics
+
+***[#yellow] Layout grid
+**** Consistent alignment
+**** Gutter / margin
+**** Lay all screen elements within a defined grid
+**** Rows are often defined too
+***** Unreliable
+****** Responsiveness often creates issues
+
+*** Mockups
+**** Typography
+**** Colour
+**** Graphics
+**** Form
+***** Static image
+***** Interactive
+****** Feedback
+
+@endmindmap
