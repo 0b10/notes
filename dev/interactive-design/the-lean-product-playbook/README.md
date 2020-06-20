@@ -49,9 +49,6 @@ Personas can be derived from data captured through interviews or surveys. Anothe
   * Capture attributes like demographics, psychographics, behavioural, and needs
   * You can source information from interviews or surveys
 
-[adoption-lifecycle]: part-ii-the-lean-product-process/3-determine-your-target-customer/adoption-lifecycle.notes.md
-[persona-template]: part-ii-the-lean-product-process/3-determine-your-target-customer/persona-template.notes.md
-
 ## Chapter 4: Identifying Underserved Customer Needs
 
 * [Frameworks](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md)
@@ -90,9 +87,6 @@ Plot and reason about the data, systematically discover opportunities, and repea
   * Use to track progress, and reveal opportunity
   * Opportunity is low satisfaction, high importance -- high importance is paramount 
 
-[laddering]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/laddering.notes.md
-[customer-discovery-frameworks]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md
-
 ## Chapter 5: Define Your Value Proposition
 
 * [Mindmap](part-ii-the-lean-product-process/5-define-your-value-proposition/mindmap.png?raw=true)
@@ -128,9 +122,6 @@ Use the [value proposition template][value-proposition-template] to clarify your
 * [Value Proposition Template][value-proposition-template]
   * The benefits defined by your own product is its value proposition
   * You can use the template to make projections -- aka "product strategy"
-
-[kano-model]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/kano-model-framework.png
-[value-proposition-template]: part-ii-the-lean-product-process/5-define-your-value-proposition/value-proposition.template.md
 
 ## Chapter 6: Specify Your MVP Feature Set
 
@@ -201,9 +192,6 @@ However, this has some drawbacks:
 
 This idea means less up-front planning, so less risk when needs inevitably change, but it also means a smaller overall picture.
 
-[mvp-features-activity-diagram]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/activity-diagram.png?raw=true
-[prioritised-feature-chunk-table]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/prioritised-feature-chunk-table.notes.md
-
 ## Chapter 7: Create Your MVP Prototype
 
 * [Mindmap](part-ii-the-lean-product-process/7-create-your-mvp-prototype/mindmap.png?raw=true)
@@ -264,8 +252,6 @@ Eventually you will reach the live product phase, which tests real issues such a
     * Large sample size
     * Analytics, A/B testing -- behaviour
 
-[mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true
-
 ## Chapter 8: Apply the Principles of Great UX design
 
 * [Mindmap](part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/mindmap.png?raw=true)
@@ -273,7 +259,6 @@ Eventually you will reach the live product phase, which tests real issues such a
 * [UX Iceberg][3]
 * [Layout Grid][4]
 * [Site map][1]
-
 
 ### The UX Team
 
@@ -300,7 +285,86 @@ The entire UX layer in the [PMF pyramid][2] can be expressed as the [UX iceberg]
 1. **Information architecture**: is concerned with the arrangements of feature set elements, optimised for findability -- which is the focus for user tests. A technique to optimise organisation is card sorting, where each element is a card and the user arranges them. Card sorting, and producing the resulting prototype, is an iterative process, and feedback from tests is measured for optimisation. Another technique for optimising findability is through analytics of the prototype, measuring the number of steps/time taken to achieve a goal. A model that can be used to express the architecture called a [site map][1], which expresses the interaction with elements in a hierarchical way.
 1. **Conceptual design**: is essentially a design metaphor, and is supposed to resonate with the intended audience in a stylistic or intuitive way -- aiding learnability. A product can implement many conceptual designs -- such as a shopping cart, being only a small part of the product. The conceptual design layers sits just above the feature set layer of the [PMF pyramid][2], and forms the bridge between the feature set and the itself. Often, this bridge is what drives product innovation. To bridge this gap you have to engage in *deep* user research, building personas -- while modelling the **context** and **technical abilities** in addition to the attributes that personas typically model. User research is conducted through interviews, usability tests, and surveys -- documenting the summary of results and key takeaways, which facilitates and simplifies learning capture. Other team members should be directly involved in the research, like product team members, so that they can observe the results first-hand -- which is a far more effective means to communicate lessons learned when compared to a second-hand report.
 
+### Chapter 9: Test Your MVP with Customers
+
+* [Mindmap][ch9-mindmap]
+* [Customer mindmap][customer-test-mm]
+* [Feedback template][feedback-template]
+
+Once you have an MVP built you must test it with [customers][customer-test-mm] to feed the iterative process of feedback and refine.
+
+The purpose of testing is to uncover product blindness (developer bias), and to validate/invalidate the hypotheses about the customer.
+
+#### The Customer
+
+You must choose around 5-8 [customers][customer-test-mm] that are members of the target market -- this is very important because choosing the wrong [customer][customer-test-mm] means potentially iterating your product in the wrong direction.
+
+Often-times, discoveries are made about [customer][customer-test-mm] needs, or product features, that will cause you to refine your target [customer][customer-test-mm] [(persona)][persona-template] or the product.
+
+Customers should be pre-screened with a questionnaire to recruit people who meet a specific demographic, and behavioural (and possibly psychographic) profile. [Personas][persona-template] should be used to serve as a base for creating pre-screener questions.
+
+Customers can be recruited from conferences, meet-ups, events, [customer][customer-test-mm] research companies, Craigslist, MTurk, TaskRabbit, UberTesting, freelance websites, or Starbucks etc. -- depending on your target [customer][customer-test-mm] profile, resources, needs, or budget. User testing services generally provide an existing userbase. Refer to the [customer mindmap][customer-test-mm] for more specific details. 
+
+Frequently [customers][customer-test-mm] will not show up for interviews (about 10% of the time) so plan for this, and recruit one extra participant for every ~10.
+
+About 10% of [customers][customer-test-mm] will offer bad feedback -- where they won't be critical, or they won't say much.
+
+#### The Interview
+
+Generally, [customers][customer-test-mm] are interviewed on a one-to-one basis, unless there are time constraints. Interviewing [customers][customer-test-mm] in groups is not recommended, because group dynamics (group-think; dominant people etc.) can affect the collected data.
+
+In a moderated setting, the moderator can record the customer's face to get emotional cues, their voice for audio cues, and generally observe the user's interaction in a more detailed way, and probe variances in that interaction. Some of these things are available in a limited way with unmoderated observations, but a lot of "in-the-moment" experience and observation is lost.
+
+User testing services allow you to gather both qualitative and quantitative data, but generally not a one-to-one interview experience -- i.e. they are unmoderated. Unmoderated tests allow you to scale the interviews up and run them concurrently, but the data gathered is less rich -- visual, audio, and emotional cues are not recorded, probing questions are not possible. As a result the questions need to be well thought out beforehand.
+
+Each iteration, or wave of testing, is usually a different set of customers, unless there are participants who have explicitly signed up for further testing, and they are recruited again.
+
+The interview itself consists of a **warm-up**, the **main portion**, and a **wrap-up**, and should follow a **script** -- which denotes tests, tasks, questions, artefacts, and the organisation of each.
+
+The **warm-up** is short and is about building a rapport with the [customer][customer-test-mm] -- which is important to make them feel comfortable.
+
+The **main portion** can be split into two sections: **customer discovery**, and **product feedback**. With **customer discovery** you want to focus on their feelings with the proposed benefits, uncover their needs, specific end-to-end examples of their current solutions or problems, and any information that validates/invalidates the value proposition or [customer][customer-test-mm] hypotheses. The **product feedback** portion is a fly-on-the-wall approach to observing product usage, with the [customer][customer-test-mm] verbalising their thought process, and the observer asking non-leading, probing questions about why the user does what they do.  Most of the questions will be open-ended, and always objective (non-leading).
+
+The **wrap-up** is about getting the users ratings on **usability (UX)**, **product value (PMF)**, overall impressions, a Q&A, and asking whether they are interested in being notified about product release, or being re-invited to another interview session -- these latter questions help gauge whether there is genuine interest in the product.
+
+It's a good idea to pilot tests, to ensure that they are effective before they are put to use.
+
+Customers can be compensated for their time in the form of gift cards, money, invites to
+open beta, or swag. $75-$100 per hour is a reasonable amount, depending on the target customer.
+
+#### Capture
+
+The recorded data should be categorised as thee distinct categories:
+
+1. **Functionality**
+  * Benefits are correct?
+  * Features are important / missing?
+1. **Messaging / feedback**
+1. **UX**
+  * Primarily with regards to the feature set
+
+And two smaller, more focused categories -- called key ratings:
+
+1. Usability (UX)
+1. Product value (PMF)
+
+See the [feedback template][feedback-template] to understand how these are recorded.
+
+**Usability** questions would looks like: "how easy was the product to use?"; **product value** questions could be "how valuable do you find the product?", or "how likely are you to use the product?".
+
+[ch9-mindmap]: ./part-ii-the-lean-product-process/9-test-mvp-with-customers/mindmap.png?raw=true
+[customer-test-mm]: part-ii-the-lean-product-process/9-test-mvp-with-customers/customers.mm.png?raw=true
+[feedback-template]: part-ii-the-lean-product-process/9-test-mvp-with-customers/feedback-template.md
+[adoption-lifecycle]: part-ii-the-lean-product-process/3-determine-your-target-customer/adoption-lifecycle.notes.md
+[persona-template]: part-ii-the-lean-product-process/3-determine-your-target-customer/persona-template.notes.md
+[kano-model]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/kano-model-framework.png
+[value-proposition-template]: part-ii-the-lean-product-process/5-define-your-value-proposition/value-proposition.template.md
 [1]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/site-map.gif?raw=true
 [2]: part-i-core-concepts/pmf-pyramid.png?raw=true
 [3]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.jpg?raw=true
 [4]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/layout-grid.jpg?raw=true
+[mvp-features-activity-diagram]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/activity-diagram.png?raw=true
+[prioritised-feature-chunk-table]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/prioritised-feature-chunk-table.notes.md
+[mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true
+[laddering]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/laddering.notes.md
+[customer-discovery-frameworks]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md

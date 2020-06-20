@@ -1,0 +1,79 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Test Your MVP with Customers
+
+*[#lightgreen] Customers
+** 10% are duds
+*** Won't be critical
+*** Won't say much
+** Number
+*** Be careful with sample size
+*** One-on-one to start
+*** Group dynamics are a problem
+**** Especially 6-12
+**** Group think
+**** Silencing of opinions
+**** Dominant people
+
+** Multiple observers
+*** Intimidating
+*** Groups can observe through webcam
+*** A single note-taker is okay
+*** No-shows are a reality
+**** Plan for it - recruit more than you need
+**** 10% is a good rule of thumb
+** 5-8 is a good balance
+
+left side
+
+** Recruitment
+*** Attributes
+**** Part of the target market
+***** Screener questions
+******[#F88] Important!
+****** Demographics
+****** Behavioural attributes
+******* What they do, how long, etc..
+****** Psychographic attributes
+******* can be useful
+****** Refer to personas to develop questions
+****** You can iterate on these
+******* Update personas
+*** Resources
+**** Conferences / meet-ups / events
+***** On-site/on-the-ground testing may be required
+***** Harder to reach "professionals"
+***** Show kickstarter page to target customers
+***** Infrequent, may not be suitably available
+**** Customer research companies
+***** Expensive
+***** Good return value in feedback
+***** Recruits participants for you
+****** Get lots feedback
+**** Craigslist
+**** Services
+***** TaskRabbit / MTurk
+***** UberTesting
+****** Users supplied
+***** Freelance websites
+*** Starbucks user testing
+**** Approach users at a cafe
+**** Unable to screen users
+**** The opening is important
+*** Compensation
+**** Typically $75-$100 per hour
+***** More for professionals
+**** can be done for $0
+***** Offer private beta invites
+***** Swag
+
+@endmindmap

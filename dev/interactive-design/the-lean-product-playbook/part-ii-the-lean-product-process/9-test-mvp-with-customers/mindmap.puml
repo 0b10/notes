@@ -1,0 +1,228 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Test Your MVP with Customers
+
+*[#lightgreen] Test MVP
+
+**[#yellow] Customers
+
+** Misc
+*** Mostly qualitative
+
+** Purpose
+*** Product blindness
+**** Closeness/bias towards a product
+**** New customers don't have it
+**** Developers/owners have it
+**** Blind spots with the product
+*** Hypotheses
+**** Validation
+**** Invalidation
+
+** Types
+*** In-person
+**** The recommended approach
+**** Subtle cues
+***** Sighs; expressions; eyes
+
+*** Remote
+**** Technical difficulties
+***** Customer: installation/network issues etc.
+**** Tools
+***** GoToMeeting / Webex / Skype / Screeleap / Join.me
+**** Recorded
+***** Analysed by the product team
+***** Faces
+****** Expressions
+***** Audio
+****** User's thoughts
+**** Types
+***** Moderated
+****** When
+******* Earlier on in the MVP phase
+******** Rich qualitative data helps guide the process
+***** Unmoderated
+
+*** Unmoderated user testing
+**** When
+***** Farther on in the MVP phase
+***** If you don't have resources for moderation
+****** Less resources required
+**** Tools
+***** UserTesting / Validately / MTurk
+****** Provides users
+******* Lack of recruitment -- quicker
+
+**** Concurrent
+***** No moderator
+**** Pilot test with 1-2 people before testing lots of people
+**** Questions
+***** Moderator not present, be more thoughtful
+**** Collect qualitative data
+***** Audio / video
+**** Quantitative data is possible
+***** Analytics
+**** Lack of moderator influence
+***** People behave differently with a moderator
+
+** Scheduling
+*** Blindly book/recruit users
+**** Have them ready before the artifact is
+*** It takes time
+**** Recruit users
+**** Create tests
+**** Create and screen users
+
+** Approaches
+*** Intuit's approach
+**** "Follow me home" technique
+***** Observe the user in it's natural habitat
+*** The "Ramen" approach
+**** Unofficial name
+**** Low cost essentially
+**** Users use their own laptops
+***** Easier for them to manage
+***** The device they will actually use in production
+***** Other team members should watch the live user test
+****** Direct observation is powerful
+****** Shared understanding
+***** Recordings
+****** Aren't always watched
+****** Good if they are watched
+****** Some customers don't like being recorded
+***** Only the moderator speaks
+
+** Usability vs PMF
+*** Usability
+**** Ease of use
+**** Bad usability can get in the way of user perceived value
+*** PMF
+**** Product value to the user
+***** Must be explicitly assessed
+****** Probe why users do/don't find value
+****** Refine your customer target or your product if needed
+****** You may need to revisit your value proposition hypotheses
+
+left side
+
+** Structure
+*** User
+**** Must verbalise
+**** The "think-aloud protocol"
+*** Use a test script
+**** Tests to do
+**** Tasks to perform
+**** Artefacts to use
+**** Questions to ask
+**** Order and organisation
+*** Do pilot test with team member
+*** Warm up
+**** 1-2 minute intro
+***** Get to know the user
+***** Rapport
+***** Important
+***** State you need 100% honesty
+**** Do discovery
+***** Needs
+***** Current solutions
+***** 10-15 minutes
+*** Wrap-up
+**** User
+***** Q&A: user asks questions
+***** Overall impression
+***** Ratings on features
+****** How likely is it that you would use the product?
+****** How easy was it..
+****** Should improve each iteration
+**** Form
+***** Ask for/if they
+****** Email / phone number
+***** Can be contacted to rectify issues
+***** Would like to be considered again in future
+****** Honest measurement of interest
+***** Would like to be notified when the product is released
+****** Honest measurement of interest
+**** Provide agreed compensation
+***** Get/provide a receipt
+
+** Questions
+*** Objectiveness
+**** Objective questions
+**** Get objective feedback
+**** Don't influence answers
+***** User asked questions
+****** Often you'd answer with a question
+****** "Should I do X?"
+******* Ask why they would want to do X
+******* You can also not respond
+*** "Five whys" technique
+**** Asking "why" too often causes defensiveness
+**** Mix up how you ask "why?"
+*** Good
+****[#F88] 1. Discovery
+***** Focus on behaviour and feelings with proposed benefits
+****** What / how / how frequent etc.
+****** End-to-end experience of a specific example
+****** Understand needs
+****** Understand satisfaction
+****** Information that validates/contradicts customer hypotheses
+****** Information that validates/contradicts your value proposition
+****[#F88] 2. Feedback about product
+***** Avoid leading questions -- don't imply answers
+****** Don't confirm a good product
+****** e.g. "Would you click the buy button?"
+***** Provide little intervention
+****** Ask them to perform a task, and observe from the background
+****** But ask probing questions
+****** Fly on the wall
+****** Intervention corrupts feedback
+****** The goal is to uncover problems, not aid the user
+***** Encourage verbalisation
+****** Ask a question if it doesn't happen
+******* Start the question with the observed action
+******* "I see you done ____, can you tell me why?"
+
+*** Open
+**** Why / how / what
+**** Focus on open ended questions
+**** Incurs long periods of silence
+*** Closed
+**** Do / did / are / is / would
+**** Avoid closed ended questions
+**** Often implies an answer
+
+** Capture what
+*** Capture feedback in terms of categories
+***[#lightblue] Feedback template
+**** Content
+***** The interview script
+***** User defined issues
+**** Measure
+***** Gripes that disappear between waves
+***** Key ratings
+******[#F88] Ease of use
+******* Usability
+******* "How easy is the product to use?"
+******[#F88] Product value
+******* "How valuable is the product to you?"
+******* PMF
+*** Categories
+****[#F88] Functionality
+***** Has the correct benefits?
+****** A feature may be missing
+****** A feature may not be important
+****** Tie it back to the value proposition
+****[#F88] Messaging (feedback)
+****[#F88] UX
+***** Unable to take full advantage of feature set
+
+@endmindmap
