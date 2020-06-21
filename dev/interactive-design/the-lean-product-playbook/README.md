@@ -289,6 +289,7 @@ The entire UX layer in the [PMF pyramid][2] can be expressed as the [UX iceberg]
 
 * [Mindmap][ch9-mindmap]
 * [Customer mindmap][customer-test-mm]
+* [Activity Diagram][customer-test-ad]
 * [Feedback template][feedback-template]
 
 Once you have an MVP built you must test it with [customers][customer-test-mm] to feed the iterative process of feedback and refine.
@@ -352,6 +353,7 @@ See the [feedback template][feedback-template] to understand how these are recor
 
 **Usability** questions would looks like: "how easy was the product to use?"; **product value** questions could be "how valuable do you find the product?", or "how likely are you to use the product?".
 
+[customer-test-ad]: part-ii-the-lean-product-process/9-test-mvp-with-customers/activity-diagram.png?raw=true
 [ch9-mindmap]: ./part-ii-the-lean-product-process/9-test-mvp-with-customers/mindmap.png?raw=true
 [customer-test-mm]: part-ii-the-lean-product-process/9-test-mvp-with-customers/customers.mm.png?raw=true
 [feedback-template]: part-ii-the-lean-product-process/9-test-mvp-with-customers/feedback-template.md
