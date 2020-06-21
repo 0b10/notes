@@ -1,0 +1,89 @@
+@startuml
+|Recruitment|
+
+title Lean Product Process: Test Your MVP with Customers
+
+start
+
+if (First run?) then (Yes)
+  :Do pilot test;
+  stop
+endif
+
+partition recruitment {
+  :Create/refine personas;
+  :Pre-screen customers;
+  note left
+    * demographics
+    * behavioural attributes
+    * psychographic profile
+  end note
+  :Book appropriate customers;
+}
+
+
+|Moderated Interview|
+if (Moderated?) then (Yes)
+  partition warm-up {
+    :Build rapport;
+  }
+
+  partition main-portion {
+    partition customer-discovery {
+      fork
+        :Follow script;
+      fork again
+        :Uncover needs;
+        :Get end-to-end examples;
+        :Gather hypotheses
+        validation/invalidation data;
+        :Gather value proposition
+        validation/invalidation data;
+      end fork
+    }
+
+    partition product-feedback {
+      fork
+        :Follow script;
+      fork again
+        :Objectively observe customer;
+      fork again
+        :Ask probing questions;
+      fork again
+        :Record UX/functionality/messaging data;
+      end fork
+    }
+  }
+
+  partition wrap-up {
+    :Do Q&A;
+    :Get overall product impressions;
+    :Get usability rating;
+    :Get product value rating;
+    :Re-invitation probe;
+    note left
+      * gauges genuine product interest
+      * re-invite to future interviews
+      * product release notification
+    end note
+    :Compensate;
+   }
+else (No)
+  |Unmoderated Interview|
+  :Provide script;
+  fork
+    :Customer completes tasks;
+  fork again
+    :Customer records UX/functionality/messaging data;
+  fork again
+    :Record analytics;
+  end fork
+
+  :Compensate customer;
+endif
+
+|Process Data|
+:Record data in feedback template;
+stop
+
+@enduml

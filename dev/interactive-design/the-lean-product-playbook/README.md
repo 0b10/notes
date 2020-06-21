@@ -285,7 +285,7 @@ The entire UX layer in the [PMF pyramid][2] can be expressed as the [UX iceberg]
 1. **Information architecture**: is concerned with the arrangements of feature set elements, optimised for findability -- which is the focus for user tests. A technique to optimise organisation is card sorting, where each element is a card and the user arranges them. Card sorting, and producing the resulting prototype, is an iterative process, and feedback from tests is measured for optimisation. Another technique for optimising findability is through analytics of the prototype, measuring the number of steps/time taken to achieve a goal. A model that can be used to express the architecture called a [site map][1], which expresses the interaction with elements in a hierarchical way.
 1. **Conceptual design**: is essentially a design metaphor, and is supposed to resonate with the intended audience in a stylistic or intuitive way -- aiding learnability. A product can implement many conceptual designs -- such as a shopping cart, being only a small part of the product. The conceptual design layers sits just above the feature set layer of the [PMF pyramid][2], and forms the bridge between the feature set and the itself. Often, this bridge is what drives product innovation. To bridge this gap you have to engage in *deep* user research, building personas -- while modelling the **context** and **technical abilities** in addition to the attributes that personas typically model. User research is conducted through interviews, usability tests, and surveys -- documenting the summary of results and key takeaways, which facilitates and simplifies learning capture. Other team members should be directly involved in the research, like product team members, so that they can observe the results first-hand -- which is a far more effective means to communicate lessons learned when compared to a second-hand report.
 
-### Chapter 9: Test Your MVP with Customers
+## Chapter 9: Test Your MVP with Customers
 
 * [Mindmap][ch9-mindmap]
 * [Customer mindmap][customer-test-mm]
@@ -295,7 +295,7 @@ Once you have an MVP built you must test it with [customers][customer-test-mm] t
 
 The purpose of testing is to uncover product blindness (developer bias), and to validate/invalidate the hypotheses about the customer.
 
-#### The Customer
+### The Customer
 
 You must choose around 5-8 [customers][customer-test-mm] that are members of the target market -- this is very important because choosing the wrong [customer][customer-test-mm] means potentially iterating your product in the wrong direction.
 
@@ -309,7 +309,7 @@ Frequently [customers][customer-test-mm] will not show up for interviews (about 
 
 About 10% of [customers][customer-test-mm] will offer bad feedback -- where they won't be critical, or they won't say much.
 
-#### The Interview
+### The Interview
 
 Generally, [customers][customer-test-mm] are interviewed on a one-to-one basis, unless there are time constraints. Interviewing [customers][customer-test-mm] in groups is not recommended, because group dynamics (group-think; dominant people etc.) can affect the collected data.
 
@@ -332,7 +332,7 @@ It's a good idea to pilot tests, to ensure that they are effective before they a
 Customers can be compensated for their time in the form of gift cards, money, invites to
 open beta, or swag. $75-$100 per hour is a reasonable amount, depending on the target customer.
 
-#### Capture
+### Capture
 
 The recorded data should be categorised as thee distinct categories:
 
