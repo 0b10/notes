@@ -1,0 +1,91 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: Has notes/template with the same name.
+  Yellow        \t: Has an image with the same name.
+  Light Purple  \t: A layer of the PMF Pyramid.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Lean Product Process: Iterate and Pivot
+
+*[#lightgreen] Iterate & Pivot
+
+
+** Misc
+*** Iterate quickly
+
+** Hypothesise-design-test-learn
+*** Aka build-measure-learn
+****[#F88] Build
+*****[#F88] Aka design
+****** Something to test hypotheses
+****[#F88] Measure
+*****[#F88] Aka test
+****** Test hypotheses
+***** Qualitative
+****** Also counts
+****** Not only quantitative
+****** Likely not statistically significant
+****[#F88] Learn
+*****[#F88] Learn
+****** Uncover unknowns
+****** Feeds hypotheses
+****** Do it quickly
+******* Reach PMF quicker
+****** i.e. validated learning
+*****[#F88] Hypothesise
+****** Built around uncovered data
+****** You usually start here
+******[#yellow] PMF pyramid
+******* Determine which layer you're changing
+******* Changing lower levels causes upsets in higher levels
+******* Focus on lower levels early on
+******** Value proposition
+
+** Iterative user-testing
+*** Focus
+**** Most important changes
+**** You don't have to fix everything, every iteration
+*** Brainstorming
+**** When necessary
+**** Come up with new solutons
+*** Feedback template
+**** Helps prioritise changes
+*** When to stop
+**** Avoid analysis paralysis
+**** There's no hard-and-fast rule
+*** Test the live product too
+
+left side
+
+** Persevere or pivot?
+*** Issues
+**** Hypotheses could be wrong
+**** Execution could be bad
+**** Poor marketing
+**** Building the product could go wrong
+**** Solutions
+***** Take a step back
+***** Brainstorm potential problems
+****** Map each problem to PMF layer
+***[#F88] Pivot
+**** The mountain metaphor
+***** Each PMF goal is the summit of a mountain
+***** Pivoting is choosing another mountain
+***** Find a path to any summit
+**** When
+***** Lukewarm reception after a number of iterations
+***** Customers are not excited
+***** When only part of your value proposition resonates with customers
+****** Pivot towards that
+***** A sub-market of your target market gets excited
+***** There's other, potentially better opportunities
+**** Changing a main hypothesis
+***** Changing target customer
+***** Changing differentiators in value proposition
+*** You must achieve PMF within first round of funding
+
+@endmindmap

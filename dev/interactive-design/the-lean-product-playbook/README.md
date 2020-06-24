@@ -256,9 +256,9 @@ Eventually you will reach the live product phase, which tests real issues such a
 
 * [Mindmap](part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/mindmap.png?raw=true)
 * [UX Iceberg Mindmap](part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.mm.png?raw=true)
-* [UX Iceberg][3]
-* [Layout Grid][4]
-* [Site map][1]
+* [UX Iceberg][ux-iceberg]
+* [Layout Grid][layout-grid]
+* [Site map][sitemap]
 
 ### The UX Team
 
@@ -278,12 +278,12 @@ Two important aspects of UX are usability, and delight. Usability is concerned w
 
 ### The UX Iceberg
 
-The entire UX layer in the [PMF pyramid][2] can be expressed as the [UX iceberg][3]. The [UX iceberg][3] consists of, in order:
+The entire UX layer in the [PMF pyramid][pmf-pyramid] can be expressed as the [UX iceberg][ux-iceberg]. The [UX iceberg][ux-iceberg] consists of, in order:
 
-1. **Visual design**: the part that the user sees and is responsible for reinforcing the visual hierarchy, brand personality, user delight and differentiating your product from competitors. The way these responsibilities are achieved is through conveying emotion and contrast with **colour**, style and visual hierarchy with **typography**, **graphics** (which are critical for conversion rates), consistency with **style guides** and [**layout grids**][4]. Visual design UX is attained through gradually increasing the fidelity of prototypes, eventually reaching mockups -- which provide a rich interactive user experience. Each phase in fidelity is carefully tested, and feeds back into prototype iteration.
+1. **Visual design**: the part that the user sees and is responsible for reinforcing the visual hierarchy, brand personality, user delight and differentiating your product from competitors. The way these responsibilities are achieved is through conveying emotion and contrast with **colour**, style and visual hierarchy with **typography**, **graphics** (which are critical for conversion rates), consistency with **style guides** and [**layout grids**][layout-grid]. Visual design UX is attained through gradually increasing the fidelity of prototypes, eventually reaching mockups -- which provide a rich interactive user experience. Each phase in fidelity is carefully tested, and feeds back into prototype iteration.
 1. **Interaction design**: deals with how the user interacts with the product -- input, feedback, navigation (flow) etc. A flowchart can be used to model the interaction and navigation. Wireframes should be used to gather user feedback on the layout, UX, and general interaction. Divergent thinking should be applied to brainstorm *all* ideas (even bad ones) derived from feedback, making sure not to narrow the choice of solutions too early -- test and see. How the user interacts with the product is often tied quite closely to the conceptual design -- e.g. a shopping cart.
-1. **Information architecture**: is concerned with the arrangements of feature set elements, optimised for findability -- which is the focus for user tests. A technique to optimise organisation is card sorting, where each element is a card and the user arranges them. Card sorting, and producing the resulting prototype, is an iterative process, and feedback from tests is measured for optimisation. Another technique for optimising findability is through analytics of the prototype, measuring the number of steps/time taken to achieve a goal. A model that can be used to express the architecture called a [site map][1], which expresses the interaction with elements in a hierarchical way.
-1. **Conceptual design**: is essentially a design metaphor, and is supposed to resonate with the intended audience in a stylistic or intuitive way -- aiding learnability. A product can implement many conceptual designs -- such as a shopping cart, being only a small part of the product. The conceptual design layers sits just above the feature set layer of the [PMF pyramid][2], and forms the bridge between the feature set and the itself. Often, this bridge is what drives product innovation. To bridge this gap you have to engage in *deep* user research, building personas -- while modelling the **context** and **technical abilities** in addition to the attributes that personas typically model. User research is conducted through interviews, usability tests, and surveys -- documenting the summary of results and key takeaways, which facilitates and simplifies learning capture. Other team members should be directly involved in the research, like product team members, so that they can observe the results first-hand -- which is a far more effective means to communicate lessons learned when compared to a second-hand report.
+1. **Information architecture**: is concerned with the arrangements of feature set elements, optimised for findability -- which is the focus for user tests. A technique to optimise organisation is card sorting, where each element is a card and the user arranges them. Card sorting, and producing the resulting prototype, is an iterative process, and feedback from tests is measured for optimisation. Another technique for optimising findability is through analytics of the prototype, measuring the number of steps/time taken to achieve a goal. A model that can be used to express the architecture called a [site map][sitemap], which expresses the interaction with elements in a hierarchical way.
+1. **Conceptual design**: is essentially a design metaphor, and is supposed to resonate with the intended audience in a stylistic or intuitive way -- aiding learnability. A product can implement many conceptual designs -- such as a shopping cart, being only a small part of the product. The conceptual design layers sits just above the feature set layer of the [PMF pyramid][pmf-pyramid], and forms the bridge between the feature set and the itself. Often, this bridge is what drives product innovation. To bridge this gap you have to engage in *deep* user research, building personas -- while modelling the **context** and **technical abilities** in addition to the attributes that personas typically model. User research is conducted through interviews, usability tests, and surveys -- documenting the summary of results and key takeaways, which facilitates and simplifies learning capture. Other team members should be directly involved in the research, like product team members, so that they can observe the results first-hand -- which is a far more effective means to communicate lessons learned when compared to a second-hand report.
 
 ## Chapter 9: Test Your MVP with Customers
 
@@ -353,18 +353,61 @@ See the [feedback template][feedback-template] to understand how these are recor
 
 **Usability** questions would looks like: "how easy was the product to use?"; **product value** questions could be "how valuable do you find the product?", or "how likely are you to use the product?".
 
+## Chapter 10: Iterate and Pivot
+
+* [Mindmap][ch10-mindmap]
+
+The iterative process for developing the product can be expressed as **hypothesise-design-test-learn**.
+
+Focus on the most important items, not every problem needs to be solved each iteration -- iterate quickly, and track performance.
+
+Where necessary, you can use brainstorming sessions to dig yourself out of a rut -- e.g. maybe to develop a more effective test script, or during the learning phase, or even the hypotheses stage. Any stage can use brainstorming if it's useful.
+
+There is no hard-and-fast rule to determine when you should stop iterating and move onto the live product -- but when you do, don't forget to test the live product too. Don't get held back by analysis paralysis, move quickly.
+
+### 1: Hypothesise
+
+Start off by defining what the customer wants, derived from uncovered needs. Initially this data isn't available, and the hypotheses is just a guess. The hypotheses is validated via the subsequent phases.
+
+Determine what level of the [PMF Pyramid][pmf-pyramid] each hypothesis is targeting, because you want to start as low as you can (value proposition) and work your way up (UX), making sure your hypotheses are fully validate for each level, before moving on. For example, changing your value proposition when you are validating the UX can be very costly. The lower layers form the foundation for the higher layers, so make sure that you are moving forward with care -- use validated learning to support your hypotheses.
+
+### 2: Design
+
+Create the artefact (wireframes, mockups, or the full product etc.). The goal here is to test the hypotheses in the next phase, and your design/product should reflect your hypotheses, and be testable.
+
+### 3: Test
+
+This is where you measure and record everything. There will be a great deal of qualitative information collected directly from customers to help guide your decision making, this is on top of quantitative data -- like A/B testing, and engagement analytics.
+
+### 4: Learn
+
+Uncover unknowns to feed the hypotheses. Do it quickly, and iterate quickly. Doing it quickly means reaching PMF quicker.
+
+### Pivot or Persevere?
+
+One important question you should keep in mind for each iteration is -- should we continue or pivot?
+
+Pivoting essentially means changing the main hypothesis you have about your customer -- which results in changing your target customer, or changing the differentiators in your value proposition.
+
+You would pivot when your customers don't seem to get excited about your artefact as you iterate; there are better opportunities that have been identified; when only part of your value proposition resonates with your target customers, and pivoting towards that makes sense; a sub-market of your target customers gets exciting, and you focus on them.
+
+The mountain metaphor can be used to visualise a pivot -- each set of value propositions represents a mountain, and the tip of the mountain is PMF. The goal is to find a path to the tip of *any* mountain, which means changing paths/mountain may become a necessity.
+
+Having problems reaching PMF may not always be *having* the wrong hypotheses, but perhaps poor execution of product development, poor marketing, or the product build process could be flawed etc. When you have issues reaching PMF, you should take a step back (before pivoting) and brainstorm potential problems. The aforementioned problems can easily be masked by poor feedback, and the assumption that PMF is just not being reached. So be careful.
+
+[ch10-mindmap]: part-ii-the-lean-product-process/10-iterate-and-pivot/mindmap.png?raw=true
 [customer-test-ad]: part-ii-the-lean-product-process/9-test-mvp-with-customers/activity-diagram.png?raw=true
-[ch9-mindmap]: ./part-ii-the-lean-product-process/9-test-mvp-with-customers/mindmap.png?raw=true
+[ch9-mindmap]: part-ii-the-lean-product-process/9-test-mvp-with-customers/mindmap.png?raw=true
 [customer-test-mm]: part-ii-the-lean-product-process/9-test-mvp-with-customers/customers.mm.png?raw=true
 [feedback-template]: part-ii-the-lean-product-process/9-test-mvp-with-customers/feedback-template.md
 [adoption-lifecycle]: part-ii-the-lean-product-process/3-determine-your-target-customer/adoption-lifecycle.notes.md
 [persona-template]: part-ii-the-lean-product-process/3-determine-your-target-customer/persona-template.notes.md
 [kano-model]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/kano-model-framework.png
 [value-proposition-template]: part-ii-the-lean-product-process/5-define-your-value-proposition/value-proposition.template.md
-[1]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/site-map.gif?raw=true
-[2]: part-i-core-concepts/pmf-pyramid.png?raw=true
-[3]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.jpg?raw=true
-[4]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/layout-grid.jpg?raw=true
+[sitemap]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/site-map.gif?raw=true
+[pmf-pyramid]: part-i-core-concepts/pmf-pyramid.png?raw=true
+[ux-iceberg]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/ux-iceberg.jpg?raw=true
+[layout-grid]: part-ii-the-lean-product-process/8-apply-principles-of-great-ux-design/layout-grid.jpg?raw=true
 [mvp-features-activity-diagram]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/activity-diagram.png?raw=true
 [prioritised-feature-chunk-table]: part-ii-the-lean-product-process/6-specify-mvp-feature-set/prioritised-feature-chunk-table.notes.md
 [mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true
