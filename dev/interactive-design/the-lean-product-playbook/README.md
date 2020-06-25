@@ -15,6 +15,8 @@
 
 # Part I: Core Concepts
 
+### Chapter 1 & 2: Achieving PMF & Problem Space vs. Solution Space
+
 * [Mindmap](part-i-core-concepts/mindmap.png?raw=true)
 * [PMF Pyramid][pmf-pyramid]
 
@@ -23,9 +25,6 @@ When attempting to follow this process keep this in mind:
 > Obey principles without being bound to them -- Bruce Lee
 
 > Adapt what is useful, reject what is useless, and add specifically what is your own -- Bruce Lee
-
-
-### Chapter 1 & 2: Achieving PMF & Problem Space vs. Solution Space
 
 ### Market
 
