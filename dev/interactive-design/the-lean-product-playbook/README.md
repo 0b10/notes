@@ -13,6 +13,68 @@
 * Test and iterate on the product layout, user interaction, general experience and visuals -- gauging on usability and delight
 * Bridge the feature set with design metaphors (aka conceptual model), you must deeply understand the target users
 
+# Part I: Core Concepts
+
+* [Mindmap](part-i-core-concepts/mindmap.png?raw=true)
+* [PMF Pyramid][pmf-pyramid]
+
+When attempting to follow this process keep this in mind:
+
+> Obey principles without being bound to them -- Bruce Lee
+
+> Adapt what is useful, reject what is useless, and add specifically what is your own -- Bruce Lee
+
+
+### Chapter 1 & 2: Achieving PMF & Problem Space vs. Solution Space
+
+### Market
+
+A market can be defined by existing customers, potential customer, or by customers that have problems in common.  You can determine the current (or future) market size through determining the total market revenue, or by the number of customers. You should avoid happy markets, and target markets with problems that need to be solved instead.
+
+Competitors form market segments, and you can segment the market with any metric, need, or product you see fit.
+
+Sometimes you can create a new market, creating solutions to problems that nobody has solved yet.
+
+### Product Market Fit
+
+The goal is to ream PMF as soon as possible. Do as little rework as possible by being rigorous and thinking quickly. 
+
+The top half of the [PMF Pyramid][pmf-pyramid] must satisfy the bottom half -- the product must satisfy the market.
+
+The book isn't clear on how iteration should occur, but it explicitly states that an iteration should follow through the entire [PMF Pyramid][pmf-pyramid]. However, the book also implies later that each layer should be iterated upon individually, and have its hypotheses fully validated before moving onto the next layer -- which is actually critical to avoid costly rework.  The book also hints at revisions (major versions), which translates to a complete pass through the pyramid (ignoring some lower layers if necessary).
+
+The book also talks about problem/solution space, and explicitly states that the problem space (target customer, understand needs, value proposition) should be fully understood before moving onto the solution space (feature set, UX). This implies that the problem space should be iterated upon, as a whole, then the solution space once the former has been fully validated.
+
+In conclusion, I think it's a bit of both - iterate on each level as best you can, iterating on the problem space and fully validating it first, then moving onto the solution space.
+
+### Solution Space vs. Problem Space
+
+> Customers don't care about your solution. They care about their problems -- Dave McClure
+
+The problem space should be fully understood before proceeding to the solution space. The problem space can be understood via customer discovery techniques (aka contextual inquiry) like interviews, observation, questionnaires etc.
+
+With the problem space you define problems, not solutions -- the NASA pen is an example: "a need to record notes in space" is the problem, the NASA pen is a solution, hence the pencil being overlooked.
+
+The problem space focuses on *what* the product needs to achieve (needs, desires, pain points, and wants), and targets the *target customer*, underserved needs, and value proposition layers of the [PMF Pyramid][pmf-pyramid]
+
+The solution space focuses on *how* it will be achieved (ideas, design, prototypes, product/MVP), whose artefacts are the feature set and UX layers of the [PMF Pyramid][pmf-pyramid].
+
+The value proposition is the bridge between the problem and solution space.
+
+You can use the solution space to define the problem space through observing customers using current solutions, observing and recording their pain points.
+
+The problem space is usually best defined via your own prototypes/artefacts.
+
+### Hypotheses
+
+Hypotheses should be formed for each layer in the [PMF Pyramid][pmf-pyramid] -- e.g. a hypothesis on the customer's underserved needs,  the value proposition they'd receive well, the feature sets they want etc.
+
+Articulate a hypotheses, and solicit feedback.
+
+### Misc
+
+The product strategy is really a determination of how the product will be better than competitors -- how each market need is met, a determination made through validated learning -- the feature set.
+
 # Part II: The Lean Product Process
 
 ## Chapter 3: Determine Your Target Customer
@@ -413,3 +475,4 @@ Having problems reaching PMF may not always be *having* the wrong hypotheses, bu
 [mvp-pyramid]: part-ii-the-lean-product-process/7-create-your-mvp-prototype/mvp-pyramid.jpg?raw=true
 [laddering]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/laddering.notes.md
 [customer-discovery-frameworks]: part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md
+[lean-product-process]: part-i-core-concepts/lean-product-process.notes.md
