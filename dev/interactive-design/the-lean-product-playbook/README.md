@@ -1,7 +1,49 @@
+# Summary
+
+## The Lean Product Process
+
+This section summarises [the lean product process][lean-product-process]. Each step is numbered, and some subheadings extend the description of a phase. You must read the chapter notes, view the models, and mindmaps to fully understand this process.
+
+### 1. Determine the Target Customer
+
+Choose a market or market segment, and model *real* customers (demographics, personality, behavioural attributes etc.) with personas. Use the [technology adoption lifecycle framework][adoption-lifecycle] framework to gain some insight into their personality. Modelling the customer allows you to understand who you are targeting. From this, you will develop hypotheses about what the customer actually needs, which helps determine how you will approach them -- e.g. find them; interview them etc. Use interviews and surveys to collect qualitative data. Iterate upon the personas until you are comfortable they are accurate.
+
+### 2. Identifying Underserved Needs
+
+Create (guess) an initial set of hypotheses from the developed personas, and derive a set of benefits from them -- written from the customer's perspective. Test your benefits with customers through interviews, surveys, and questionnaires. Record the customer reactions, and refine your hypotheses. This whole process is iterative, and should result in a set of benefits that are increasingly popular over time -- tracking, for each benefit: user satisfaction with competition, and importance. Use a [customer discovery framework][customer-discovery-frameworks] (equations) to track "opportunity". After a number of iterations, it should be clear which benefits customers actually need.
+
+### 3. Define the Value Proposition
+
+Now that you have a list of validated benefits it's time to create a value proposition, which will serve as the product's foundation, and a marketing tool. Use the [Kano model][kano-model] to categorise each benefit appropriately, and use the [value proposition template][value-proposition-template] to visually represent your value proposition, and compare your product to competitors. You can also use this template for product strategy, by expressing future projections about your competitors and using it a tool to help generate the strategy.
+
+### 4. Specify MVP Feature Set
+
+Now that you have the value proposition created, you want to turn them into a minimal feature set for an MVP. Minimal means that you will prioritise them, and be picky. You will produce a set of small, atomic, and testable user stories. After that they will be processed (rejecting the bad), categorised [Kano model][kano-model], prioritised with an ROI, and the top few will be selected. The selected user stories will be placed into a [prioritised feature chunk table][prioritised-feature-chunk-table].
+
+### 5. Create the MVP Prototype
+
+The goal here is to create marketing related stuff (landing page; explainer video etc.), and to build and test a prototype UX (going from low to high fidelity). The marketing material will gauge interest, which should be iterated upon until it's suffice, and iterating on UX will allow you to gradually develop a UX that resonates with users. Again, this is an iterative process that's driven by feedback.
+
+#### Apply the Principles of Great UX Design
+
+When developing the prototype's UX you should keep good UX principles in mind -- visual hierarchy (colour, size, placement etc.), Gestalt principle (close elements are related), and the principles of composition (spacing, contrast etc.). The goal is to achieve good usability (learnability, cognitive load etc.), and to invoke delight within the user (aesthetics etc.). The entire UX design can be divided between a set of responsibilities -- visual design, interaction design, information architecture (navigation), and the conceptual design (design metaphors).
+
+### 6. Test the MVP with Customers
+
+The process of iteratively building an MVP relies upon feedback from customers, so you must test it. A sample size of 5-8 pre-screened customers and a test script are all you need. The test script is a carefully chosen set of tasks and questions that can be followed by a moderator, or by the user in an unmoderated setting. User testing services are a good way to execute concurrent tests, but you lose a lot of qualitative observational data. They are also a good source of willing users. Typically you'd administer the test as a one-to-one, moderated interview -- particularly at an earlier stage of development. Interviews, as opposed to surveys, provide direction, through deep customer discovery, whereas unmoderated setting are rigid.
+
+## Iterate and Pivot
+
+Iterating quickly is the key, don't get bogged down by analysis paralysis, or try to fix every problem for each iteration -- move fast, get feedback. For each stage in the [PMF Pyramid][pmf-pyramid] you should employ the hypothesise-design-test-learn technique -- where "design" is a loose term that applies to producing some artefact. Keep in mind that the further up the [PMF Pyramid][pmf-pyramid] you go, the harder it is to go back and make changes -- so make sure your hypotheses for each stage is fully validated (tested), and you are confident that you can move on.
+
+Pivoting involves changing the hypotheses about your customer, which ultimately means cascading changes right up through the [PMF Pyramid][pmf-pyramid]. If you are changing your hypotheses, you are changing your product, and you are essentially going after a different market. This is a decision best made early on. Don't be scared to pivot, in fact, embrace it if you can't reach PMF -- just try not to invest heavily in development before pivoting. Not reaching PMF would look like: customers not getting excited, or only part of your value proposition resonates with customers. As the saying goes: "skate where the puck is going to be". Pivot towards what customers need, but do it early.
+
 # Key Takeaways
 
 * Start with meeting a target market needs, not an idea/solution
+  * Focus on the problem space to begin with
 * Make/refine hypotheses based on data, then test is
+  * Each phase/level of the [PMF Pyramid][pmf-pyramid] should have hypotheses about the customer
   * Use a data driven approach to measure customer satisfaction
 * Iteratively model your customer with personas, express your hypotheses
 * Deeply understand the customer needs, and be very pragmatic.
@@ -112,7 +154,7 @@ Personas can be derived from data captured through interviews or surveys. Anothe
 
 ## Chapter 4: Identifying Underserved Customer Needs
 
-* [Frameworks](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/customer-discovery-frameworks.notes.md)
+* [Frameworks][customer-discovery-frameworks]
 * [Mindmap](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/mindmap.png?raw=true)
 * [Activity Diagram](part-ii-the-lean-product-process/4-identifying-underserved-customer-needs/activity-diagram.png?raw=true)
 * [Laddering Notes][laddering]
@@ -143,6 +185,7 @@ Plot and reason about the data, systematically discover opportunities, and repea
       * Recursively enquiring about answers until you hit an atomic need -- go deep
       * This can simplify the hypothesis (common root), or reveal a set of related needs -- needs that must be addressed together
   * Importance and satisfaction are used to assess opportunity -- further research and development 
+  * Satisfaction is measured against the competition, the lower the satisfaction, the greater the opportunity should be.
 * [Frameworks][customer-discovery-frameworks]
   * Plot importance/satisfaction
   * Use to track progress, and reveal opportunity
