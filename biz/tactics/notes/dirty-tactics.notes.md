@@ -5,6 +5,10 @@
 Have the customer make a small commitment, then you can grow your requirements [\[1\]][1]
   * example: ask a shopkeeper to place a small sign in the window, then the next week you can ask if you can make the sign slightly larger [\[1\]][1]
 
+### Door in the Face Technique
+
+Make the customer "slam the door in your face" multiple times, with offers that they *will* refuse. This makes the customer more likely to accept a more reasonable offer. This contrasts the foot-in-the-door technique, which starts small and works up to larger requests. [\[3\]][3]
+
 
 ### Ambiguous/Subtle Manipulation and Word Play
 
@@ -52,3 +56,4 @@ Appeal to their emotion [\[1\]][1] [\[2\]][2]
 
 [1]: https://www.youtube.com/watch?v=vC5cmW8O3L8
 [2]: https://en.wikipedia.org/wiki/Pathos
+[3]: https://en.wikipedia.org/wiki/Door-in-the-face_technique
