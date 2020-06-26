@@ -19,6 +19,27 @@ From a seller's perspective, it involves offering a product at a lower price, in
 
 This is closely related to the low-ball technique, and contrasts it. An ambit claim is where a demand made is over-and-above expected counter offers. [\[source\]][low-ball]
 
+### Framing Effect
+
+How messages are framed will affect how people react to them:
+
+* positive: 33% chance of saving all lives, 66% possibility of saving no-one;
+* negative: 33% chance that no-one will die, 66% probability that everyone will die.
+
+Other examples:
+
+* negative framing (leveraging risk adversity): 93% of PHD students registered early when there was a penalty for late registrations, whereas 67% of PHD students registered early when there was a discount for doing so;
+* positive framing: more people will support an economic policy if the employment rate is emphasised, rather than the unemployment rate;
+* positive framing: 75% lean meat vs. 25% fat
+
+The effect tends tends to favour a "sure option" in a gain frame, and a risky option in a loss frame -- people are likely to gravitate towards risk when there's a potential loss, but towards a gain frame when it's a certainty.
+
+This effect is more prevalent in children. Young adults are risk takers when presented with a loss frame, and also more likely to respond to positive frames too. Older adults are more likely to make decisions based on immediate gains or losses, and are more susceptible to framing and bias.
+
+This effect defies logic: extensionality. An extensionality violation means two different but logically identical expressions have different outcomes. This is a very prevalent bias with decision making, but curiously only within a person's native language.
+
+[\[source\]][framing-effect]
+
 ### Ambiguous/Subtle Manipulation and Word Play
 
 By now you might be asking...
@@ -31,7 +52,6 @@ BUY NOW! [\[source\]][1]
 
 People don't like to admit that they have changed their mind [\[source\]][1]
   * if a customer has already committed to believing that something is cheap, or of real value, they may be less willing to change their mind about it [\[source\]][1]
-
 ### Scarcity
 
 * in stock, time (time left etc.) [\[source\]][1] 
@@ -67,3 +87,4 @@ Appeal to their emotion [\[source\]][1] [\[source\]][pathos]
 [pathos]: https://en.wikipedia.org/wiki/Pathos
 [door-in-the-face]: https://en.wikipedia.org/wiki/Door-in-the-face_technique
 [low-ball]: https://en.wikipedia.org/wiki/Low-ball
+[framing-effect]: https://en.wikipedia.org/wiki/Framing_effect_(psychology)
