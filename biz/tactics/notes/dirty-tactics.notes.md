@@ -9,6 +9,11 @@ Have the customer make a small commitment, then you can grow your requirements [
 
 Make the customer "slam the door in your face" multiple times, with offers that they *will* refuse. This makes the customer more likely to accept a more reasonable offer. This contrasts the foot-in-the-door technique, which starts small and works up to larger requests. [\[3\]][3]
 
+### Low-ball Technique
+
+From a buyer's perspective, it involves making a lower than expected offer, in the hopes the seller will lower their price.
+
+From a seller's perspective, it involves offering a product at a lower price, in the hopes of up-selling more expensive offerings. The buyer won't back out because of the good initial deal, and because the add-ons are optional -- this is how they justify the purchase to themself, which leverages cognitive dissonance. [\[4\]][low-ball]
 
 ### Ambiguous/Subtle Manipulation and Word Play
 
@@ -57,3 +62,4 @@ Appeal to their emotion [\[1\]][1] [\[2\]][2]
 [1]: https://www.youtube.com/watch?v=vC5cmW8O3L8
 [2]: https://en.wikipedia.org/wiki/Pathos
 [3]: https://en.wikipedia.org/wiki/Door-in-the-face_technique
+[low-ball]: https://en.wikipedia.org/wiki/Low-ball
