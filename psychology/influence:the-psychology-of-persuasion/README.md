@@ -76,6 +76,8 @@ The **contrast principle** defines a mechanism alter the perceptions of an objec
 
 > The rule says that we should repay, in kind, what another person has provided us.
 
+[Mindmap][ch2-mindmap]
+
 The obligation to reciprocate kindness is pervasive in any society -- some more pervasive than others. It is said to form the basis of society with goods and services, and invokes a feeling of indebtedness. It's deeply embedded in our culture, and people are unconsciously taught to reciprocate actions.
 
 A study covered in the book demonstrated that when a favour was done for a subject, they are likely to reciprocate a favour in return -- in the study, the favour was a can of Coke provided by another participant (assistant), the reciprocated behaviour was the subject purchasing raffle tickets. How much the participant liked the assistant is unrelated to how many tickets they bought, those that didn't like the assistant bought just as many as those who did -- reciprocation is **overpowering** in nature. Return favours can also be chosen for the subject, just like the raffle tickets.
@@ -95,8 +97,6 @@ The reciprocation rule implies some zero-sum, even exchange, but often the excha
 Another more subtle form of reciprocation is through concessions -- we are likely to reciprocate a concession. The example in the book was a boy scout selling $5 tickets, when the subject refused, the boy scout conceded and offered a $1 chocolate bar instead. The subject felt obligated, and conceded. Sometimes, if a person is being deceptive, the initial offer is actually just a decoy. This is the contrast principle at work.
 
 > Heads I win, tails you lose.
-
-[Mindmap][ch2-mindmap]
 
 This is known as the **reject-then-retreat** technique.
 
@@ -125,6 +125,8 @@ Being the subject is not easy, it's not clear if the initial offer is genuine, o
 One way to deal with it is to just accept the initial favour, and if it turns out to be a compliance device, then don't feel obligated to comply.
 
 ## 3. Commitment and Consistency
+
+> Give an inch and take a mile [idiom]
 
 [Mindmap][ch3-mindmap]
 
