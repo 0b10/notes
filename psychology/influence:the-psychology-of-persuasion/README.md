@@ -16,7 +16,7 @@
 
 > If I can get you to make a commitment, I will have set the stage for your automatic and ill considered consistency to that commitment.
 
-Getting an initial **commitment** is called the **foot-in-the-door technique**, and subjects are more likely to be **consistent** with their initial commitments. The initial commitment can be small, and incrementally grown overtime, eventually reaching very large commitment. Commitments can come in many forms -- asking a favour, a hug, or a purchase etc.  The initial doesn't have to be related to the true intention, it can be just a token gesture. 
+Getting an initial **commitment** is called the **foot-in-the-door technique**, and subjects are more likely to be **consistent** with their initial commitments. The initial commitment can be small, and incrementally grown overtime, eventually reaching a very large commitment. Commitments can come in many forms -- asking a favour, a hug, or a purchase etc. The initial commitment doesn't have to be related to the true intention, it can be just a token gesture. 
 
 Generally speaking, a **consistency** is a cognitive shortcut that affords people less effort for managing information and their environment. It's this shortcut that's exploited through solicitation.  Consistency is so strong that sometimes people will follow through with obviously bad decisions to avoid dealing with some difficult reality -- like a debunked solution for a problem that really needs to be solved.
 
@@ -25,6 +25,26 @@ Commitment alters one's self image, and can be effectively achieved through publ
 Sometimes commitment and consistency are used in a more insidious way -- promises that must be kept, yet can't be fulfilled, can be leveraged for a larger return; simply asking for a benign statement or answer, only to be leveraged for gain at a later date; getting written commitment, offering a deal, then revoking said deal at a later date -- aka the **lowball technique**.
 
 The end goal of commitment and consistency is to induce a commitment within the subject, changing their self image in the process, and then removing those inducements, and allowing the subject to pursue and grow that self image on their own. The self image changes can be fairly innocuous -- like environment conscientiousness.
+
+### 4. Social Proof
+
+[Mindmap][ch4-mindmap]
+
+> Since 95% of the people are imitators and only 5% initiators, people are persuaded more by the actions of others than by any proof that we can offer -- Cavett Robert
+
+> In general, when we are unsure of ourselves, when the situation is unclear or ambiguous, when uncertainty reigns, we are most likely to look to and accept the actions of others as correct.
+
+* The best leaders know how to arrange group conditions to maximise social acceptance;
+* people look to the behaviours of others in times of **uncertainty**, and are mostly affected by those who are **similar** to themselves;
+* people will often go against their best judgement to conform to groups (assuming ideal conditions) -- **pluralistic ignorance**;
+* social proof can be extremely subtle;
+* sometimes following the majority is a good thing, but it makes you vulnerable. Other times it's not a good thing.
+
+Social proof is essentially conformity to the majority (group or individuals), especially in times of **uncertainty**, *particularly* when the group members are **similar** to the subject. Uncertainty causes people to look to the actions of other to determine their own behaviour, and [pluralistic ignorance][pluralistic-ignorance], which plays a key role, is what convinces the subject (particularly when in a group of strangers) to conform, even against their own beliefs (this effect will apply to each member of the group). The greater the degree of social proof, the more convincing it is. Sometimes social proof is sought by those whose beliefs are wavering, in a desperate attempt to validate them.
+
+Other factors beside uncertainty and similarity can influence behaviour, for example, [diffusion of responsibility][diffusion-of-responsibility] which reduces the responsibility of each group member and makes them less likely to act.
+
+To combat pluralistic ignorance one has to be direct, clear, and assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is so subtle, e.g. with betting, and the favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
 
 ## Intro
 
@@ -173,7 +193,7 @@ People use their own actions to define their own beliefs -- self perception. The
 Concessions were used (with the writings) to get initial commitments -- highly favourable statements about America, with small concessions leaning towards Communism. This was a small step towards conversion.
 
 The act of writing a statement down has several layers to it: it drives self perception;
-it can be shown to other people (who will have natural tendency to think it's true), convince them, and conversely convince yourself. People respond to what they perceive others think of them. One study found that when subjects were told that they were considered charitable, they gave larger chartable donations.
+it can be shown to other people (who will have a natural tendency to think it's true), convince them, and conversely convince yourself. People respond to what they perceive others think of them. One study found that when subjects were told that they were considered charitable, they gave larger chartable donations.
 
 > What those those around us think is true of us is enormously important in determining what we ourselves think is true
 
@@ -223,6 +243,104 @@ Two studies in the book used the "hidden benefit" of the lowball effect to get s
 
 > It is this tendency to be automatically and unthinkingly consistent that we must be wary of [paraphrased]
 
+### 4. Social Proof
+
+[Mindmap][ch4-mindmap]
+
+Experiments have shown that canned laughter causes audiences to laugh more, longer, and to rate a show as funnier. Some evidence indicates that it works best on poor jokes. This can come in the form of demonstrations, to coerce behaviour -- an example is marketing videos, where people similar to the demographics vouch for, or are observed using, the product. The perception that other people are doing something, when you are uncertain about the situation, can come across as the right thing to do. Often-times scams use paid fanatics 
+
+Social proof is perceived as:
+
+> Usually, when a lot of people are doing something, it is the right thing to do.
+
+Why it exists:
+
+> Like the other weapons of influence, it provides a convenient shortcut for determining how to behave but, at the same time, makes one who uses the shortcut vulnerable.
+
+Social proof can come in the form of partially fake, or completely fake evidence. Bartenders often "salt" their tip jars -- initially filling it with some change. Fake audience members are often used to game or encourage reactions from other audience members. Phrases like "fastest growing" and "largest selling" are often used in copywriting. Night club owners sometimes employ queues of people. Charity events that spend most of their time emphasising how much other people have donated. Sales pitches that provide testimonies of other purchasers.
+
+> Since 95% of the people are imitators and only 5% initiators, people are persuaded more by the actions of others than by any proof that we can offer -- Cavett Robert
+
+One experiment by Albert Bandura showed that children with a fear of dogs were 67% likely to interact closely with dogs after spending four days watching other children playing with them. This effect didn't dissipate either, it grew stronger over time without intervention. A second study showed that this same effect can be achieved through videos, and the most effective videos were ones that showed a lots of children interacting with dogs.
+
+> Apparently the principle of social proof works best when the proof is provided by the actions of a lot of other people. 
+
+This same method of using videos also worked on children who were showing symptoms of social isolation. It was so successful that some of the children later became social leaders within their schools.
+
+An interesting anecdote in the book, about a cult and their day of reckoning, explained how a group further convinced themselves after being ultimately proven wrong -- their day of reckoning (the end of the world) didn't come. These people had dedicated so much, that in utter disbelief and cornered, they sought any way to reconcile their wavering beliefs. It came in the form of social proof -- recruitment, and contacting media. 
+
+> If they could spread the word, if they could inform the uninformed, if they could persuade the sceptics, and if, by doing so, they could win new converts, their threatened but treasured beliefs could become *truer*.
+
+[**Pluralistic ignorance**][pluralistic-ignorance] is the phenomenon where multiple group members conform to group opinion, even though they think it's wrong.
+
+> Pluralistic ignorance is a situation where a majority of group members privately reject a norm, but go along with it because they assume, incorrectly, that most others accept it.  This is also described as "no-one believes, but everyone thinks that everyone believes". [\[source\]][pluralistic-ignorance]
+
+It was [pluralistic ignorance][pluralistic-ignorance], that caused the group to ignore  the obvious evidence that they had been duped, and to seek social validation from others to further justify their commitment. This sounds a lot like the "walls of consistency".
+
+Social proof works best with uncertainty:
+
+> In general, when we are unsure of ourselves, when the situation is unclear or ambiguous, when uncertainty reigns, we are most likely to look to and accept the actions of others as correct.
+
+The book states two reasons for the **bystander effect**:
+
+1. with several people looking on, each person's responsibility is reduced;
+1. with a number of people present, and an uncertainty with what's going on, each person is looking around at everyone else to see their reactions -- social proof.
+
+The book describes an experiment where a research assistant (posing as a person having an epileptic fit) received help 85% of the time when there was a single bystander, and only 31% of the time when there was five.
+
+Another experiment is described where smoke was deliberately seeped under a door: 75% of lone individuals reported it; 38% reported it in a three person group; only 10% reported it when two of a three person group were coached to not react.
+
+A similar study showed that a lone bystander provided emergency aid 90% of the time, while only 16% of the time when in the presence of two passive bystanders.
+
+> It seems that the pluralistic ignorance effect is strongest among strangers.
+
+The bystander effect appears to occur when there is uncertainty about the situation, especially in the company of strangers. However, when the situation is very clear, aid is rendered 90-100% of the time, regardless if the bystander is alone or in a group.
+
+Cities appear to have apt conditions for the bystander effect: a fast and uncertain environment; generally more groups; people know each other less.
+
+#### Overcome
+
+The enemy is uncertainty. Being embarrassed for being in the wrong or looking foolish are why people stand around looking at each other. For people to overcome that -- uncertainty must be removed. Being direct and clear removes doubt. If you must, pick out an individual and assign a responsibility directly -- this avoids [pluralistic ignorance][pluralistic-ignorance]. Take control, and remove all doubt.
+
+#### Similarity
+
+> Without question, when people are uncertain, they are more likely to use others' actions to decide how they themselves should act
+
+Another factor that greatly facilitates social proof is **similarity**:
+
+> We are more inclined to follow the lead of similar individual than dissimilar one.
+
+An experiment carried out by Columbia University tested to see if a dropped wallet, with money and a letter inside of it, would be returned based on similarities with the subject (finder). The letter was written by either a similar, or dissimilar person to the subject, and actually describes a prior attempt to return the wallet. The results found that dissimilarities resulted in only 33% return rate, and similarities resulted in 70%. This experiment tested **social proof** and the effectiveness of similarities.
+
+> We will use the actions of others to decide on proper behaviours for ourselves, especially when we view those others as similar to ourselves.
+
+Other experiments found that anti-smoking and pro-dental messages resonated more effectively, and had lasting effects, when they were demonstrated by peers -- children of the same age.
+
+An interesting example of social proof is the [Werther effect][werther-effect]. This is the imitation of highly publicised suicides. The effect appears in copycat form, where the demographics of the victims in the reports resonate with vulnerable people with the same demographics, causing them to commit suicide. Behavioural attributes are also a factor, those who commit suicide in groups, caused an increase of group suicides -- for example, a pilot of a plane -- or suicide alone, caused an increase of individual suicides. This phenomenon is not limited to suicides, publicised homicides caused an increase of homicides, and publicised heavyweight championship fights also caused an increase of homicides. Interestingly, the race of the loser in the bout correlated to the race of the (increased) homicide victims.
+
+The Jonestown suicides were driven by social proof. The **uncertainty** of a move to the Amazon, and the exclusive **similarity** between the victims and their situation facilitated acceptance -- people looked to the actions of others to guide their own behaviours, [pluralistic ignorance][pluralistic-ignorance] likely took over. This social proof was initiated by some of the more fanatical, obedient followers -- something found in strong-leader dominated groups, whether legitimate or engineered.
+
+> A forceful leader can reasonably expect, however, to persuade some sizeable proportion of group members. Then the raw information that a substantial number of group members has been convinced can, by itself, convince the rest. Thus the most influential leaders are those who know how to arrange group conditions to allow the principle of social proof to work maximally in their favour.
+
+#### Overcome
+
+> Most of the time, we don't want to guard against the information that social proof provides. The evidence it offers about how we should act is usually valid and valuable.
+
+Ignoring a human behaviour that is valuable is hard to do. Exploits for social proof are presented initially in the form of erroneous or manipulated (fake) data. The best defence is to recognise when the data is wrong, and to even aggressively counter-attack -- call it out; don't automatically copy.
+
+An example in the book describing deliberately faked data was instances of companies hiring actors for fake testimonies (as opposed to real people; real testimonies) -- aka **consumers from Mars**, and states that it is obvious to the subject that this is staged.
+
+An example of genuinely erroneous social proof explained in the book was that sometimes, cars will indicate in traffic jams and pull out, this leads other drivers to assume that there is something to avoid, like a traffic accident, and so many other drivers will do the same. This led to accidents. At the very least, without the assumption, people are just following other people's lead.
+
+#### Reader's Example
+
+One example written by a reader was that of betting odds. The odds of a horse are calculated through the number of people betting on a horse, and the amount being bet. Someone who is willing to manipulate the situation would put a large bet on an outside odds horse, pushing it up the odds table towards the favourite. Other betters will generally go for the favourite. All these bets on an inferior horse causes the horse with real prospects down the table, and increase of odds. The malicious person will then place a bet on the superior horse. The social proof lies in the favourite horse -- if everyone else thinks it's the favourite, then it must be, right?
+
+
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
+[ch4-mindmap]: 4-social-proof/mindmap.png?raw=true
+[pluralistic-ignorance]: https://en.wikipedia.org/wiki/Pluralistic_ignorance
+[werther-effect]: https://en.wikipedia.org/wiki/Copycat_suicide
+[diffusion-of-responsibility]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
