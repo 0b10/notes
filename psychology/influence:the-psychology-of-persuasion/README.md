@@ -40,11 +40,11 @@ The end goal of commitment and consistency is to induce a commitment within the 
 * social proof can be extremely subtle;
 * sometimes following the majority is a good thing, but it makes you vulnerable. Other times it's not a good thing.
 
-Social proof is essentially conformity to the majority (group or individuals), especially in times of **uncertainty**, *particularly* when the group members are **similar** to the subject. Uncertainty causes people to look to the actions of other to determine their own behaviour, and [pluralistic ignorance][pluralistic-ignorance], which plays a key role, is what convinces the subject (particularly when in a group of strangers) to conform, even against their own beliefs (this effect will apply to each member of the group). The greater the degree of social proof, the more convincing it is. Sometimes social proof is sought by those whose beliefs are wavering, in a desperate attempt to validate them.
+Social proof essentially seeks the conformity of subject to the majority (group or individuals), especially in times of **uncertainty**, *particularly* when the group members are **similar** to the subject. Uncertainty causes people to look to the actions of others to determine their own behaviour, and [pluralistic ignorance][pluralistic-ignorance], which plays a key role, is what convinces the subject (particularly when in a group of strangers) to conform, even against their own beliefs (this effect will apply to each member of the group). The greater the degree of social proof, the more convincing it is. Sometimes social proof is sought by those whose beliefs are diminishing, in a desperate attempt to validate them.
 
-Other factors beside uncertainty and similarity can influence behaviour, for example, [diffusion of responsibility][diffusion-of-responsibility] which reduces the responsibility of each group member and makes them less likely to act.
+Other factors besides *uncertainty* and *similarity* can influence behaviour, for example, [diffusion of responsibility][diffusion-of-responsibility], which reduces the responsibility of each group member and makes them less likely to act.
 
-To combat pluralistic ignorance one has to be direct, clear, and assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is so subtle, e.g. with betting, and the favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
+To combat pluralistic ignorance one has to be direct, clear, and directly assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is very subtle, e.g. betting on a favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
 
 ## Intro
 
@@ -267,7 +267,7 @@ One experiment by Albert Bandura showed that children with a fear of dogs were 6
 
 This same method of using videos also worked on children who were showing symptoms of social isolation. It was so successful that some of the children later became social leaders within their schools.
 
-An interesting anecdote in the book, about a cult and their day of reckoning, explained how a group further convinced themselves after being ultimately proven wrong -- their day of reckoning (the end of the world) didn't come. These people had dedicated so much, that in utter disbelief and cornered, they sought any way to reconcile their wavering beliefs. It came in the form of social proof -- recruitment, and contacting media. 
+An interesting anecdote in the book, about a cult and their day of reckoning, explained how a group further convinced themselves after being ultimately proven wrong -- their day of reckoning (the end of the world) didn't come. These people had dedicated so much, that in utter disbelief and cornered, they sought any way to reconcile their diminishing beliefs. It came in the form of social proof -- recruitment, and contacting media. 
 
 > If they could spread the word, if they could inform the uninformed, if they could persuade the sceptics, and if, by doing so, they could win new converts, their threatened but treasured beliefs could become *truer*.
 
