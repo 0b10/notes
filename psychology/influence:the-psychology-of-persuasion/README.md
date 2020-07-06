@@ -46,6 +46,27 @@ Other factors besides *uncertainty* and *similarity* can influence behaviour, fo
 
 To combat pluralistic ignorance one has to be direct, clear, and directly assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is very subtle, e.g. betting on a favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
 
+### 4. Liking
+
+[Mindmap][ch5-mindmap]
+
+* be likeable: likeability increases compliance;
+* use tactics: physical attractiveness, similarities, compliments (flattery), familiarity (friendships; prior experience), and contrasting positive associations all work to increase likeability of people or products;
+* avoid schisms: schisms can be created arbitrarily through boundaries and competition;
+* cooperate: schisms can be remedied with cross group cooperation;
+
+Liking a person has a significant impact on the likelihood that you will comply with a request. Friends can be used directly, or indirectly, to make subjects comply with a request -- indirectly in this case means non-physical presence, like a referral.
+
+Some factors that affect the likeability:
+
+* **physical attractiveness**: there is an *unconscious* bias towards attractive people, from job interviews, politics, to the judicial system. Attractive people are also seen as more intelligent. The effects are also the same between subjects of the same gender;
+* **similarity**: this comes in any form -- demographics, clothing, agendas, even mirroring body language. It's a common tactic for those who want to be liked, to somehow appear similar;
+* **compliments**: even abundant, transparent, and inaccurate/exaggerated flattery works very well. It can be as subtle as a holiday greeting card
+* **familiarity**: things that you see more, or come into contact with more, are often liked more, which can have a significant influence on decision making (can be much more persuasive). Dissimilarities have the opposite effect;
+* **association**: any positive association works to increase likeability, even if it's unrelated -- celebrities, sports teams, nature, a good meal etc. Although, positive associations are significantly more likely to be made when a negative association was recently experienced -- in order for the subject to restore their image, and associate with something positive. There was no change in positive associations when there was no image to restore. The association/disassociation with positive/negative things is unconscious. People care about their image, and often must *feel* superior to the competition. This is often seen with sports team fans, in the form of tribalism. Guilt by association is a real effect too -- blaming the weatherman for the weather for instance.
+
+Schisms can be formed with simple acts such as arbitrarily dividing people into groups, naming said groups, and assigning competing tasks. Schisms can be countered with cross group **cooperation** where groups work towards common, legitimate goals. As a side-effect, this creates **familiarity** and **similarities** (shared values/goals) between them -- it also increases general satisfaction and happiness. Contact between groups that are *not* cooperating, or are *unfamiliar*, can have quite serious consequences -- sometimes violent.  A compliance professional would typically frame themselves as part of the same team as the subject, and foster cooperation -- e.g. good cop / bad cop.
+
 ## Intro
 
 The thousands of persuasive tactics (commonly compliance tactics) the author has encountered boil down to 6 simple categories:
@@ -336,11 +357,128 @@ An example of genuinely erroneous social proof explained in the book was that so
 
 One example written by a reader was that of betting odds. The odds of a horse are calculated through the number of people betting on a horse, and the amount being bet. Someone who is willing to manipulate the situation would put a large bet on an outside odds horse, pushing it up the odds table towards the favourite. Other betters will generally go for the favourite. All these bets on an inferior horse causes the horse with real prospects down the table, and increase of odds. The malicious person will then place a bet on the superior horse. The social proof lies in the favourite horse -- if everyone else thinks it's the favourite, then it must be, right?
 
+### 5. Liking
+
+[Mindmap][ch5-mindmap]
+
+When describing a Tupperware party that uses social proof, reciprocation, and liking principles:
+
+> The Tupperware Home Parties Corporation arranges for its customers to buy from and for a friend rather than an unknown salesperson. In this way, the attraction, the warmth, the security, and the obligation of friendship are brought to bear on the sales setting.
+> The strength of that social bond is twice as likely to determine product purchase as is preference for the product itself.
+
+Even subjects that are aware of the social pressures feel obligated, and usually commit. 
+
+Subjects also do not necessarily need to be present, just a mention of their name is enough. One *very* effective technique that is described in the book -- called the "endless chain", is used by door-to-door salesmen. Once a prospect has admitted to liking a product they can be pressed for referrals. When a referral is visited, the referee is mentioned.
+
+Joe Girard's two basic rules for selling:
+
+> A fair price, and someone they liked to buy from.
+
+#### Physical Attractiveness
+
+> A study of the Canadian federal elections found that attractive candidates received more two and a half times as many votes as unattractive candidates.
+> Follow-up research demonstrated that voters do not realise their bias. In fact 73% of Canadian voters surveyed denied in the strongest possible terms that their votes had been influenced by physical appearance; only 14% even allowed for the possibility of such influence.
+
+Another study showed that good grooming of applicants weighed more importantly than qualifications in a simulated interview environment, even though the interviewers claimed that it only played a small role.
+
+A study into the judicial found that attractive men received smaller sentences, and were twice as likely to avoid jail. Better looking defendants also paid less compensation.
+
+Better looking people are more likely to receive help when in need, and to persuade audiences.
+
+These effects work both ways, for both sexes, and works even for same sex -- e.g. attractive women receiving more help from women and men alike.
+
+Attractive people are also seen as more intelligent.
+
+#### Similarity
+
+> Those who wish to be liked in order to increase our compliance can accomplish that purpose by appearing similar to us in any of a wide variety of ways
+
+Dress is one way that can be leveraged to be similar to subjects. One of the studies mentioned stated that anti-war protestors were more likely to sign a petition, even without reading it, if the requester was dressed like them.
+
+Background similarities also work -- hobbies, experiences etc. so do things like age, religion, politics, and smoking habits.
+
+> Many sales training programs now urge trainees to "mirror and match" the customer's body posture, mood, and verbal style.
+
+#### Compliments
+
+The knowledge of someone liking you can lead to reciprocation, and can be a very effective compliance technique. Flattery and claims of affinity are common tricks.
+
+A technique used by Joe Girard was to send all of his former customers a holiday greeting card, each month, with just his name on it.
+
+> We are phenomenal suckers for flattery
+
+> Although there are limits to our gullibility -- especially when we can be sure that the flatterer is trying to manipulate us -- we tend, as a rule, to believe praise and to like those who provide it, often-times when it is clearly false.
+
+An experiment in the book found a few things about flattery:
+
+* those who provided only praise were liked the most;
+* it doesn't matter if the provider of the flattery stands to gain, they are liked anyway;
+* they do not have to be accurate -- untrue (flattery) statements are just as effective as true statements
+
+> Apparently we have such an automatically positive reaction to compliments that we can fall victim to someone who uses them in an obvious attempt to win out favour.
+
+#### Familiarity, Contact, and Cooperation
+
+> For the most part, we like things that are familiar to us.
+
+One experiment covered in the book describes the unconscious nature of familiarity. Subjects were exposed to faces that were quickly flashed on the screen, faces that they were unfamiliar with. The experiment found that the more frequently a face was flashed on screen, the more the subjects liked that person. Furthermore, the subjects were more easily persuaded by the opinions of these now familiar individuals.
+
+The book describes a relationship between ethnic friendship boundaries and competition in schools, as one factor with racial tensions. Generally, kids/people will foster friendships within their own racial communities. It's also the case that within classrooms, a divide between children that achieve and those that do not, fosters resentment, and jealousy between students -- who are all competing for the attention of the authority, the teacher. Familiarity between friends, who are generally ethically similar, creates a liking, and seems to alleviate negative feeling. Dissimilarities between people, generally of different ethnic backgrounds, is exacerbated through the competition -- resentment and jealousy.
+
+> Although the familiarity produced by contact usually leads to greater liking, the opposite occurs if the contact carries distasteful experiences with it.
+
+Another example was of a boys' summer camp, where the only thing that was necessary to create resentment was to separate the boys into two groups. Things that further created resentment were giving each group a name, and having them engage in competing group activities. The results were quite severe -- scuffles, thefts etc. The resolution to these divisions was cooperation, cooperation that was in the best interests of both groups -- a stuck vehicle; pooling money for resources; water shortage etc. The results were significant, many of the boys now had cross-group best friends.
+
+One solution to divisions in schools that worked was the Jigsaw classroom -- essentially cooperative learning. The class was divided into groups, and each groups was responsible for a subset of a larger problem. In order to complete the task, not only did each group have to work together, but groups had to work together too. This had some positive results ranging from improved performance, happiness, and satisfaction with school.
+
+Competition has its place too, it's thought that the goal of such cooperative learning shouldn't remove all competition, but only its monopoly.
+
+> Compliance professionals are forever attempting to establish that we and they are working for the same goals, that we must "pull together" for mutual benefit, that they are, in essence, teammates.
+
+Good cop/bad cop works because the good cop is on your side.
+
+#### Conditioning and Association
+
+This chapter starts out with an anecdote that describes how a weatherman is often-times blamed for bad weather -- to the point of threats.
+
+> There is a natural human tendency to dislike a person who brings us unpleasant information, even when that person did not cause the bad news.
+
+Aka "guilt by association".
+
+> The principle of association is a general one, governing both negative and positive connections. An innocent association with either bad things or good things will influence how people feel about us.
+
+Compliance professionals are always trying to associate themselves or their products to things that we like. This is why attractive models are often-times used to sell products. Other examples are the Apollo program, nature, celebrities, athletes.
+
+> The important thing for the advertisers to establish the connection; it doesn't have to be a logical one, just a positive one.
+
+Politicians do it with associations to celebrities, or positive policies. Positivity can be associated during a good meal, with silverware, and a good environment -- aka the **luncheon technique**.
+
+Other more subtle cases are customers at a Tupperware party playing Bingo, shouting "Tupperware" if they get a Bingo; radio stations playing their call-letters before big hits etc.
+
+We unconsciously avoid associating ourselves with negative things. One experiment in Georgia showed that students telling other students that they have a phone call (with good or bad news), avoided saying "you have a phone call with some *bad* news", but will say "you have a phone call with some *good* news".
+
+People often have strong associations to sports teams. The outcome of the sports team reflects on your -- it's associated with you, and you to it. It can lead to uncontrollable, ferocious, or strange behaviour.
+
+> All things being equal , you root for your own sex, your own culture, your own locality... and what you want to prove is that *you* are better than the other person. Whomever you root for represents *you*; and when he wins, you win -- Isaac Asimov
+
+We want to prove out superiority to ourselves and to other people.
+
+> If we can surround ourselves with success that we are connected with in even a superficial way, our public prestige will rise.
+
+Such associations can be achieved through wearing clothing (team shirt), and are typically demonstrations that follow crushing wins -- superiority -- as opposed to close games, or defeat. Conversely, fans will attempt to disassociate themselves from crushing defeat -- one anecdote described fans showing up to games with paper bags over their faces when their team had a terrible season.
+
+"We" and "they" are used in positive/negative scenarios. Teams that win, students of an experiment that supported the winners used "we" to describe their team more -- "we won" etc. Students whose team lost used "they" more often -- "they lost" etc.
+
+An experiment described in the book showed that students were more likely to associate themselves to something positive if they had recently had some negative results elsewhere. It also showed there was no discernible effect for students who had a positive result. The experiment measured the use of "we" and "they" for students who either passed/failed a test, and were asked to describe the results of their local sports team.
+
+> It is not when we have a strong feeling of recognized personal accomplishment that we will seek to bask in reflected glory. Instead, it will be when the prestige (both public and private) is low that we will be intent upon using the success of associated others to help restore image,
+
 
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
 [ch4-mindmap]: 4-social-proof/mindmap.png?raw=true
+[ch5-mindmap]: 5-liking/mindmap.png?raw=true
 [pluralistic-ignorance]: https://en.wikipedia.org/wiki/Pluralistic_ignorance
 [werther-effect]: https://en.wikipedia.org/wiki/Copycat_suicide
 [diffusion-of-responsibility]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
