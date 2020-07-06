@@ -46,24 +46,24 @@ Other factors besides *uncertainty* and *similarity* can influence behaviour, fo
 
 To combat pluralistic ignorance one has to be direct, clear, and directly assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is very subtle, e.g. betting on a favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
 
-### 4. Liking
+### 5. Liking
 
 [Mindmap][ch5-mindmap]
 
-* be likeable: likeability increases compliance;
-* use tactics: physical attractiveness, similarities, compliments (flattery), familiarity (friendships; prior experience), and contrasting positive associations all work to increase likeability of people or products;
-* avoid schisms: schisms can be created arbitrarily through boundaries and competition;
-* cooperate: schisms can be remedied with cross group cooperation;
+* **be likeable**: likeability increases compliance;
+* **use tactics**: physical attractiveness, similarities, compliments (flattery), familiarity (friendships; prior experience), and contrasting positive associations all work to increase likeability of people or products;
+* **avoid schisms**: schisms can be created arbitrarily through boundaries and competition;
+* **cooperate**: schisms can be remedied with cross group cooperation;
 
-Liking a person has a significant impact on the likelihood that you will comply with a request. Friends can be used directly, or indirectly, to make subjects comply with a request -- indirectly in this case means non-physical presence, like a referral.
+The likeability of a person has a significant impact on the whether the subject will comply with a request. Friends can be used directly, or indirectly, to make subjects comply with a request -- indirectly in this case means non-physical presence, like a referral.
 
 Some factors that affect the likeability:
 
-* **physical attractiveness**: there is an *unconscious* bias towards attractive people, from job interviews, politics, to the judicial system. Attractive people are also seen as more intelligent. The effects are also the same between subjects of the same gender;
-* **similarity**: this comes in any form -- demographics, clothing, agendas, even mirroring body language. It's a common tactic for those who want to be liked, to somehow appear similar;
-* **compliments**: even abundant, transparent, and inaccurate/exaggerated flattery works very well. It can be as subtle as a holiday greeting card
-* **familiarity**: things that you see more, or come into contact with more, are often liked more, which can have a significant influence on decision making (can be much more persuasive). Dissimilarities have the opposite effect;
-* **association**: any positive association works to increase likeability, even if it's unrelated -- celebrities, sports teams, nature, a good meal etc. Although, positive associations are significantly more likely to be made when a negative association was recently experienced -- in order for the subject to restore their image, and associate with something positive. There was no change in positive associations when there was no image to restore. The association/disassociation with positive/negative things is unconscious. People care about their image, and often must *feel* superior to the competition. This is often seen with sports team fans, in the form of tribalism. Guilt by association is a real effect too -- blaming the weatherman for the weather for instance.
+* **physical attractiveness**: there is an *unconscious* bias towards attractive people, from job interviews, politics, to the judicial system. Attractive people are also seen as more intelligent. The effects are also the same between subjects of the same gender, regardless of sexuality;
+* **similarity**: this comes in any form -- demographics, clothing, agendas, even mirroring body language. It's a common tactic for those who want to be liked to somehow appear similar;
+* **compliments**: even abundant, transparent, and inaccurate/exaggerated flattery works very well. It can be as subtle as a holiday greeting card;
+* **familiarity**: things that you see more, or come into contact with more, are often liked more, which can have a significant influence on decision making (e.g. more persuasive). Dissimilarities have the opposite effect;
+* **association**: any positive association works to increase likeability, even if it's unrelated -- celebrities, sports teams, nature, a good meal etc. Although, positive associations are significantly more likely to be made when a negative association was recently experienced -- in order for the subject to restore their image, and associate with something positive. There was no change in positive associations when the subject's recent experiences were positive. The association/disassociation with positive/negative things is unconscious. People care about their image, and often must *feel* superior to the competition. This is often seen with sports team fans, in the form of tribalism. Guilt by association is a real effect too -- blaming the weatherman for the weather for instance.
 
 Schisms can be formed with simple acts such as arbitrarily dividing people into groups, naming said groups, and assigning competing tasks. Schisms can be countered with cross group **cooperation** where groups work towards common, legitimate goals. As a side-effect, this creates **familiarity** and **similarities** (shared values/goals) between them -- it also increases general satisfaction and happiness. Contact between groups that are *not* cooperating, or are *unfamiliar*, can have quite serious consequences -- sometimes violent.  A compliance professional would typically frame themselves as part of the same team as the subject, and foster cooperation -- e.g. good cop / bad cop.
 
