@@ -67,6 +67,29 @@ Some factors that affect the likeability:
 
 Schisms can be formed with simple acts such as arbitrarily dividing people into groups, naming said groups, and assigning competing tasks. Schisms can be countered with cross group **cooperation** where groups work towards common, legitimate goals. As a side-effect, this creates **familiarity** and **similarities** (shared values/goals) between them -- it also increases general satisfaction and happiness. Contact between groups that are *not* cooperating, or are *unfamiliar*, can have quite serious consequences -- sometimes violent.  A compliance professional would typically frame themselves as part of the same team as the subject, and foster cooperation -- e.g. good cop / bad cop.
 
+### 6. Authority
+
+[Mindmap][ch6-mindmap]
+
+* **project authority**, use:
+  * **titles**: real or fake;
+  * **clothing**: real, fake, or something very similar
+  * **trappings**: appear successful;
+  * **size**: height displays more authority;
+  * **significance**: something related to more significant symbols (like numbers) appears larger;
+* **question authority**: question their credentials, and integrity;
+* **don't be fooled**: by rhetorical concessions, or by dishonest impartial advice;
+
+From parents, to religions, schools, and governments, we are conditioned from birth to obey authority. Experiments have shown the willingness to *automatically* -- without thinking -- relinquish decision making and control to an authority figure. Yielding this control is essentially a cognitive shortcut, an ability for us to operate in a more efficient manner. It's so pervasive that even a *symbol* of authority is enough to induce compliance -- e.g. a fake title or uniform.
+
+**Symbols of authority** come in a few forms: **titles**, **clothing**, and **trappings**. Fake titles, like an actor with an **M.D. title**, or just someone who claims to be a doctor, can be very effective -- even against professionals such as nurses. Other titles like **professor** are also effective, with a change in attitudes observed in subjects. Clothing like a **business suite**, **guard uniform**, or **lab coat*** can increase compliance significantly -- in some cases a business suit was enough to increase compliance by 350%. Trappings -- outward signs of success -- such as **luxury cars**, changed the behaviour of fellow drivers to be significantly more patient.
+
+Other things that project authority are size and significance. Authority figures are seen as slightly taller than they actually are, and taller people are seen as having more authority. Numbers, when written on objects, and have greater significance (absolute value) cause those objects to be viewed as larger. It appears that numbers are linked to size, which in turn is linked to authority.
+
+It has been shown that people significantly underestimate the effects of authority, particularly males, thinking that authority will have much less impact than it actually does. It has also been shown that most people will obey authority without thinking or questioning, when questioning authority *could* be an essential process for catching mistakes.
+
+Defence against a fake authority comes in the form of questioning **credentials** and the **integrity** of their requests/messages -- *who* are they, and what is their *agenda*. Dishonesty can be be disguised as impartial opinion, or hidden behind **rhetorical concessions** (where the bearer concedes on secondary points).
+
 ## Intro
 
 The thousands of persuasive tactics (commonly compliance tactics) the author has encountered boil down to 6 simple categories:
@@ -473,12 +496,82 @@ An experiment described in the book showed that students were more likely to ass
 
 > It is not when we have a strong feeling of recognized personal accomplishment that we will seek to bask in reflected glory. Instead, it will be when the prestige (both public and private) is low that we will be intent upon using the success of associated others to help restore image,
 
+### 6. Authority
+
+[Mindmap][ch6-mindmap]
+
+The Milgrim's experiment asked subjects to administer electric shocks to participants, where the participants were actors that feigned pain on receipt. It showed that two thirds of the 40 subjects completed the entire course -- despite the "pain" it caused. Moreover, not a single one stopped when the receiving participant stated they no longer wanted to participate. Nothing seemed to deter the subjects, or affect the results either -- not gender, imminent danger to the participant (feigned heart condition), or demographics. The subjects were all also of sound psychological condition.
+
+> The real culprit in the experiments was the subject's inability to defy the wishes of the boss of the study -- the lab-coated researcher who urged and, if need be, directed the subjects to perform their duties -- Milgrim
+
+There were permutations of the Milgrim's experiment performed, designed to test the hypothesis that it was the authority figure who was responsible: The authority figure (not the subject) instructed the subject to stop -- in which case 100% of the subjects stopped, and the authority figure received the shocks, but wanted to stop (with the participant in control) -- with 100% of the subjects stopping. A third permutation tested competing, and contradicting authorities, which resulted in the subject coming to his better judgement and stopping.
+
+> We are trained from birth that obedience to proper authority is right and disobedience is wrong.
+
+The book describes religion and God as the ultimate, higher authority, and how doctrine serves to express it.
+
+> We rarely agonize over the pros and cons of authority's demands. [paraphrased]
+
+> Information from a recognized authority can provide us a valuable shortcut for deciding how to act in a situation.
+
+People have been exposed to authority their whole lives -- parents, teachers as kids, and judges, government leaders, and bosses as adults.
+
+When describing the non-thinking nature people tend to show with authority:
+
+> It is easy to allow ourselves the convenience of automatic authority.
+
+> We are reacting rather than thinking. [truncated]
+
+People tend to not question authority. An example in the book speaks of the hierarchy that exists within the medical establishment, and the daily error rate that occurs when subordinates carry out order without *thinking* and questioning.
+
+A successful advertisement campaign described in the book used an actor, who had previously played a doctor in a well known TV series, to promote the health benefits of a brand of decaffeinated coffee, and it worked well. In the viewer's mind, this actor *was* that doctor, an authority.
+
+> When in auto-pilot mode, we are often as vulnerable to the *symbols* of authority as to the *substance*. [paraphrased]
+
+Symbols of authority can come in the form of titles, clothes, or trappings -- doctor, professor, lab coats, luxury cars etc.
+
+#### Titles
+
+People's tone, attitude, and grammar can change in a conversation with an authority figure like a professor -- tending to be more respectful and dull.
+
+Authority also distorts people's perception of the authority's height. In one experiment it varied by half an inch.
+
+The importance of a value can distort the subject's perception of size for an object. An experiment found that cards with dollar values printed on them were perceived to be larger if they had larger values printed on them -- even negative values. Example, -$3.00 and $3.00 were both perceived as larger than -$2.00 and $2.00. It's the *importance* of the value that counts here.
+
+Interestingly, this "importance" status also seems to be exhibited in nature, with shows of dominance in the forms of displays often deterring physically larger competition.
+
+Size and status are interchangeable and linked, where one affects the other. Con artists often put lifts in their shoes to appear physically taller.
+
+An experiment in the book described the tendency of people (nurses in this case) to defer to titles alone. A doctor gave orders over the phone -- with little more authority than a title -- to nurses, who automatically carried out said orders, even though said orders broke several protocols, and level of dosage for a unapproved drug.
+
+> None of their considerable medical training or knowledge was engaged in the decision of what to do. Instead, because obedience to legitimate authority had always been the most preferred and efficient action in their work setting, the had become willing to err on the side of automatic obedience.
+
+#### Clothes
+
+Clothing of an authority has a significant impact on compliance. One experiment showed that almost 100% of people complied with an odd request when the requester wore a guard's uniform, in contrast to only ~50% when in normal street clothes.
+
+A business suit also conveys authority. One experiment showed that people were 350% more likely to follow a man, at a pedestrian crossing, into traffic if he wore a business suit.
+
+#### Trappings
+
+A study in the San Francisco Bay found that drivers (subjects) -- who were stuck behind a study participant's car when it failed to move at a green light -- were less patient with economy cars, and more patient with luxury cars. 50% of motorists waited respectfully behind luxury cars, while most showed impatience with economy cars. Like all the other studies done on authority, when asked (and measured against the study results), people were generally unable to predict correctly how they would react to authority, particularly males -- generally underestimating its effect.
+
+#### How to Say No
+
+A fundamental form of defence is a heightened awareness of authority, and recognition of how easily authority symbols can be faked.
+
+Credentials are one way to legitimise an authority.
+
+Integrity is another way to legitimise an authority, if they are credentialed, do they have integrity. Studies have shown that we are much more swayed by impartial experts than those who have an agenda. Their message must represent the facts faithfully, don't be fooled. One persuasive technique is to make small concessions, to argue against one's own point -- this comes across as more honest -- don't be fooled.
+
+The anecdote in the book described a waiter who established himself as an authority who makes a concession, and engaged the rule of reciprocation -- where customers were warned against a certain dish, in return the customers asked for recommendation on wine and desserts. Upping the bill, and his tips at the same time.
 
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
 [ch4-mindmap]: 4-social-proof/mindmap.png?raw=true
 [ch5-mindmap]: 5-liking/mindmap.png?raw=true
+[ch6-minemap]: 6-authority/mindmap.png?raw=true
 [pluralistic-ignorance]: https://en.wikipedia.org/wiki/Pluralistic_ignorance
 [werther-effect]: https://en.wikipedia.org/wiki/Copycat_suicide
 [diffusion-of-responsibility]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
