@@ -73,18 +73,18 @@ Schisms can be formed with simple acts such as arbitrarily dividing people into 
 
 * **project authority**, use:
   * **titles**: real or fake;
-  * **clothing**: real, fake, or something very similar
+  * **clothing**: real, fake, or something very similar;
   * **trappings**: appear successful;
   * **size**: height displays more authority;
-  * **significance**: something related to more significant symbols (like numbers) appears larger;
+  * **significance**: something that's related to more significant symbols appears larger (e.g. numbers);
 * **question authority**: question their credentials, and integrity;
 * **don't be fooled**: by rhetorical concessions, or by dishonest impartial advice;
 
-From parents, to religions, schools, and governments, we are conditioned from birth to obey authority. Experiments have shown the willingness to *automatically* -- without thinking -- relinquish decision making and control to an authority figure. Yielding this control is essentially a cognitive shortcut, an ability for us to operate in a more efficient manner. It's so pervasive that even a *symbol* of authority is enough to induce compliance -- e.g. a fake title or uniform.
+From parents, to religions, schools, and governments, we are conditioned from birth to obey authority. Experiments have shown the willingness to *automatically* -- without thinking -- relinquish decision making and control to an authority figure. Yielding this control is essentially a cognitive shortcut, an ability for us to operate in a more efficient manner. It's so deeply entrenched in out thinking that even a *symbol* of authority is enough to induce compliance (e.g. a fake title or uniform).
 
-**Symbols of authority** come in a few forms: **titles**, **clothing**, and **trappings**. Fake titles, like an actor with an **M.D. title**, or just someone who claims to be a doctor, can be very effective -- even against professionals such as nurses. Other titles like **professor** are also effective, with a change in attitudes observed in subjects. Clothing like a **business suite**, **guard uniform**, or **lab coat*** can increase compliance significantly -- in some cases a business suit was enough to increase compliance by 350%. Trappings -- outward signs of success -- such as **luxury cars**, changed the behaviour of fellow drivers to be significantly more patient.
+**Symbols of authority** come in a few forms: titles, clothing, and trappings. Fake **titles**, like an actor with an M.D. title, or just someone who claims to be a doctor, can be very effective -- even against professionals such as nurses. Other titles like professor are also effective, with a change in attitudes observed in subjects. **Clothing** like a business suit, guard uniform, or lab coat can increase compliance significantly -- in some cases a business suit was enough to increase compliance by 350%. **Trappings** -- outward signs of success -- such as luxury cars, changed the behaviour of fellow drivers to be significantly more patient.
 
-Other things that project authority are size and significance. Authority figures are seen as slightly taller than they actually are, and taller people are seen as having more authority. Numbers, when written on objects, and have greater significance (absolute value) cause those objects to be viewed as larger. It appears that numbers are linked to size, which in turn is linked to authority.
+Other things that project authority are **size** and **significance**. Authority figures are seen as slightly taller than they actually are, and taller people are seen as having more authority. Numbers, when written on objects, and have greater significance (absolute value) cause those objects to be viewed as larger. It appears that numbers are linked to size, which in turn is linked to authority.
 
 It has been shown that people significantly underestimate the effects of authority, particularly males, thinking that authority will have much less impact than it actually does. It has also been shown that most people will obey authority without thinking or questioning, when questioning authority *could* be an essential process for catching mistakes.
 
@@ -571,7 +571,7 @@ The anecdote in the book described a waiter who established himself as an author
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
 [ch4-mindmap]: 4-social-proof/mindmap.png?raw=true
 [ch5-mindmap]: 5-liking/mindmap.png?raw=true
-[ch6-minemap]: 6-authority/mindmap.png?raw=true
+[ch6-mindmap]: 6-authority/mindmap.png?raw=true
 [pluralistic-ignorance]: https://en.wikipedia.org/wiki/Pluralistic_ignorance
 [werther-effect]: https://en.wikipedia.org/wiki/Copycat_suicide
 [diffusion-of-responsibility]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
