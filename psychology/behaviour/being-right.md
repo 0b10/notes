@@ -2,7 +2,7 @@
 
 ## Summary
 
-* **Don't seek power when devalued**: it's ego, and it's fragile, and it's a weakness -- be **objective**;
+* **Don't seek power when devalued**: it's ego, which is fragile, and it's a weakness -- be **objective**;
 * **focus on the context**: being right/certain excludes the wider perspective, narrowing focus -- consider the other person, the environment, and the potential for being wrong;
 * **certainty is an emotional state**: it filters out the wider context, it selfishly narrows your perspective, and can breed negativity;
 * **it leads to contempt**: being right justifies contempt and disrespect, avoid this by mindful and **compassionate**;
