@@ -4,8 +4,8 @@
 
 * **Go slow**: read slowly, think slowly, ponder the topic, don't just parrot the lessons;
 * **experiment**: validate what you learn -- if necessary. Get the data yourself -- don't depend entirely on reading;
-* **different angles**: attack the problem from different angles, solve the same problem in multiple ways -- it forces you to understand more deeply;
-* **write it down***: it forces clarity. If you can't explain it in words, you don't understand it;
+* **use different angles**: attack the problem from different angles, solve the same problem in multiple ways -- it forces you to understand more deeply;
+* **write it down**: it forces clarity. If you can't explain it in words, you don't understand it;
 * **have purpose**: don't commit to learning until you know it's necessary. Use the **framework** below;
 * **choose sources carefully**: prefer journals, university presses -- information dense sources. Supplement with books, but consider the author;
 * **ask questions**: don't concern yourself with looking stupid;
