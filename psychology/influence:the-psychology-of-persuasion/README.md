@@ -90,6 +90,35 @@ It has been shown that people significantly underestimate the effects of authori
 
 Defence against a fake authority comes in the form of questioning **credentials** and the **integrity** of their requests/messages -- *who* are they, and what is their *agenda*. Dishonesty can be be disguised as impartial opinion, or hidden behind **rhetorical concessions** (where the bearer concedes on secondary points).
 
+### 7. Scarcity
+
+[Mindmap][ch7-mindmap]
+
+> Keep the prospects from taking the time to think the deal over by scaring them into believing they can't have it later, which makes them want it now.
+
+* **use competition**: a high demand on a limited supply significantly increases perceived value -- subjects must have social proof of competition;
+* **use reactance**: removing/limiting freedom of choice significantly increases desire -- limited number, deadline tactics, depleting supply etc.;
+* **use exclusivity**: exclusive information is perceived as significantly more valuable, and induces significant results;
+* **bait**: leverage scarcity to get initial interest, people will consume that which is close by -- see [loss leader][loss-leader];
+
+The **loss** of a deal, the **limited number** of stock, or a **limited time** to buy a product -- these are all different forms of the scarcity principle.
+
+> The idea is to dangle a carrot in front of the buyer's face and the take it away. The aim is to want to get someone to buy quickly, without thinking too much about it.
+
+The reasons this works is because -- it's a cognitive shortcut to determine value, and psychological [reactance][reactance] (reacting to losing freedom of choice). People like autonomy, and they certainly don't like to lose it -- this is what is exploited.
+
+**Reactance** can be seen with illicit substances, banned products, or censored material. People perceive such things as having a higher value than they would otherwise. Reactance is used to promote products and even ideas, such as political or social ideas/issues that are censored, causing a greater degree of legitimate support -- even for dangerous ideas. This has the potential to change a person's self image. Even the court of law is susceptible to reactance -- it has been shown that a deliberating can be influenced by inadmissible evidence.
+
+Scarce or **exclusive** information is also perceived as more valuable. For example, such a tactic can be used to *exclusively* inform a subject of a shortage, which has shown to have an extremely significant impact on responses.
+
+The **optimal condition** for scarcity is **social demand** -- when there is a demand, there is **competition**. Competition has a hard-wired natural response within all of us, and when leveraged, it can make something appear significantly more valuable. A not-as-optimal condition is having abundance, then moving to scarcity -- such as a full jar, then an empty jar. This is the scenario that plays out with social demand (e.g. depleting stock), but without the social proof of competition. Typically advertisers will convey social demand -- think videos of black Friday, or copy that uses phrases like "popular demand" etc.
+
+One tactic is [loss leader][loss-leader]. This is a limited number item that gets people into the store, with the intention of selling more valuable items. Again, think of black Friday.
+
+Scarcity only increases the **perceived value**, at times, subjects do rate "rare items" no better than their abundant counterparts.
+
+Unless you want something that is rare and the offer is *genuinely* rare, then it's better to seek the functionality you desire elsewhere. Focus on what you really want -- functionality, or rarity?
+
 ## Intro
 
 The thousands of persuasive tactics (commonly compliance tactics) the author has encountered boil down to 6 simple categories:
@@ -566,12 +595,133 @@ Integrity is another way to legitimise an authority, if they are credentialed, d
 
 The anecdote in the book described a waiter who established himself as an authority who makes a concession, and engaged the rule of reciprocation -- where customers were warned against a certain dish, in return the customers asked for recommendation on wine and desserts. Upping the bill, and his tips at the same time.
 
+### 7. Scarcity
+
+[Mindmap][ch7-mindmap]
+
+Loss plays a role in scarcity. A phone call that interrupts a conversation is seen as more valuable because of the potential loss -- the missed call.
+
+> Homeowners told how much money they could lose from inadequate insulation are more likely to insulate their homes than those told how much money they could save.
+
+The **limited-number** tactic is frequently used, and so is the **deadline tactic** (a time limit).
+
+When describing a "boiler-room operation" (scam), which involves an initial sales pitch, then a follow-up sales call where the deal is off the table, and a third and final call that offers the deal with urgency:
+
+> The idea is to dangle a carrot in front of the buyer's face and the take it away. The aim is to want to get someone to buy quickly, without thinking too much about it.
+
+A variant of the deadline tactic comes in the form of stock being held for a limited period of time, like photographer pictures, forcing people to buy as many as they can, right now, just in case. Another is a door-to-door salesman that pulls: "I have so many other customers to see... I can't come back".
+
+> Keep the prospects from taking the time to think the deal over by scaring them into believing they can't have it later, which makes them want it now.
+
+#### Psychological Reactance
+
+[Reactance][reactance] is the reaction to someone or something that is limiting, or taking away our choices or freedoms.
+
+Two reasons why the scarcity principle works:
+* an item's availability provides a shortcut for people to determine its value;
+* we hate to lose freedoms that we already have (freedom of choice in this case);
+
+> Whenever free choice is limited or threatened, the need to retain our freedoms makes us desire them significantly more than previously.
+
+This can apply to lots of things to -- love, laws, marketplace items/commodities etc.
+
+One experiment done with boys at the "terrible twos" stage -- where children are defiant, showed there was tendency for the boys to want toys that were less available. The availability was artificially constructed between two equally attractive toys that were divided by a Plexiglas divider, where the divider was either:
+
+* easy to reach over (1 ft tall);
+* too high to reach over, but the kids could go around.
+
+When the divider was easy to reach over, the toys were played with equally, but when they were harder to reach, the boys when around for the harder to reach to first. This showed their initial preference for a toy that was less available.
+
+> By testing the limits of their freedoms, the children are discovering where in the worlds [sic] they can expect to be controlled and where they can expect to be in control.
+
+This suggests that people like autonomy, and that they don't like to lose it.
+
+Psychological reactance was used to promote cigarettes amongst US teenage women. The idea that their freedom was being limited was enough to promote it as a symbol of rebellion.
+
+One odd case in the US was a town that introduced a new law that required all citizens to own a firearm and ammunition, or face prosecution. The result on the citizens was non-compliance.
+
+Interestingly, when phosphate detergents were banned in a US town (and smuggling had started), citizens (when compared with citizens of another town) rated the phosphate detergents as better -- whiter whites, softer, more effective etc.
+
+People will view a less available item as more valuable:
+
+> When our freedom to have something is limited, the item becomes less available, and we experience an increased desire for it. However, we rarely recognize that psychological reactance has caused us to want the item morel all we know is that we *want* it. Still, we need to make sense of our desire for the item, so we begin to assign it positive qualities to justify the desire.
+
+When talking about information being banned or censored:
+
+> The intriguing thing about the effects of censoring information is not that audience members want to have the information more than they did before; that seems natural. Rather, it is that they come to believe in the information more, even though they haven't received it.
+
+When describing the situation of anti-coed dormitory speeches being banned, causing people to increasingly support the anti-coed dormitory argument:
+
+> This raises the worrisome possibility that especially clever individuals holding a weak or unpopular position can get us to agree with that position by arranging to have their message restricted,
+
+> The irony is that for such people -- members of fringe political groups, for example -- the most effective strategy may not be to publicize their unpopular views, but to get those views officially censored and then to publicize the censorship.
+
+When describing when people begin to develop a desire for autonomy:
+
+> The desire to oppose adult control begins quite soon into adolescence, around the start of the teenage years.
+
+Censorship not only increases the interest in the censored material, but also changes a person's self image -- they will view themselves as the kind of person who identifies with the censored ideas, much like the increased appreciation for the banned detergents.
+
+Inadmissible evidence in court *may* actually cause psychological reactance within jurors. One study conducted at the University of Chicago Law School on real juries found, with 13 separate juries, that they were more likely to award higher compensation (+$4k) to the prosecution (car crash) when they found out the defendant had liability insurance. Further still, when this fact was made inadmissible it pushed the juries deliberation to an even higher value (+$13k).
+
+> Information may not have to be be censored for us to value it more; it need only be scarce.
+
+> We will find a piece of information more persuasive if we think we can't get it elsewhere.
+
+An informal study mentioned in the book described three sales pitches from a beef supplier to clients:
+
+1. a standard pitch;
+2. a standard pitch with news of an upcoming beef scarcity;
+3. a standard pitch with news of an upcoming beef scarcity, but that it's also not a well known fact;
+
+Pitch number 3 results in a 600% increase in sales, pitch 2 got a 200% increase in sales, and pitch 1 resulted in typical results. It appears that exclusivity, as a form of scarcity, had astounding results.
+
+#### Optimal Conditions
+
+A experiment done by Stephen Worchel showed that going from **abundance to scarcity** increased perceived value. The study showed an experimental group two jars of cookies in sequence:
+
+1. initially one full (abundance);
+2. then one almost empty (scarcity).
+
+The control group was shown only a near empty jar (scarcity). The results showed that those from the experimental group showed more favourable results towards the cookies. In other words, going from abundance to scarcity increased perceived value, but the cookies were never rated as tastier.
+
+> We are most likely to find revolutions where a period of improving economic and social conditions is followed by a short, sharp reversal in those conditions.
+
+> When it comes to freedoms: it is more dangerous to have given for a while than never to have given at all.
+
+> Freedoms once granted will not be relinquished without a fight.
+
+> The parent who grants privileges or enforces rules erratically invites rebelliousness by unwittingly establishing freedoms for the child.
+
+**Demand** also creates significantly more perceived value. Continuing on with the cookie experiment, an experimental group were told that most of the cookies had to be given to other experimenters. The control group were just told that their cookies were reduced due to a mistake. The experimental groups showed significantly more desire for their cookies -- cookies that were in demand -- although the cookies were not rated as tastier.
+
+> Not only do we want the same item more when it is scarce, we want it most when we are in competition for it.
+
+Phrases like "popular demand" and "hurry to buy" are frequently used in advertising. Pictures of crowds pushing against doors, or animations of shelves being emptied are tactics also used. It's not just about social proof, but about **competition** too.
+
+Sales people will often call prospective buyers who are on the fence to tell them of competition for the sale -- referred to as "goosing 'em off the fence".
+
+Analogous to the technique where fishermen cause a feeding frenzy with "chum" bait, only to catch fish who will bite anything in the frenzy, store owners can stir up their own frenzy with [**loss leaders**][loss-leader], which act like chum, and in turn causes people to snap up more profitable products.
+
+#### How to Say No
+
+> The joy is not in experiencing a scarce commodity but in possessing it.
+
+Simply put, ask yourself what you want out of the product, and realise it won't be any better just because it is scarce, unless your goal is to possess something rare.
+
+The book describes an example of a man who buys cars at rock bottom prices from newspaper articles, cleans and then relists them, using better copy to generate substantial interest, and the scarcity principle to actually sell the car when buyers showed up. He scheduled all potential buyers at roughly the same (stacked up; overlapping) time to engage competition. If any of the earlier competitors passed on the deal, the next competitor would be aware of another competitor after him once his inspection had started. This ensured a certain deal at some time.
+
+In short, wanting an item for its function should not be influenced by the scarcity principle, but wanting an item simply for ownership of that item, should be influenced by it. Know what it is that you want, and don't let scarcity push you into buying an item that is functionally the same as many other available options.
+
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
 [ch4-mindmap]: 4-social-proof/mindmap.png?raw=true
 [ch5-mindmap]: 5-liking/mindmap.png?raw=true
 [ch6-mindmap]: 6-authority/mindmap.png?raw=true
+[ch7-mindmap]: 7-scarcity/mindmap.png?raw=true
 [pluralistic-ignorance]: https://en.wikipedia.org/wiki/Pluralistic_ignorance
 [werther-effect]: https://en.wikipedia.org/wiki/Copycat_suicide
 [diffusion-of-responsibility]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
+[reactance]: https://en.wikipedia.org/wiki/Reactance_(psychology)
+[loss-leader]: https://en.wikipedia.org/wiki/Loss_leader
