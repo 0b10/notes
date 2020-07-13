@@ -6,11 +6,11 @@
 
 [Mindmap][ch2-mindmap]
 
-* **use reciprocal concession**: aka the **reject-then-retreat technique** -- the initial offer *can*  be small and simple if need be;
+* **use reciprocal concession**: aka the **reject-then-retreat technique** -- the initial offer *can*  be small and simple if need be:
     * **leverage receipt obligation**: there is a perceived obligation to *receive* gifts;
-    * **reciprocation obligation**: is felt by receivers and it's overpowering;
-    * **satisfaction**: subjects report greater satisfaction with concessions, because they feel they have some control over it;
-    * **choose what's reciprocated**: another smaller deal, or **referrals** for example;
+    * **reciprocation obligation**: is felt by receivers to return the favour, and it's overpowering;
+    * **satisfaction**: subjects report greater satisfaction with concessions, because they feel that they have some control over it;
+    * **choose what's reciprocated**: e.g. another smaller deal, or **referrals**;
 * **use the contrast principle**: the larger the initial offer, the more likely the second one will be successful;
     * e.g. showing expensive items first;
 
@@ -24,10 +24,10 @@
 
 > If I can get you to make a commitment, I will have set the stage for your automatic and ill considered consistency to that commitment.
 
-* **use the foot-in-the-door technique**: get an initial, small commitment -- favour, admission etc. --  then incrementally grow it overtime;
+* **use the foot-in-the-door technique**: get an initial, small commitment -- a favour; an admission etc. --  then incrementally grow it overtime;
 * **leverage consistency**: people tend to be **consistent** with earlier commitments, and the effects are very strong;
 * **get public commitments**: people will change their self image to be consistent with commitments, especially public declarations -- e.g. being environmentally conscientious;
-* **incentivise internalised choice**: commitments must be a choice, use *small* incentives to get initial commitments;
+* **incentivise internalised choice**: commitments must be a choice, use *small* incentives to get initial commitments -- the smaller it is, the more it feels like a choice;
 * **leverage exclusivity**: exclusiveness significantly raises perceived value and heightens commitment;
 * **get written commitments**: they serve as a reminder, and social proof;
 
@@ -53,7 +53,7 @@ The end goal of commitment and consistency is to induce a commitment within the 
 * **demonstrate desired behaviour**: people often copy the behaviours of others in times of **uncertainty**, and are mostly affected by those who are **similar** to themselves;
 * **leverage [pluralistic ignorance][pluralistic-ignorance]**: people will often go against their best judgement to conform to perceived group opinion -- this is key;
 * **leverage diffusion of responsibility**: people are more likely to conform to a group if they feel less responsible;
-* **be subtle**: determine where people seek social proof -- sometimes it's as subtle as a favourite horse in horse racing;
+* **be subtle**: determine where people seek social proof -- sometimes it's as subtle as a betting favourite;
 * **maximise group conditions**: arrange groups to maximise social pressure from fans;
 * **be direct and clear**: if you wish to combat pluralistic ignorance;
 
@@ -74,7 +74,7 @@ To combat pluralistic ignorance one has to be direct, clear, and directly assign
 * **be likeable**: likeability increases compliance;
 * **use tactics**: physical attractiveness, similarities, compliments (flattery), familiarity (friendships; prior experience), and contrasting positive associations all work to increase likeability of people or products;
 * **avoid schisms**: schisms can be created arbitrarily through boundaries and competition;
-* **cooperate**: schisms can be remedied with cross group cooperation;
+* **use cooperation**: schisms can be remedied with cross group cooperation;
 
 The likeability of a person has a significant impact on the whether the subject will comply with a request. Friends can be used directly, or indirectly, to make subjects comply with a request -- indirectly in this case means non-physical presence, like a referral.
 
