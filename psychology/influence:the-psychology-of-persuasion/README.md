@@ -2,6 +2,22 @@
 
 ## Summary
 
+### TL;DR
+
+[Overview Mindmap][overview-mindmap]
+
+**Reciprocal concession** is initiated with a gesture or a gift, and can be used to to attain something of your choice in return, often larger -- like a product purchase, or a referral. The initial gesture or gift can be in the form of a personalised letter, or a small gift like a flower.
+
+Often, people want to be **consistent** with their initial **commitments**. An initial commitment can be small -- like signing a petition, or being "trapped" into making a statement. Commitments can then be incrementally increased over time. Not willing to come across as inconsistent, subjects will often go along with it -- usually because of a changed self image.
+
+People usually conform to group opinion in times of uncertainty, especially if the group demographics are similar to them -- even if their own opinion differs. This can be leveraged to encourage behaviour. **Social proof** is frequently used to convince people to do something -- like make a purchase.
+
+People are biased towards people they like. There are a number of qualities like physical attractiveness, similarities, familiarity, and positive associations that raise the **likeability** of a person. Flattery is extremely effective.
+
+**Authority** carries a lot of weight. For people, this comes in the form of titles, height/size, clothing/uniforms, and trappings. A peculiar form of authority comes with significance -- larger absolute values make objects appear larger. Other symbols that convey significance have the same effect. Most of the symbols of authority can be faked.
+
+**Scarcity** is an age-old tactic that raises the perceived value of something. If something is in higher demand, particularly if there's proof of it, then it is seen as more valuable. Competition also raises perceived value significantly, as does exclusivity -- particularly with regards to information. It all relies on [reactance][reactance] -- buy now while stocks last!
+
 ### 2. Reciprocation
 
 [Mindmap][ch2-mindmap]
@@ -741,6 +757,7 @@ In short, wanting an item for its function should not be influenced by the scarc
 
 </details>
 
+[overview-mindmap]: overview.mm.png?raw=true
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
 [ch3-mindmap]: 3-commitment-and-consistency/mindmap.png?raw=true
