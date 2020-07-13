@@ -140,10 +140,12 @@ Scarcity only increases the **perceived value**, at times, subjects do rate "rar
 
 Unless you want something that is rare and the offer is *genuinely* rare, then it's better to seek the functionality you desire elsewhere. Focus on what you really want -- functionality, or rarity?
 
-<details>
-<summary>Elaborated Notes<summary>
+## Elaborated Notes
 
-## Intro
+<details>
+<summary>Show</summary>
+
+### Intro
 
 The thousands of persuasive tactics (commonly compliance tactics) the author has encountered boil down to 6 simple categories:
 
@@ -158,7 +160,7 @@ There is also a seventh category that the author doesn't cover because he thinks
 
 The author also examines each category for the attribute of people's willingness to say yes without thinking.
 
-## 1. Weapons of Influence
+### 1. Weapons of Influence
 
 [Mindmap][ch1-mindmap]
 
@@ -189,7 +191,7 @@ Humans take shortcuts to evaluating a busy environment, and often use stereotype
 One technique that the book describes anecdotally is a tailor shop owner. A man who pretends to be partially deaf, and during the fitting, when asked for the price of the suit, he would call through to his brother. When the brother replies twice, through lack of hearing, the man would in turn quote an incorrect price to the customer -- half that of what his brother replied. This was an opportunity for the customer, but he was being duped.
 
 The **contrast principle** defines a mechanism alter the perceptions of an object. Example: lifting a lighter object before a heavy object will make the heavier object seem heavier than it actually is. Sales people use this principle by presenting an expensive product before a cheaper product. Not doing so means that when the cheaper object is presented first, this principle will in fact work against you, by making the expensive object seem more expensive. Another example is upselling small add-ons to a large financial purchase, like a car. The small cost for each individual add-on seems like an insignificant burden, but they add up. The trick is to offer them individually, to keep them seemingly small. 
-## 2. Reciprocation
+### 2. Reciprocation
 
 > The rule says that we should repay, in kind, what another person has provided us.
 
@@ -209,7 +211,7 @@ An anecdote in the book describes a situation where the Hare Krishnas flower gif
 
 The reciprocation rule implies some zero-sum, even exchange, but often the exchange can be uneven. One reason is the burden of obligation is felt so negatively, it's often the case that a considerably larger favour can be returned. Another reason is that people who don't reciprocate are viewed negatively in social groups.
 
-### Reciprocal Concessions
+#### Reciprocal Concessions
 
 Another more subtle form of reciprocation is through concessions -- we are likely to reciprocate a concession. The example in the book was a boy scout selling $5 tickets, when the subject refused, the boy scout conceded and offered a $1 chocolate bar instead. The subject felt obligated, and conceded. Sometimes, if a person is being deceptive, the initial offer is actually just a decoy. This is the contrast principle at work.
 
@@ -235,13 +237,13 @@ There are two reasons why this technique works:
 * **responsibility**: the subject feels that they have some control over the concession -- for example, in a negotiation, a concession, to a counter-negotiator, would feel like they were responsible for the result;
 * **satisfaction**: the book describes an experiment, after which, the subjects who were the target for the reject-then-retreat technique recorded more satisfaction with the outcome than the other subjects. Subjects who are satisfied are more likely to engage with further requests.
 
-### Dealing with it
+#### Dealing with it
 
 Being the subject is not easy, it's not clear if the initial offer is genuine, or if it's an attempt to exploit you. Sometimes, a gift is just a gift.
 
 One way to deal with it is to just accept the initial favour, and if it turns out to be a compliance device, then don't feel obligated to comply.
 
-## 3. Commitment and Consistency
+### 3. Commitment and Consistency
 
 > Give an inch and take a mile [idiom]
 
@@ -261,7 +263,7 @@ People will often hide behind **walls of consistency** to protect themselves fro
 
 Toy companies will advertise certain toys prior to Christmas, then under-supply them. They bet on your making promises to your children. For Christmas you will probably have to substitute the toy because it's out of stock, and be true to your promise in January. The consistency principle being leveraged here is the promise made to your children.
 
-### Commitment
+#### Commitment
 
 Aka the **foot-in-the-door** technique.
 
@@ -283,7 +285,7 @@ The larger commitment doesn't always need to be related to the initial one eithe
 
 This is really saying that such commitments can alter one's **self image**. Be careful with small, trivial commitments.
 
-#### Written Commitment
+##### Written Commitment
 
 People use their own actions to define their own beliefs -- self perception. The simple act of writing a statement can change self perception. Such an act can be forced upon people, and anecdotally, the book explains that POWs of the Korean War were forced to write statements. This was a driver to incrementally change a person's self image, and it was very successful.
 
@@ -302,7 +304,7 @@ Some companies use a written commitment as a powerful technique to drastically r
 
 Other companies host testimonial contests where customers would write ~100 words starting with "Why I like [product|brand]..", usually rewarding large prizes to the winner.
 
-#### Public Commitments
+##### Public Commitments
 
 > Public commitments tend to be lasting commitments
 
@@ -310,7 +312,7 @@ Public commitments cause a drive within the subject to look consistent. Inconsis
 
 A study explained in the book describes subjects who either did/or did not commit to a hypothesis by writing it down -- some did write it, some kept it in their head. Those who publicly committed, by writing it down, were by far least likely to change their stance; those who committed only mentally changed their view far more easily.
 
-#### Initiation
+##### Initiation
 
 Initiation ceremonies are found in many cultures -- from tribe in Africa, to fraternities in US colleges. A study by Elliot Aronson and Judson Mills explained that the effect these ceremonies have on participants is a more positive perspective of, and a heightened commitment to, the exclusive group, and a more negative view by those who do not participate in an initiation ceremony. These ceremonies strengthen group bonds.
 
@@ -320,7 +322,7 @@ The book postulates that these initiations are "acts of group survival":
 
 > The loyalty and dedication of those who emerge will increase to a great degree the chances of group cohesiveness and survival.
 
-### Inner Choice
+#### Inner Choice
 
 > It appears that commitments are most effective in changing a person's self-image and future behaviour when they are active, public, and effort-full.
 
@@ -340,7 +342,7 @@ Two studies in the book used the "hidden benefit" of the lowball effect to get s
 
 > It is this tendency to be automatically and unthinkingly consistent that we must be wary of [paraphrased]
 
-### 4. Social Proof
+#### 4. Social Proof
 
 [Mindmap][ch4-mindmap]
 
@@ -395,11 +397,11 @@ The bystander effect appears to occur when there is uncertainty about the situat
 
 Cities appear to have apt conditions for the bystander effect: a fast and uncertain environment; generally more groups; people know each other less.
 
-#### Overcome
+##### Overcome
 
 The enemy is uncertainty. Being embarrassed for being in the wrong or looking foolish are why people stand around looking at each other. For people to overcome that -- uncertainty must be removed. Being direct and clear removes doubt. If you must, pick out an individual and assign a responsibility directly -- this avoids [pluralistic ignorance][pluralistic-ignorance]. Take control, and remove all doubt.
 
-#### Similarity
+##### Similarity
 
 > Without question, when people are uncertain, they are more likely to use others' actions to decide how they themselves should act
 
@@ -419,7 +421,7 @@ The Jonestown suicides were driven by social proof. The **uncertainty** of a mov
 
 > A forceful leader can reasonably expect, however, to persuade some sizeable proportion of group members. Then the raw information that a substantial number of group members has been convinced can, by itself, convince the rest. Thus the most influential leaders are those who know how to arrange group conditions to allow the principle of social proof to work maximally in their favour.
 
-#### Overcome
+##### Overcome
 
 > Most of the time, we don't want to guard against the information that social proof provides. The evidence it offers about how we should act is usually valid and valuable.
 
@@ -429,11 +431,11 @@ An example in the book describing deliberately faked data was instances of compa
 
 An example of genuinely erroneous social proof explained in the book was that sometimes, cars will indicate in traffic jams and pull out, this leads other drivers to assume that there is something to avoid, like a traffic accident, and so many other drivers will do the same. This led to accidents. At the very least, without the assumption, people are just following other people's lead.
 
-#### Reader's Example
+##### Reader's Example
 
 One example written by a reader was that of betting odds. The odds of a horse are calculated through the number of people betting on a horse, and the amount being bet. Someone who is willing to manipulate the situation would put a large bet on an outside odds horse, pushing it up the odds table towards the favourite. Other betters will generally go for the favourite. All these bets on an inferior horse causes the horse with real prospects down the table, and increase of odds. The malicious person will then place a bet on the superior horse. The social proof lies in the favourite horse -- if everyone else thinks it's the favourite, then it must be, right?
 
-### 5. Liking
+#### 5. Liking
 
 [Mindmap][ch5-mindmap]
 
@@ -450,7 +452,7 @@ Joe Girard's two basic rules for selling:
 
 > A fair price, and someone they liked to buy from.
 
-#### Physical Attractiveness
+##### Physical Attractiveness
 
 > A study of the Canadian federal elections found that attractive candidates received more two and a half times as many votes as unattractive candidates.
 > Follow-up research demonstrated that voters do not realise their bias. In fact 73% of Canadian voters surveyed denied in the strongest possible terms that their votes had been influenced by physical appearance; only 14% even allowed for the possibility of such influence.
@@ -465,7 +467,7 @@ These effects work both ways, for both sexes, and works even for same sex -- e.g
 
 Attractive people are also seen as more intelligent.
 
-#### Similarity
+##### Similarity
 
 > Those who wish to be liked in order to increase our compliance can accomplish that purpose by appearing similar to us in any of a wide variety of ways
 
@@ -475,7 +477,7 @@ Background similarities also work -- hobbies, experiences etc. so do things like
 
 > Many sales training programs now urge trainees to "mirror and match" the customer's body posture, mood, and verbal style.
 
-#### Compliments
+##### Compliments
 
 The knowledge of someone liking you can lead to reciprocation, and can be a very effective compliance technique. Flattery and claims of affinity are common tricks.
 
@@ -493,7 +495,7 @@ An experiment in the book found a few things about flattery:
 
 > Apparently we have such an automatically positive reaction to compliments that we can fall victim to someone who uses them in an obvious attempt to win out favour.
 
-#### Familiarity, Contact, and Cooperation
+##### Familiarity, Contact, and Cooperation
 
 > For the most part, we like things that are familiar to us.
 
@@ -513,7 +515,7 @@ Competition has its place too, it's thought that the goal of such cooperative le
 
 Good cop/bad cop works because the good cop is on your side.
 
-#### Conditioning and Association
+##### Conditioning and Association
 
 This chapter starts out with an anecdote that describes how a weatherman is often-times blamed for bad weather -- to the point of threats.
 
@@ -549,7 +551,7 @@ An experiment described in the book showed that students were more likely to ass
 
 > It is not when we have a strong feeling of recognized personal accomplishment that we will seek to bask in reflected glory. Instead, it will be when the prestige (both public and private) is low that we will be intent upon using the success of associated others to help restore image,
 
-### 6. Authority
+#### 6. Authority
 
 [Mindmap][ch6-mindmap]
 
@@ -583,7 +585,7 @@ A successful advertisement campaign described in the book used an actor, who had
 
 Symbols of authority can come in the form of titles, clothes, or trappings -- doctor, professor, lab coats, luxury cars etc.
 
-#### Titles
+##### Titles
 
 People's tone, attitude, and grammar can change in a conversation with an authority figure like a professor -- tending to be more respectful and dull.
 
@@ -599,17 +601,17 @@ An experiment in the book described the tendency of people (nurses in this case)
 
 > None of their considerable medical training or knowledge was engaged in the decision of what to do. Instead, because obedience to legitimate authority had always been the most preferred and efficient action in their work setting, the had become willing to err on the side of automatic obedience.
 
-#### Clothes
+##### Clothes
 
 Clothing of an authority has a significant impact on compliance. One experiment showed that almost 100% of people complied with an odd request when the requester wore a guard's uniform, in contrast to only ~50% when in normal street clothes.
 
 A business suit also conveys authority. One experiment showed that people were 350% more likely to follow a man, at a pedestrian crossing, into traffic if he wore a business suit.
 
-#### Trappings
+##### Trappings
 
 A study in the San Francisco Bay found that drivers (subjects) -- who were stuck behind a study participant's car when it failed to move at a green light -- were less patient with economy cars, and more patient with luxury cars. 50% of motorists waited respectfully behind luxury cars, while most showed impatience with economy cars. Like all the other studies done on authority, when asked (and measured against the study results), people were generally unable to predict correctly how they would react to authority, particularly males -- generally underestimating its effect.
 
-#### How to Say No
+##### How to Say No
 
 A fundamental form of defence is a heightened awareness of authority, and recognition of how easily authority symbols can be faked.
 
@@ -619,7 +621,7 @@ Integrity is another way to legitimise an authority, if they are credentialed, d
 
 The anecdote in the book described a waiter who established himself as an authority who makes a concession, and engaged the rule of reciprocation -- where customers were warned against a certain dish, in return the customers asked for recommendation on wine and desserts. Upping the bill, and his tips at the same time.
 
-### 7. Scarcity
+#### 7. Scarcity
 
 [Mindmap][ch7-mindmap]
 
@@ -637,7 +639,7 @@ A variant of the deadline tactic comes in the form of stock being held for a lim
 
 > Keep the prospects from taking the time to think the deal over by scaring them into believing they can't have it later, which makes them want it now.
 
-#### Psychological Reactance
+##### Psychological Reactance
 
 [Reactance][reactance] is the reaction to someone or something that is limiting, or taking away our choices or freedoms.
 
@@ -700,7 +702,7 @@ An informal study mentioned in the book described three sales pitches from a bee
 
 Pitch number 3 results in a 600% increase in sales, pitch 2 got a 200% increase in sales, and pitch 1 resulted in typical results. It appears that exclusivity, as a form of scarcity, had astounding results.
 
-#### Optimal Conditions
+##### Optimal Conditions
 
 A experiment done by Stephen Worchel showed that going from **abundance to scarcity** increased perceived value. The study showed an experimental group two jars of cookies in sequence:
 
@@ -727,7 +729,7 @@ Sales people will often call prospective buyers who are on the fence to tell the
 
 Analogous to the technique where fishermen cause a feeding frenzy with "chum" bait, only to catch fish who will bite anything in the frenzy, store owners can stir up their own frenzy with [**loss leaders**][loss-leader], which act like chum, and in turn causes people to snap up more profitable products.
 
-#### How to Say No
+##### How to Say No
 
 > The joy is not in experiencing a scarce commodity but in possessing it.
 
