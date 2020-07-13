@@ -6,15 +6,30 @@
 
 [Mindmap][ch2-mindmap]
 
+* **use reciprocal concession**: aka the **reject-then-retreat technique** -- the initial offer *can*  be small and simple if need be;
+    * **leverage receipt obligation**: there is a perceived obligation to *receive* gifts;
+    * **reciprocation obligation**: is felt by receivers and it's overpowering;
+    * **satisfaction**: subjects report greater satisfaction with concessions, because they feel they have some control over it;
+    * **choose what's reciprocated**: another smaller deal, or **referrals** for example;
+* **use the contrast principle**: the larger the initial offer, the more likely the second one will be successful;
+    * e.g. showing expensive items first;
+
 **Reciprocation** is the technique of providing a (solicited/unsolicited) favour with the intent on receiving something you want in return -- typically something larger. It's possible to choose the favour you want in return. How much the initiator is liked has little effect on the likelihood of reciprocation. Refusing a favour can induce a form of reciprocation, in that there is a lack of obligation to reciprocate.
 
-**Reciprocal concession** occurs when an initial offer is made, rejected, and a second, more reasonable offer is accepted -- this leverages the **contrast principle**. This is also known as the reject-then-retreat technique. The larger the initial offer/demand (within reason), the more likely the second offer/demand will be accepted.  This is thought to work because the subject feels some **responsibility** over the concession. The subject also feels more **satisfied** with the outcome than those asked outright.
+**Reciprocal concession** occurs when an initial offer is made, rejected, and a second, more reasonable offer is accepted -- this leverages the **contrast principle**. This is also known as the **reject-then-retreat** technique. The larger the initial offer/demand (within reason), the more likely the second offer/demand will be accepted.  This is thought to work because the subject feels some **responsibility** over the concession. The subject also feels more **satisfied** with the outcome than those asked outright. This technique has a demonstrable success of ~76% (vs 29%), with 85% of respondents committing to follow-up obligations.
 
 ### 3. Commitment and Consistency
 
 [Mindmap][ch3-mindmap]
 
 > If I can get you to make a commitment, I will have set the stage for your automatic and ill considered consistency to that commitment.
+
+* **use the foot-in-the-door technique**: get an initial, small commitment -- favour, admission etc. --  then incrementally grow it overtime;
+* **leverage consistency**: people tend to be **consistent** with earlier commitments, and the effects are very strong;
+* **get public commitments**: people will change their self image to be consistent with commitments, especially public declarations -- e.g. being environmentally conscientious;
+* **incentivise internalised choice**: commitments must be a choice, use *small* incentives to get initial commitments;
+* **leverage exclusivity**: exclusiveness significantly raises perceived value and heightens commitment;
+* **get written commitments**: they serve as a reminder, and social proof;
 
 Getting an initial **commitment** is called the **foot-in-the-door technique**, and subjects are more likely to be **consistent** with their initial commitments. The initial commitment can be small, and incrementally grown overtime, eventually reaching a very large commitment. Commitments can come in many forms -- asking a favour, a hug, or a purchase etc. The initial commitment doesn't have to be related to the true intention, it can be just a token gesture. 
 
@@ -34,15 +49,21 @@ The end goal of commitment and consistency is to induce a commitment within the 
 
 > In general, when we are unsure of ourselves, when the situation is unclear or ambiguous, when uncertainty reigns, we are most likely to look to and accept the actions of others as correct.
 
-* The best leaders know how to arrange group conditions to maximise social acceptance;
-* people look to the behaviours of others in times of **uncertainty**, and are mostly affected by those who are **similar** to themselves;
-* people will often go against their best judgement to conform to groups (assuming ideal conditions) -- **pluralistic ignorance**;
-* social proof can be extremely subtle;
-* sometimes following the majority is a good thing, but it makes you vulnerable. Other times it's not a good thing.
+* **use lots of social proof**: the greater the degree of social proof, the stronger it is;
+* **demonstrate desired behaviour**: people often copy the behaviours of others in times of **uncertainty**, and are mostly affected by those who are **similar** to themselves;
+* **leverage [pluralistic ignorance][pluralistic-ignorance]**: people will often go against their best judgement to conform to perceived group opinion -- this is key;
+* **leverage diffusion of responsibility**: people are more likely to conform to a group if they feel less responsible;
+* **be subtle**: determine where people seek social proof -- sometimes it's as subtle as a favourite horse in horse racing;
+* **maximise group conditions**: arrange groups to maximise social pressure from fans;
+* **be direct and clear**: if you wish to combat pluralistic ignorance;
 
 Social proof essentially seeks the conformity of subject to the majority (group or individuals), especially in times of **uncertainty**, *particularly* when the group members are **similar** to the subject. Uncertainty causes people to look to the actions of others to determine their own behaviour, and [pluralistic ignorance][pluralistic-ignorance], which plays a key role, is what convinces the subject (particularly when in a group of strangers) to conform, even against their own beliefs (this effect will apply to each member of the group). The greater the degree of social proof, the more convincing it is. Sometimes social proof is sought by those whose beliefs are diminishing, in a desperate attempt to validate them.
 
 Other factors besides *uncertainty* and *similarity* can influence behaviour, for example, [diffusion of responsibility][diffusion-of-responsibility], which reduces the responsibility of each group member and makes them less likely to act.
+
+When describing group arrangements:
+
+> A forceful leader can reasonably expect, however, to persuade some sizeable proportion of group members. Then the raw information that a substantial number of group members has been convinced can, by itself, convince the rest. Thus the most influential leaders are those who know how to arrange group conditions to allow the principle of social proof to work maximally in their favour.
 
 To combat pluralistic ignorance one has to be direct, clear, and directly assign responsibilities, or to challenge fake or erroneous evidence. Being direct, countering hard, or by refusing to follow others overcomes these effects. It's difficult, because sometimes social proof is very subtle, e.g. betting on a favourite horse. The favourite is defined by the total power of bet purchases, which isn't obvious. Sometimes you don't even realise that you're following the majority -- *that* makes you vulnerable.
 
@@ -118,6 +139,9 @@ One tactic is [loss leader][loss-leader]. This is a limited number item that get
 Scarcity only increases the **perceived value**, at times, subjects do rate "rare items" no better than their abundant counterparts.
 
 Unless you want something that is rare and the offer is *genuinely* rare, then it's better to seek the functionality you desire elsewhere. Focus on what you really want -- functionality, or rarity?
+
+<details>
+<summary>Elaborated Notes<summary>
 
 ## Intro
 
@@ -288,7 +312,7 @@ A study explained in the book describes subjects who either did/or did not commi
 
 #### Initiation
 
-Initiation ceremonies are found in many cultures -- from tribe sin Africa, to fraternities in US colleges. A study by Elliot Aronson and Judson Mills explained that the effect these ceremonies have on participants is a more positive perspective of, and a heightened commitment to, the exclusive group, and a more negative view by those who do not participate in an initiation ceremony. These ceremonies strengthen group bonds.
+Initiation ceremonies are found in many cultures -- from tribe in Africa, to fraternities in US colleges. A study by Elliot Aronson and Judson Mills explained that the effect these ceremonies have on participants is a more positive perspective of, and a heightened commitment to, the exclusive group, and a more negative view by those who do not participate in an initiation ceremony. These ceremonies strengthen group bonds.
 
 > Persons who go through a great deal of trouble or pain to attain something tend to value it more highly than persons who attain the same thing with minimum of effort -- Aronson and Mills
 
@@ -712,6 +736,8 @@ Simply put, ask yourself what you want out of the product, and realise it won't 
 The book describes an example of a man who buys cars at rock bottom prices from newspaper articles, cleans and then relists them, using better copy to generate substantial interest, and the scarcity principle to actually sell the car when buyers showed up. He scheduled all potential buyers at roughly the same (stacked up; overlapping) time to engage competition. If any of the earlier competitors passed on the deal, the next competitor would be aware of another competitor after him once his inspection had started. This ensured a certain deal at some time.
 
 In short, wanting an item for its function should not be influenced by the scarcity principle, but wanting an item simply for ownership of that item, should be influenced by it. Know what it is that you want, and don't let scarcity push you into buying an item that is functionally the same as many other available options.
+
+</details>
 
 [ch1-mindmap]: 1-weapons-of-influence/mindmap.png?raw=true
 [ch2-mindmap]: 2-reciprocation/mindmap.png?raw=true
