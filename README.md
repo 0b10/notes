@@ -16,6 +16,13 @@
     * [  ] What are the use cases for each database type?
     * [  ] How is each database type categorised?
 
+#### CDN
+
+* [ ] How to CDNs work?
+    * [  ] How do they relate to object storage, is there a relation?
+    * [  ] How much do CDNs generally cost?
+    * [  ] How is a CDN integrated with a web app?
+
 ### Business
 
 * [ ] What are the most relevant business models?
