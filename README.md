@@ -23,6 +23,21 @@
     * [  ] How much do CDNs generally cost?
     * [  ] How is a CDN integrated with a web app?
 
+#### Project Management
+
+* [  ] How does project management work?
+    * [  ] What are the best tools?
+    * [  ] How to create time estimates?
+    * [  ] How to manage people for projects?
+    * [  ] What are the different approaches?
+        * [  ] How does agile work?
+            * [  ] What are the primary concepts of agile?
+            * [  ] How does agile work for a solo developer?
+            * [  ] Is it a strict process, or can parts be selectively used?
+            * [  ] What tools are available for agile?
+                * [  ] What categories of tools exist?
+                * [  ] Which are commonly thought of as the best tools for agile?
+
 ### Business
 
 * [ ] What are the most relevant business models?
