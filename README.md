@@ -2,6 +2,20 @@
 
 ## Study Path
 
+### Development
+
+#### Messaging
+
+* [  ] What are the different messaging systems out there?
+    * [  ] What are the benefits of each one?
+    * [  ] Which are the simplest and easiest to implement and maintain?
+
+#### Databases
+
+* [  ] What are the different databases out there?
+    * [  ] What are the use cases for each database type?
+    * [  ] How is each database type categorised?
+
 ### Business
 
 * [ ] What are the most relevant business models?
