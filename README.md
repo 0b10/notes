@@ -16,6 +16,14 @@
     * [  ] What are the use cases for each database type?
     * [  ] How is each database type categorised?
 
+#### CI/CD
+
+* [  ] What are the differences between continuous delivery, continuous deployment, and continuous integration?
+* [  ] What are the best approaches for each?
+* [  ] What are the differences between the tools for each?
+* [  ] What are the benefits for each?
+* [  ] When to use each?
+
 #### CDN
 
 * [ ] How to CDNs work?
