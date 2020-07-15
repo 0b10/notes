@@ -77,6 +77,11 @@
         * What are the most common headers?
         * What are the most important headers?
         * What kinds of authentication use headers?
+        * Authorisation header
+            * How does it work?
+            * What are its weaknesses and strengths?
+            * Who/what typically uses it?
+            * How commonly is it used?
     * What are the various response codes?
         * What are the most common codes?
         * How are the codes used exactly by the browser? (besides displaying an error code)
@@ -111,6 +116,34 @@
             * [ ] What tools are available for agile?
                 * [ ] What categories of tools exist?
                 * [ ] Which are commonly thought of as the best tools for agile?
+
+#### Security
+
+* IAM
+    * What is IAM?
+    * What makes use of IAM?
+        * What services, platforms, software, architectures do/should use IAM? 
+    * Is there a standard set of tools to use for IAM - if so, what are they?
+        * What tools are used for what particular job? 
+    * How is IAM utilised for internal calls within the cloud?
+        * Is this a necessity for all calls?
+    * How do microservices use IAM?
+        * Should all inter-service communications use IAM, at all times?
+    * What are the use cases for IAM?
+        * When should it be used?
+    * Is there a better approach?
+    * What are the drawbacks of IAM?
+    * What are the benefits of IAM?
+* Authentication
+    * What are the different authentication methods?
+    * What are the pros and cons for each?
+    * What are the caveats for each?
+    * How easy is it to implement each?
+    * How secure is each?
+    * What are JWTs?
+        * Are they the recommended way to authenticate with a server?
+    * What is the recommended way?
+        * What is the least likely to result in security issues? 
 
 ### Business
 
