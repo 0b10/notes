@@ -79,8 +79,8 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 
 [google-signatures]: https://cloud.google.com/storage/docs/authentication/signatures
 [google-cookie-auth]: https://cloud.google.com/storage/docs/access-control/cookie-based-authentication
-[ceph](https://en.wikipedia.org/wiki/Ceph_(software))
-[iam-cso](https://www.csoonline.com/article/2120384/what-is-iam-identity-and-access-management-explained.html)
-[ibm-curl](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-curl#curl-token)
-[digital-ocean-authentication](https://developers.digitalocean.com/documentation/spaces/#authentication)
-[amz-sig-v4](https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html)
+[ceph]: https://en.wikipedia.org/wiki/Ceph_(software)
+[iam-cso]: https://www.csoonline.com/article/2120384/what-is-iam-identity-and-access-management-explained.html
+[ibm-curl]: https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-curl#curl-token
+[digital-ocean-authentication]: https://developers.digitalocean.com/documentation/spaces/#authentication
+[amz-sig-v4]: https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html
