@@ -89,6 +89,13 @@
         * Are there any efficiency gains/losses between each?
         * What are the use cases, or justifications, for using each?
             * Should older revisions be considered for older browsers?
+* What is CORS?
+    * What is its use case?
+    * How to side-step CORS for development?
+    * How to develop a secure CORS policy?
+        * Is there a framework?
+        * What specifically enables cross origin requests?
+    * What are browsers' default behaviour with regards to CORS? 
 
 #### Project Management
 
