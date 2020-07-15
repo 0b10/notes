@@ -70,6 +70,26 @@
         * How to use authentication?
         * How to verify the authenticity (sign) of files?
 
+#### HTTP
+
+* What does the HTTP spec look like?
+    * What are the various headers, and their significance?
+        * What are the most common headers?
+        * What are the most important headers?
+        * What kinds of authentication use headers?
+    * What are the various response codes?
+        * What are the most common codes?
+        * How are the codes used exactly by the browser? (besides displaying an error code)
+    * What are the differences between spec revisions?
+        * How commonly used is each revision?
+        * Should new apps focus on newer revisions?
+        * How do old browsers factor into this?
+        * What are the security benefits between each?
+        * What are the security drawbacks between each?
+        * Are there any efficiency gains/losses between each?
+        * What are the use cases, or justifications, for using each?
+            * Should older revisions be considered for older browsers?
+
 #### Project Management
 
 * [ ] How does project management work?
