@@ -1,5 +1,11 @@
 # Notes
 
+## TOC
+
+1. [Dev](dev)
+    1. [Cloud](dev/cloud)
+        1. [Object storage](dev/cloud/object-storage.md): A cost-effective, scalable, binary storage solution.
+
 ## Study Path
 
 ### Development
@@ -65,10 +71,6 @@
     * [ ] Is it expensive?
     * [ ] What technologies are supported with serverless?
     * [ ] Does it create vendor lock-in?
-* [x] What is object storage? [Notes][object-storage]
-    * [ ] How to secure objects?
-        * How to use authentication?
-        * How to verify the authenticity (sign) of files?
 
 #### HTTP
 
@@ -219,9 +221,3 @@
 * [ ] How does a business get funding?
     * [ ] Are there any technique, or expected approaches for a pitch?
         * [ ] Are there any frameworks or templates for making a pitch? 
-
-[object-storage]: dev/cloud/object-storage.md
-[ceph]: https://en.wikipedia.org/wiki/Ceph_(software)
-[s3-docs]: https://docs.aws.amazon.com/s3/index.html
-[ibm-object-storage-alternatives]: https://www.ibm.com/cloud/learn/object-storage#toc-object-vs--lmw3qq1s
-[ibm-object-storage]: https://www.ibm.com/cloud/learn/object-storage
