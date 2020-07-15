@@ -33,6 +33,12 @@ Objects are stored in an object database that has two tables -- the object direc
 
 For instance, you can do a lookup with the object and collection ids.
 
+This whole process is abstracted with some kind of interface, realised through a software daemon, that can be containerised and scaled. [Ceph][ceph], for example, uses a daemon with an Amazon S3 HTTP interface, and a backing database.
+
+### Alternatives
+
+**Block level storage** (raw file system blocks), and **file storage** are alternatives to storing binary data. Neither of these solutions are as scalable as object storage, but block level storage provides more performance and space efficiency.
+
 ### Solutions
 
 Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazon S3 protocol.
@@ -46,3 +52,4 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 [Object Storage | IBM](https://www.ibm.com/cloud/learn/object-storage)
 [Choose the Right Data Store | Microsoft](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
 [What is Object Storage | Alibaba](https://www.alibabacloud.com/knowledge/what-is-object-storage)
+[ceph]: https://en.wikipedia.org/wiki/Ceph_(software)

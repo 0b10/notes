@@ -66,29 +66,6 @@
     * [ ] What technologies are supported with serverless?
     * [ ] Does it create vendor lock-in?
 * [x] What is object storage? [Notes][object-storage]
-    * [x] What are its use cases?
-        * Analytics, big data, binary storage (web assets; media), archives, backups.
-    * [x] Are they cost effective?
-        * Yes.
-    * [x] Why choose object storage over a database or a file system?
-        * Because it stores binary data, is cost efficient, and very scalable.
-    * [x] How do they work?
-        * [x] What's the process for reading/writing to the system?
-            * There are three indices -- the primary method is a collection id + an object id.
-        * [x] What is the backing technology?
-            * A database.
-            * [x] How is data stored?
-                * In a database table.
-            * [x] What is the underlying system process?
-                * A software daemon, and a backing database -- [for example][ceph]
-    * [x] Does it create vendor lock-in?
-        * No, most implementations use the [Amazon S3 protocol][s3-docs]
-    * [x] What kind of performance do they achieve?
-        * Slower than block storage, but offers disaster recovery and great scalability.
-    * [x] What are the alternatives?
-        * [File storage and block storage][ibm-object-storage-alternatives] -- neither are as scalable.
-    * [x] How common is it that they are used?
-        * Very, especially for cloud based apps -- [see here][ibm-object-storage].
     * [ ] How to secure objects?
         * How to use authentication?
         * How to verify the authenticity (sign) of files?
