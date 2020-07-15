@@ -65,6 +65,19 @@
     * [ ] Is it expensive?
     * [ ] What technologies are supported with serverless?
     * [ ] Does it create vendor lock-in?
+* [ ] What is object storage?
+    * [ ] What are its use cases?
+    * [ ] Are they cost effective?
+    * [ ] Why choose object storage over a database or a file system?
+    * [ ] How do they work?
+        * [ ] What's the process for reading/writing to the system?
+        * [ ] What is the backing technology?
+            * [ ] How is data stored?
+            * [ ] What is the underlying system process?
+    * [ ] Does it create vendor lock-in?
+    * [ ] What kind of performance do they achieve?
+    * [ ] What are the alternatives?
+    * [ ] How common is it that they are used?
 
 #### Project Management
 
