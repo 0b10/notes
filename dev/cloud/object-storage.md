@@ -41,11 +41,11 @@ Without going too deep on this topic here, each provider has their own approach 
 
 Examples:
 
-IBM uses an [API key and a token][ibm-curl].
+**IBM** uses an [API key and a token][ibm-curl].
 
-[Digital Ocean][digital-ocean-authentication] aims to be compatible with Amazon S3 for all API requests -- including authentication. It uses a combination of an HTTP Authorisation header and [Amazon's Signature v4][amz-sig-v4]. It also makes use of a basic ACL, with roles for users and the public.
+[**Digital Ocean**][digital-ocean-authentication] aims to be compatible with Amazon S3 for all API requests -- including authentication. It uses a combination of an HTTP Authorisation header and [Amazon's Signature v4][amz-sig-v4]. It also makes use of a basic ACL, with roles for users and the public.
 
-Google uses [IAM][google-iam] policy which defines roles and access -- to authenticated, and public users alike. They also allows conditional, role-based access based on object metadata -- like timestamp, type etc. [Signed URLs][google-signatures] can also be used to provide time-gated access to resources, along with a number of other approaches that provide a greater degree of security. [Cookie authentication][google-cookie-auth] is used where having a Google account is a requirement to access resources.
+**Google** uses [IAM][google-iam] policy which defines roles and access -- to authenticated, and public users alike. They also allow conditional, role-based access based on object metadata -- like timestamp, type etc. [Signed URLs][google-signatures] can also be used to provide time-gated access to resources, along with a number of other approaches that provide a greater degree of security. [Cookie authentication][google-cookie-auth] is used where having a Google account is a requirement to access resources.
 
 ### Alternatives
 
@@ -57,7 +57,7 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 
 ### Pricing
 
-**Pricing** is usually volume based -- e.g. you pay per unit storage per month.
+Pricing is usually volume based -- e.g. you pay per unit storage per month.
 
 ## Glossary
 
@@ -67,6 +67,7 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 
 * [Authentication | Digital Ocean][digital-ocean-authentication]
 * [Ceph | Wikipedia][ceph]
+* [IAM | Google][google-iam]
 * [IAM | SCO Online][iam-cso]
 * [Curl Authentication | IBM][ibm-curl]
 * [Choose the Right Data Store | Microsoft](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
@@ -77,6 +78,7 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 * [What is Object Storage | Alibaba](https://www.alibabacloud.com/knowledge/what-is-object-storage)
 
 
+[google-iam]: https://cloud.google.com/storage/docs/access-control/iam
 [google-signatures]: https://cloud.google.com/storage/docs/authentication/signatures
 [google-cookie-auth]: https://cloud.google.com/storage/docs/access-control/cookie-based-authentication
 [ceph]: https://en.wikipedia.org/wiki/Ceph_(software)
