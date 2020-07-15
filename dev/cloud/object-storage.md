@@ -49,7 +49,7 @@ Ceph, Minio, Openio.io, SwiftStack/OpenStack Swift -- all of which use the Amazo
 
 ## Sources
 
-[Object Storage | IBM](https://www.ibm.com/cloud/learn/object-storage)
-[Choose the Right Data Store | Microsoft](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
-[What is Object Storage | Alibaba](https://www.alibabacloud.com/knowledge/what-is-object-storage)
-[ceph](https://en.wikipedia.org/wiki/Ceph_(software))
+* [Object Storage | IBM](https://www.ibm.com/cloud/learn/object-storage)
+* [Choose the Right Data Store | Microsoft](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
+* [What is Object Storage | Alibaba](https://www.alibabacloud.com/knowledge/what-is-object-storage)
+* [ceph](https://en.wikipedia.org/wiki/Ceph_(software))
