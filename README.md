@@ -8,6 +8,19 @@
 
 ## Study Path
 
+### Sequence
+
+1. Cloud / hosting
+1. Agile
+1. HTTP
+1. CSS
+1. SCSS
+1. HTML
+1. Project management
+1. Databases
+1. Testing
+1. Wordpress
+
 ### Development
 
 #### Messaging
@@ -21,6 +34,22 @@
 * What are the different databases out there?
     * What are the use cases for each database type?
     * How is each database type categorised?
+    * What are strengths and weaknesses of each database type?
+* How to architect a database?
+    * How to do data modelling?
+        * What tools are used?
+    * What are the best practices?
+* SQL
+    * What is the strength of SQL? 
+    * What are the best frameworks/ORMs/query builders for Node?
+    * What are the best security practices?
+    * How to build efficient queries?
+        * How to leverage indexing?
+        * What do bad queries look like?
+    * How does data modelling affect query efficiency?
+* General
+    * How to use triggers?
+        * Why would you use triggers, what are some common use cases? 
 
 #### CI/CD
 
@@ -29,6 +58,9 @@
 * What are the differences between the tools for each?
 * What are the benefits for each?
 * When to use each?
+* How does Gitlab fit into all of this?
+    * How does it compare to competition?
+    * How much is Gitlab?
 
 #### CDN
 
@@ -62,15 +94,32 @@
         * Can it be done without vendor lock-in?
         * Can it be affordable?
 * What is serverless useful for?
-    * Why would I use it over a hosted solution?
     * How do serverless solutions work underneath?
         * How do they communicate?
         * What does the process look like, how does it run?
             * Is it a container?
-    * Is it insane to run a SaaS using serverless tech?
     * Is it expensive?
     * What technologies are supported with serverless?
-    * Does it create vendor lock-in?
+    * Can vendor lock-in be mitigated?
+    * Why is monitoring and debugging harder?
+    * OpenFaaS
+      * How is it billed on Digital Ocean?
+
+#### HTML
+
+* Accessibility
+    * What are all of the supported elements?
+    * What are the best tools used to assessing accessibility?
+        * Is there a framework for assessment, if not, develop one?
+    * What are the key takeaways form WCAG? 
+* What are ALL of the elements, and their function?
+* What are the best industry practices?
+* What are the best frameworks, and tools?
+* DOM
+    * What are the most commonly used events?
+    * What are ALL of the events, and how what is a good reference resource?
+    * How to get data from a form?
+    * How does the shadow DOM work exactly?
 
 #### HTTP
 
@@ -146,6 +195,16 @@
         * Are they the recommended way to authenticate with a server?
     * What is the recommended way?
         * What is the least likely to result in security issues? 
+
+#### Style
+
+* CSS3
+    * What are the main features?
+        * How to use variables?
+* SCSS 
+* Boostrap
+    * (v5): What is the utilities API?
+    * How does SCSS fit in?
 
 ### Business
 
