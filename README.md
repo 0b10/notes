@@ -93,17 +93,9 @@
     * What are the costs for managed scaling?
         * Can it be done without vendor lock-in?
         * Can it be affordable?
-* What is serverless useful for?
-    * How do serverless solutions work underneath?
-        * How do they communicate?
-        * What does the process look like, how does it run?
-            * Is it a container?
-    * Is it expensive?
-    * What technologies are supported with serverless?
+* Serverless?
     * Can vendor lock-in be mitigated?
     * Why is monitoring and debugging harder?
-    * OpenFaaS
-      * How is it billed on Digital Ocean?
 
 #### HTML
 
