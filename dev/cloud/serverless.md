@@ -134,7 +134,7 @@ In conclusion, unless a thorough cost analysis is done and measured against reve
 
 ## Glossary
 
-* [**GB-second**][ibm-pricing]: is a cost unit that calculates the cost of serverless function, per second per gigabyte of memory;
+* [**GB-second**][ibm-pricing]: is a unit that expresses the cost of serverless function, per second per gigabyte of memory;
 
 ## Sources
 
