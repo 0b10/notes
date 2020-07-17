@@ -99,6 +99,18 @@
 * Serverless?
     * Can vendor lock-in be mitigated?
     * Why is monitoring and debugging harder?
+* Kubernetes
+    * What problems does it solve?
+        * What are its range of features?
+    * How does it differ from a load balancer?
+    * How complex is it to set up and use?
+        * How hard is it to maintain?
+        * How much effort is it to implement?
+        * Can some of the complexities be reduced, or eliminated?
+    * What are its strengths and weaknesses?
+    * Who uses it?
+    * How does it work underneath?
+    * What are the alternatives?
 
 #### HTML
 
