@@ -5,7 +5,9 @@
 1. [Dev](dev)
     1. [Cloud](dev/cloud)
         1. [Object storage](dev/cloud/object-storage.md): A cost-effective, scalable, binary storage solution.
-        1. [Serverless](dev/cloud/serverless.md): A very scalable, on-demand solution for bursty requests and processing;
+        1. [Serverless](dev/cloud/serverless.md): A very scalable, on-demand solution for bursty requests and processing.
+        1. DigitalOcean
+            1. [Provisioning with Terraform](dev/cloud/misc/digital-ocean-infrastructure.notes.md): Use Terraform and learn some architectural basics.
 
 ## Study Path
 
