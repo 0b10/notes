@@ -1,6 +1,4 @@
-
-* can vendor lock-in be mitigated?
-* why is monitoring and debugging harder?
+# Serverless
 
 ## Summary
 
@@ -136,7 +134,7 @@ In conclusion, unless a thorough cost analysis is done and measured against reve
 
 ## Glossary
 
-* [*GB-second**][ibm-pricing]: is a cost unit that calculates the cost of serverless function, per second per gigabyte of memory;
+* [**GB-second**][ibm-pricing]: is a cost unit that calculates the cost of serverless function, per second per gigabyte of memory;
 
 ## Sources
 
