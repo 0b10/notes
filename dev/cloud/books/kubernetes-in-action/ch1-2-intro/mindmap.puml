@@ -1,0 +1,70 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Yellow        \t: Has an image with the same name.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Kubernetes in Action: Overview
+
+*[#lightgreen] Kubernetes
+
+** Worker nodes
+*** Contains pods
+**** Contains containers
+*** Components
+****[#F88] Kubelet
+***** Manages containers
+****** Instructs to pull image
+***** Interfaces with master API server
+****[#F88] Kube proxy
+***** Load balancer
+****** Containers
+******* Single IP exposed
+****** Service discovery via API server
+****** Environment variables
+****** DNS
+****[#F88] Container runtime
+***** Docker
+***** rkt
+
+** Master nodes
+*** Components
+****[#F88] Scheduler
+***** Assign application to worker nodes
+***** Optimises for resource utilisation
+****[#F88] API server
+***** Service discovery
+***** Interface
+****** Worker nodes use it
+****[#F88] etcd
+***** Configuration storage
+****[#F88] Controller manager
+***** Controls worker nodes
+****** Start / stop / replication etc.
+*** High availability
+
+left side
+
+** Application
+*** Deployment
+**** Images
+***** Application components
+**** Description
+***** Service exposure
+***** Relationships between services
+***** Co-location requirements
+
+*** Running
+**** Master node
+***** API Server
+****** Processes description
+***** Scheduler
+****** Worker node assignment
+**** Worker node
+***** Kubelet
+****** Pulls image
+
+@endmindmap
