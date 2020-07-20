@@ -111,6 +111,9 @@
     * Who uses it?
     * How does it work underneath?
     * What are the alternatives?
+    * What are pods?
+        * What are they for?
+        * What do they contain?
 
 #### HTML
 

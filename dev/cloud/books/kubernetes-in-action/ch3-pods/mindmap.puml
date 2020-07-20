@@ -1,0 +1,94 @@
+@startmindmap
+
+legend left
+  <&key> Key
+  Light Green   \t: Start.
+  Light Blue    \t: A CLI command.
+  Yellow        \t: Has an image with the same name.
+  Light Red     \t: Notable nodes.
+endlegend
+
+title Kubernetes in Action: Pods
+
+*[#lightgreen] Pods
+** Purpose
+*** To group contianers
+**** Shared Linux namespaces
+*** Scaling
+
+** Supported features
+***[#F88] Port forwarding
+**** For debugging
+***[#F88] A single IP for all replicas
+***[#F88] Labels
+**** Can be changed while running
+**** Changed via manifest
+**** Conditional selectors
+***[#F88] Namespaces
+**** Manage complex applications
+**** Unnecessary for small applications
+**** Avoid object name collisions
+**** All namespaced pods can be deleted
+***[#F88] Scaling
+***[#F88] Co-location of containers
+***[#F88] Inter-pod IP Communication
+**** No NAT
+***[#F88] Annotations
+**** Descriptive fields
+**** Not for selecting pods
+**** Caveat
+***** Avoid name collisions
+
+** Management
+***[#F88] Help
+****[#lightblue] kubectl explain pods
+***[#F88] Create
+**** Automatically runs pods
+**** Manifest
+***** Consumed by the master node's API server
+***** Sections
+****** Metadata
+******* nodeSelector
+******** Schedule pods to run on specific nodes
+****** Spec
+**** Kubectl
+***[#F88] Destroy
+**** Automatically stops pods
+
+left side
+
+** Properties
+*** Logical host
+*** Basic unit for scaling
+*** A deployable unit
+*** Internal containers share Linux namespaces
+**** Except the file system namespace
+***** Use volumes
+*** Inter-pod isolation
+*** Auto-managed
+**** Start
+***** When created
+***** Auto-scales / auto-replication
+**** Stop
+***** When destroyed
+**** Efficient resource utilisation
+***** Master node scheduler
+
+** When to co-locate containers
+***[#F88] Highly coupled containers
+**** IPC required
+**** Sidecar
+**** Constituents
+***[#F88] Infrequently if possible
+***[#F88] They need to scale together
+
+** Logging
+*** Containers
+****[#F88] Log to stdout/stderr
+**** Persistence 
+***** Use a centralised solution
+***[#lightblue] kubectl logs <pod name>
+
+
+
+@endmindmap
