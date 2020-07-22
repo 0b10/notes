@@ -5,6 +5,11 @@
 1. [Overview](#ch1and2): Viewing the entire datacenter as a single computational resource.
 1. [Overview](#ch1and2)
 1. [Pods](#ch3): A scalable, manageable group of containers that share a Linux namespace.
+1. [Replication](#ch4): Use resource types to define replication controllers, that manage pods through health checks, failures, and scaling.
+
+## Misc
+
+[Kubectl Cheatsheet][kubectl-cheatsheet]
 
 ## Chapter 1 and 2: Overview<a name="ch1and2"></a>
 
@@ -127,8 +132,77 @@ Containers should **log** to stdout/stderr, and sent to a centralised location i
 
 **Labels** are necessary to target commands to replicated/groups of pods, nodes, or any Kubernetes object -- the nodeSelector in the manifest file can be used schedule pods to run on nodes with specific labels, for example. **Annotations** only provide descriptive information, and **namespaces** are used to alleviate name collisions in large complex organisations. 
 
+## Chapter 4: Replication<a name="ch4"></a>
+
+[Detailed Notes][ch4-notes]
+
+### Replication Q&A
+
+* Container health
+    * How are health checks conducted?
+        * The Kubelet is entirely responsible for container health checks;
+        * probes (**HTTP; TCP Socket; binary Exec**) are sent to each container at regular intervals -- **HTTP response codes, socket timeouts, exit codes**, these all express health;
+        * repeatedly, the **Kubelet** will repeat health checks before taking action;
+    * How does Kubernetes react to unhealthy pods?
+        * The Kubelet **restarts the container**, the master node is not responsible in any way;
+* ReplicationController
+    * What is it?
+        * It's a controller that's [part of the ControllerManager][controller-manager] in the master node;
+    * What is it's purpose?
+        * It's responsible for keeping an exact number of replica pods constant -- bringing up or destroying pods in the process;
+    * How do they work?
+        * The API server allows clients to observe resources. When a pod is destroyed, the (observing) controller is notified. The controller then measures the number of pods, and acts accordingly;
+        * they target pods with a **specified label**, and monitor them;
+    * How are they created?
+        * A pod manifest allows the specification of a *kind* property, which is the kind of controller it essentially uses;
+        * replication count, a template, and a name are also required;
+    * When should they be used? 
+* ReplicationSets
+    * What are replication sets?
+        * Almost identical to ReplicationContollers, except that they make use of more expressive selectors in the manifest; 
+    * What is their purpose?
+        * To replace RCs -- RSs should be used as a priority over RCs;
+    * How do they work?
+        * Exactly the same as RCs; 
+    * When should they be used?
+        * Whenever you intend to use an RC; 
+    * How do they differ from replication controllers?
+        * The make use of more expressive selector declarations in the manifest;
+* DaemonSets
+    * What are DaemonSets?
+        * A pod, or a group of pods, that are run on each node, or a subset of nodes; 
+    * What is their purpose?
+        * To run some system level process on each selected node;
+    * How do they work?
+        * The DaemonSet controller works just like an RC, except there are no replicas at the node level, just across the cluster -- once per node; 
+    * When should they be used?
+        * Any time you have a task that requires exactly one set of pods per node is the domain for a DS;
+* Periodic jobs
+    * How are periodic jobs run?
+        * By specifying a **CronJob** resource;
+    * Why would you want to do this?
+        * You may want to run a Job at set intervals;
+* Scheduling a pod to run a single job then stopping
+    * How is it achieved?
+        * Through a **Job** resource
+    * Why would you want to do this?
+        * Not all tasks are suited to long-living resources, some only need to be done once -- perhaps in response to some event;
+
+### Summary
+
+**Manifests** are of a certain **kind**, in this example they are of the **ReplicationController kind**.  A ReplicationController is part of the **ControllerManager** in the **control plane**, and monitors pods to ensure that the exact number of **replicas** are kept running at all times -- essentially becoming fully responsible for the described pods. Pods come under the RC management when they have a **label** that matches the **selector** described in the **manifest**.
+
+**ReplicaSets** are identical to ReplicationContollers, except that they make use of a more expressive selector declaration to pick pods that should be controlled by the RS.
+
+**Jobs** are one-time tasks that run through to completion, perhaps in response to some event. They are useful in cases where the job *must* complete, because you can specify what to do in the event of job failure in the manifest. **CronJobs** are Job resources, except that they can be scheduled, and failed if the jobs fail to execute within a time frame. Because both make use of a Job resource, and job pods aren't destroyed when they complete, it's possible to pull logs from them.
+
+Pod failures are determined through **health checks** which are simple **HTTP, TCP Socket, or Exec** probes, where the latter is a simple binary execution. Various methods are used to determine failure, like return codes, timeouts etc. These health checks are done at regular intervals, and repeated when failure is detected. It takes some amount of time for Kubernetes to determine and respond to the failure, which is by design.
+
 [ch1-2-mindmap]: ch1-2-intro/mindmap.png?raw=true
 [ch1-2-notes]: ch1-2-intro/README.md
 [ch3-mindmap]: ch3-pods/mindmap.png?raw=true
 [ch3-notes]: ch3-pods/README.md
+[ch4-notes]: ch4-replication/README.md
 [arch-overview]: ch1-2-intro/arch-overview.jpg?raw=true
+[controller-manager]: https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
+[kubectl-cheatsheet]: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
