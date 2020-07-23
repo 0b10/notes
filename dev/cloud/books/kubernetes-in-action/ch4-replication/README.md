@@ -1,9 +1,5 @@
 # Kubernetes in Action: Replication
 
-
-## Summary
-
-
 ## Prerequisite Knowledge
 
 * pods are automatically scheduled to run on nodes;

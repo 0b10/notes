@@ -6,10 +6,14 @@
 1. [Overview](#ch1and2)
 1. [Pods](#ch3): A scalable, manageable group of containers that share a Linux namespace.
 1. [Replication](#ch4): Use resource types to define replication controllers, that manage pods through health checks, failures, and scaling.
+1. [Services](#ch5): Services sit in front of groups of pods and serve as a port of call for clients. Load balancers, DNS etc -- these are all services.
 
 ## Misc
 
 [Kubectl Cheatsheet][kubectl-cheatsheet]
+
+* `-o jsonpath='{.foo[*].bar....}'` can be used to select specific fields from the config/manifest
+* `-o json` or `-o yaml` can be used to output the config|manifest
 
 ## Chapter 1 and 2: Overview<a name="ch1and2"></a>
 
@@ -198,11 +202,36 @@ Containers should **log** to stdout/stderr, and sent to a centralised location i
 
 Pod failures are determined through **health checks** which are simple **HTTP, TCP Socket, or Exec** probes, where the latter is a simple binary execution. Various methods are used to determine failure, like return codes, timeouts etc. These health checks are done at regular intervals, and repeated when failure is detected. It takes some amount of time for Kubernetes to determine and respond to the failure, which is by design.
 
+## Chapter 5: Services<a name="ch5"></a>
+
+[Detailed Notes][ch5-notes]
+
+**Services** point to pods via **Endpoints** -- pod connection metadata. Endpoints are typically automatically created via Services, but you can specify them manually. Services are created whenever you **expose** some ports on a pod. To make your life easier, you should **specify a name for all mapped ports** -- that way the ports can be changed at a later date and it doesn't break anything. All services and ports are included into a pod's **environment variables** -- assuming the pod is spun up after service creation. All pods also resolve to an **internal DNS** server pod (see the container's resolv.conf), and all services can be reached via an **FQDN** -- which is the preferred method. DNS servers can be viewed with **`kubectl get po --namespace kube-system`** and a pod manifest **dnsPolicy** key can be used to control the DNS policy.
+
+**NodePort, LoadBalancer, ExternalName**, and **Ingress** are all **_types_ of Services**, they are all declared as Services in a manifest, but their *type* is specified.
+
+**ExternalName** is used to map one domain to another. It doesn't create a pod, but creates a **CNAME record** in the **DNS server** (pod). It's used to map internal pods to external services.
+
+**NodePort** is a service (contains Endpoints), and it **opens a specified port on every node**, and maps them to **Endpoints**. Internal pods can make requests to this service via a ClusterIP, which is distributed evenly across nodes. NodePort does **SNAT**, so the recipient doesn't know the requester's IP, which can create problems, so **be warned**.
+
+**LoadBalancer** is a generalisation of NodePort except that it offers a **publicly accessible IP**. To get it working you specify a selector for targeted pods, the public port to bind to, and the pod port to forward to. This works at the **IP level**, and each pod group needs its own LoadBalancer.
+
+**Ingress** is also a load balancer, and a generalisation of NodePort. The difference between Ingress and LoadBalancer is that Ingress **works at the HTTP level** and on **request URLs** instead of IPs. This allows it to run as a **single instance**, and target multiple pod groups via their selectors. It does **TLS termination**, and should contain the **certificate and private key** -- which is stored in a **Secret** resource, and declared in the manifest. Automated certificate signing is possible through a **CertificateSigningRequest** resource. It's also possible that it can forward to **external services** via a domain name.
+
+=> generalises | X-- composes
+
+(**LoadBalancer|Ingress**) => **NodePort** => **Service** X-- **Endpoint** 
+
+All services should have a **readiness probes** explicitly defined, otherwise application component will be declared ready instantly, when that isn't necessarily the case. These probes come in the form of **HTTP, TCP, or Exec probes**, and they will return some kind of code. Readiness probes should be used **to determine health** -- the application component's ability to accept and respond to connections -- in contrast to liveness probes, which just determine if a pod is alive. Readiness probes are declared in the controller manifest, and are periodically run, which is configurable. These probes can be run in such a way that allows for application components to do **internal health checks** -- which should probably do some mock test of integration points.
+
+
 [ch1-2-mindmap]: ch1-2-intro/mindmap.png?raw=true
 [ch1-2-notes]: ch1-2-intro/README.md
 [ch3-mindmap]: ch3-pods/mindmap.png?raw=true
 [ch3-notes]: ch3-pods/README.md
 [ch4-notes]: ch4-replication/README.md
+[ch5-notes]: ch5-services/README.md
+
 [arch-overview]: ch1-2-intro/arch-overview.jpg?raw=true
 [controller-manager]: https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
 [kubectl-cheatsheet]: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
